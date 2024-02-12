@@ -1,0 +1,480 @@
+{
+  "title": "星穹铁道 最佳光锥提名",
+  "items": [
+    "最没用的",
+    "最有用的",
+    "最大的",
+    "最小的",
+    "最烧的",
+    "最想鸿儒的",
+    "最想被鸿儒的",
+    "最被高估的",
+    "最被低估的",
+    "最富的",
+    "最聪明的",
+    "最小心眼的",
+    "最有潜力的"
+  ],
+  "data": [
+    {
+      "id": "2373",
+      "name": "铭记于心的约定",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2024/02/05/299598919/6bc84cba844763764733220e63617351_7818286245456547207.png"
+    },
+    {
+      "id": "2313",
+      "name": "重塑时光之忆",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2024/02/01/279865110/00bbc376819d45337fab7c0b99a76275_3842938752242320994.png"
+    },
+    {
+      "id": "2088",
+      "name": "纯粹思维的洗礼",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2024/01/08/299598919/016e497ac50a2697d4ee784b7492a66a_3034879153928027814.png"
+    },
+    {
+      "id": "1324",
+      "name": "只需等待",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/07/17/75216984/5f1bf27ebc6b3b14af3d7d1ddb38544c_5143709784015005658.png"
+    },
+    {
+      "id": "2325",
+      "name": "好戏开演",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2024/02/04/279865110/d838b1fe02fa6552a7e0731dc9bfd6ff_714564013491787331.png"
+    },
+    {
+      "id": "2324",
+      "name": "银河沦陷日",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2024/02/04/279865110/8e568cc661edbba36dccfd7aab4aa23f_6926556805403944403.png"
+    },
+    {
+      "id": "2323",
+      "name": "织造命运之线",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2024/02/04/279865110/463b555043a06e5ae4b2cc1f515be050_660574749595837478.png"
+    },
+    {
+      "id": "2322",
+      "name": "最后的赢家",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2024/02/04/279865110/371f607d7cec5c790b96ffbbf83a7c63_7773387794281375618.png"
+    },
+    {
+      "id": "2321",
+      "name": "美梦小镇大冒险",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2024/02/04/279865110/5558d70e28a7477f105e16082707f7bb_1684285748467259776.png"
+    },
+    {
+      "id": "2320",
+      "name": "何物为真",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2024/02/04/279865110/0081cd55105b9fa6a14aa507b7e006bf_510009601232383441.png"
+    },
+    {
+      "id": "2319",
+      "name": "在火的远处",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2024/02/04/279865110/942124cdf2810db3a5a744468eef79eb_5368028484572427577.png"
+    },
+    {
+      "id": "2089",
+      "name": "镜中故我",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/12/22/279865110/455b5ac67a8fb518d11dfaefd9919954_923415315140351433.png"
+    },
+    {
+      "id": "1215",
+      "name": "到不了的彼岸",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/07/13/289862258/b230af76464567febb528f81cd42af55_3801257214990882600.png"
+    },
+    {
+      "id": "2037",
+      "name": "片刻，留在眼底",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/12/02/279865110/22e4fcb6c630afa5150cb877ceaefee9_6715015884786943256.png"
+    },
+    {
+      "id": "1943",
+      "name": "惊魂夜",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/11/14/75216984/8716fb56dab47898b199efdeee7429cd_6502223927102685776.png"
+    },
+    {
+      "id": "1964",
+      "name": "嘿，我在这儿",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/11/14/75216984/913d45761df3ecb16a1a791d0c71f08f_7363791401001638005.png"
+    },
+    {
+      "id": "1719",
+      "name": "烦恼着，幸福着",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/09/28/279865110/5c27f6469c8f6cbc0f8d3a637f508fcb_8994176428901610012.png"
+    },
+    {
+      "id": "1718",
+      "name": "此身为剑",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/09/28/279865110/674f7d66f3ebebba7bdde1a9b147f8c6_8983549427707830477.png"
+    },
+    {
+      "id": "1677",
+      "name": "她已闭上双眼",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/09/14/299598919/980142e9d7b3fd4601871218a976b094_2498352422057351881.png"
+    },
+    {
+      "id": "1475",
+      "name": "比阳光更明亮的",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/08/29/299598919/816736c11157648def4f8b6bf162ae95_8798102895578930822.png"
+    },
+    {
+      "id": "1477",
+      "name": "孤独的疗愈",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/08/30/299598919/ad4610a3eb1119434e81fcb18a09ffcf_2323593616305840041.png"
+    },
+    {
+      "id": "1186",
+      "name": "棺的回响",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/06/25/75216984/84681803d44bf49e64dea0614fd8314c_5069703933594350266.png"
+    },
+    {
+      "id": "1086",
+      "name": "雨一直下",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/06/07/75216984/19d2ce8c2b7fd11250aa2228657bc1a8_8812699812054632518.png"
+    },
+    {
+      "id": "361",
+      "name": "拂晓之前",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/23/288909604/b86adf39133901e18d7a8f59232e6582_8771849236216103651.png"
+    },
+    {
+      "id": "268",
+      "name": "于夜色中",
+      "avatar": "https://uploadstatic.mihoyo.com/sr-wiki/2022/09/06/75216984/162b37d19e0022e2e08f16ccd6b4fc51_426963160968759967.png"
+    },
+    {
+      "id": "871",
+      "name": "记忆的质料",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/23/288909604/6c9a00848e84decbbb3fd8f4f67b8b9c_2727185627475096382.png"
+    },
+    {
+      "id": "870",
+      "name": "星海巡航",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/23/288909604/a620e0d780a7221f9af3329057008d8d_7467053012403055548.png"
+    },
+    {
+      "id": "844",
+      "name": "记一位星神的陨落",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/22/288909604/b09189c0e990c26c6caf94e9d6dd35e5_7638206982336402466.png"
+    },
+    {
+      "id": "390",
+      "name": "银河铁道之夜",
+      "avatar": "https://uploadstatic.mihoyo.com/sr-wiki/2022/08/26/214441058/c3eb2a5c631d5a9a6c8f0557daba1abc_6820284773822477586.png"
+    },
+    {
+      "id": "273",
+      "name": "以世界之名",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/23/288909604/5f1094f9d27a9d14ce09c20177cee0c2_6109047475532171012.png"
+    },
+    {
+      "id": "362",
+      "name": "但战斗还未结束",
+      "avatar": "https://uploadstatic.mihoyo.com/sr-wiki/2022/05/31/77234787/0ff1702b1afcb8f1dc72beac5cfe6d6c_7815089831769904534.png"
+    },
+    {
+      "id": "388",
+      "name": "制胜的瞬间",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/23/288909604/63f0526a33f937cba2e6a26c69a0453c_8940600272974158516.png"
+    },
+    {
+      "id": "384",
+      "name": "无可取代的东西",
+      "avatar": "https://uploadstatic.mihoyo.com/sr-wiki/2022/05/28/77234787/30141f0d649c2f16f6156a0f6a7d3500_3601729372944208751.jpg"
+    },
+    {
+      "id": "567",
+      "name": "时节不居",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/23/288909604/64e8d547966025e215a7c9c1dac8e64d_3092683375285531384.png"
+    },
+    {
+      "id": "566",
+      "name": "如泥酣眠",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/23/288909604/726272cbc5eb8f4a3b208d64d6dd87ec_705272260518831196.png"
+    },
+    {
+      "id": "1087",
+      "name": "新手任务开始前",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/06/07/75216984/f7d5f6631e33ae3e8371e5df1f0e4e23_6650657887486714451.png"
+    },
+    {
+      "id": "856",
+      "name": "天才们的休憩",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/22/288909604/8bb693e0234353b7257c10c4fa5ba525_7746589046831229.png"
+    },
+    {
+      "id": "855",
+      "name": "春水初生",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/22/288909604/bcd7b3372f476de893cd6d38a80f3062_4333793480843184090.png"
+    },
+    {
+      "id": "854",
+      "name": "点个关注吧！",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/22/288909604/44d587d770c0f03dd12ca658032ff4c8_6929037495728953851.png"
+    },
+    {
+      "id": "853",
+      "name": "决心如汗珠般闪耀",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/22/288909604/ca00ba5d7f3617459cd41e61608562bc_7845648197473643507.png"
+    },
+    {
+      "id": "852",
+      "name": "过往未来",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/22/288909604/01129be5ad37b37856d7a4aaea06c29d_6320351344614159741.png"
+    },
+    {
+      "id": "851",
+      "name": "舞！舞！舞！",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/22/288909604/9c8d4f8da446954874b644635d504f3b_6094276680035098823.png"
+    },
+    {
+      "id": "850",
+      "name": "延长记号",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/22/288909604/838b0886fdb11e38b54490d751914e41_2370994718955175697.png"
+    },
+    {
+      "id": "849",
+      "name": "我们是地火",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/22/288909604/a3c94615c5c25002ef33ecfcdc6186be_7184778651654550338.png"
+    },
+    {
+      "id": "848",
+      "name": "宇宙市场趋势",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/22/288909604/71383f84afd4c9ae9e8361990759d61e_8674612763222669427.png"
+    },
+    {
+      "id": "847",
+      "name": "等价交换",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/22/288909604/a9d87580313873c772687a036d957ca5_3653850924610670993.png"
+    },
+    {
+      "id": "846",
+      "name": "此时恰好",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/22/288909604/cebc57824ec7eb94eaf4a6452947ee32_5492151004671579728.png"
+    },
+    {
+      "id": "845",
+      "name": "在蓝天下",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/22/288909604/edbad0db7164d3ed5b91cb82f14b49d1_5045667464515306732.png"
+    },
+    {
+      "id": "548",
+      "name": "汪！散步时间！",
+      "avatar": "https://uploadstatic.mihoyo.com/sr-wiki/2022/10/29/26436641/fbf6fc9ad6370ee4085e3cd4cab4aa82_7383214087904933952.png"
+    },
+    {
+      "id": "549",
+      "name": "无处可逃",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/23/288909604/4b55a4ec5d69e1e272b79849d6472238_1594405313874389868.png"
+    },
+    {
+      "id": "547",
+      "name": "重返幽冥",
+      "avatar": "https://uploadstatic.mihoyo.com/sr-wiki/2022/10/29/26436641/16f9a030ed7fe854f3fffbecdac8a789_688821343271629863.png"
+    },
+    {
+      "id": "546",
+      "name": "今日亦是和平的一日",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/23/288909604/4ca74a16203b5fa8ea1406a1f420a6f0_4391146475806241313.png"
+    },
+    {
+      "id": "545",
+      "name": "早餐的仪式感",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/23/288909604/78969b6e9fdd78edd914a97568b562b9_323702472035878845.png"
+    },
+    {
+      "id": "544",
+      "name": "镂月裁云之意",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/23/288909604/225f632897b42ade1feebc2c5c1262be_8333715399872944180.png"
+    },
+    {
+      "id": "543",
+      "name": "后会有期",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/23/288909604/1809d5835d8abf2027dc8054b57cce12_2838048902112011082.png"
+    },
+    {
+      "id": "542",
+      "name": "这就是我啦！",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/23/288909604/6bf95e149a50eb30aa73e55e6cac71ea_7771201821614161187.png"
+    },
+    {
+      "id": "541",
+      "name": "暖夜不会漫长",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/23/288909604/8aba345258d5e65a655026c57d367df6_8770046218708904591.png"
+    },
+    {
+      "id": "200",
+      "name": "别让世界静下来",
+      "avatar": "https://uploadstatic.mihoyo.com/sr-wiki/2022/08/23/2563764/49d4e09db83b5210a9126f6185b60be6_4668910007538970935.png"
+    },
+    {
+      "id": "222",
+      "name": "秘密誓心",
+      "avatar": "https://uploadstatic.mihoyo.com/sr-wiki/2022/08/29/75216984/e3c4f6a43e826c094d57dfd419ded965_6525176981100070009.png"
+    },
+    {
+      "id": "244",
+      "name": "与行星相会",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/23/288909604/610b8d5d97ff6b19b4224ae4ce536b40_1274111712135333947.png"
+    },
+    {
+      "id": "316",
+      "name": "论剑",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/23/288909604/e59a9461b4e9b49fef5cd161a58fe83c_7908377394686813154.png"
+    },
+    {
+      "id": "419",
+      "name": "朗道的选择",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/23/288909604/c3549f42391ed39528c223762a605612_6617000146091259338.png"
+    },
+    {
+      "id": "225",
+      "name": "猎物的视线",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/23/288909604/d14092f8f3967ed9135fd01b881f6701_6087540964279426418.png"
+    },
+    {
+      "id": "360",
+      "name": "同一种心情",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/23/288909604/3db1adccf735651ef7ad4f0471490221_8921754694445153737.png"
+    },
+    {
+      "id": "196",
+      "name": "「我」的诞生",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/23/288909604/f4d317263de340acdc8c16dd32bff0cf_3161238771766216041.png"
+    },
+    {
+      "id": "241",
+      "name": "鼹鼠党欢迎你",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/23/288909604/dbfff3889135f0ab55da50781b7ea1b0_3070654287580623531.png"
+    },
+    {
+      "id": "242",
+      "name": "记忆中的模样",
+      "avatar": "https://uploadstatic.mihoyo.com/sr-wiki/2022/09/06/75216984/76fb08a0a6d6b3c0eb758e444f46e7fe_6929962503724089309.png"
+    },
+    {
+      "id": "66",
+      "name": "唯有沉默",
+      "avatar": "https://uploadstatic.mihoyo.com/sr-wiki/2022/09/06/214441058/1bf2de267ae2cf2756933c74f7f5a7fd_1839914649064583617.png"
+    },
+    {
+      "id": "271",
+      "name": "余生的第一天",
+      "avatar": "https://uploadstatic.mihoyo.com/sr-wiki/2022/08/23/2563764/828fc434f583b8e598a0c4db5984fa8b_1637464810330840430.png"
+    },
+    {
+      "id": "224",
+      "name": "晚安与睡颜",
+      "avatar": "https://uploadstatic.mihoyo.com/sr-wiki/2022/09/06/214441058/a20cea1a2fe68a4b997a7cc7a16fb796_2817300940510919170.png"
+    },
+    {
+      "id": "221",
+      "name": "一场术后对话",
+      "avatar": "https://uploadstatic.mihoyo.com/sr-wiki/2022/08/26/214441058/50bca736f242b12981bc2d5b7fd32fa8_8738251059749981508.png"
+    },
+    {
+      "id": "325",
+      "name": "灵钥",
+      "avatar": "https://uploadstatic.mihoyo.com/sr-wiki/2022/08/26/214441058/aef0bcf91a7bc19eacdbbb840a566cd5_3616243833527089287.png"
+    },
+    {
+      "id": "329",
+      "name": "轮契",
+      "avatar": "https://uploadstatic.mihoyo.com/sr-wiki/2022/08/26/214441058/6a590377472413e93bed8f254840ee95_8813678829921502533.png"
+    },
+    {
+      "id": "332",
+      "name": "渊环",
+      "avatar": "https://uploadstatic.mihoyo.com/sr-wiki/2022/08/26/214441058/ee097daf30ac3b82ebfc402e86fdea16_8769133387003716326.png"
+    },
+    {
+      "id": "334",
+      "name": "戍御",
+      "avatar": "https://uploadstatic.mihoyo.com/sr-wiki/2022/08/26/214441058/9d5d6a13cdd3f37ec1dd786cffcef9a1_7171408403708928969.png"
+    },
+    {
+      "id": "324",
+      "name": "乐圮",
+      "avatar": "https://uploadstatic.mihoyo.com/sr-wiki/2022/08/26/214441058/4c21619d5c6da1b91cdf3988e4271e38_5136605109291904647.png"
+    },
+    {
+      "id": "336",
+      "name": "嘉果",
+      "avatar": "https://uploadstatic.mihoyo.com/sr-wiki/2022/08/26/214441058/e3a8b11095d09ffd30a384edb30c53e1_7115258679854828674.png"
+    },
+    {
+      "id": "327",
+      "name": "离弦",
+      "avatar": "https://uploadstatic.mihoyo.com/sr-wiki/2022/08/26/214441058/7a4ef77a86f3d9698162cbbf43ebe39b_1231368233417073474.png"
+    },
+    {
+      "id": "328",
+      "name": "智库",
+      "avatar": "https://uploadstatic.mihoyo.com/sr-wiki/2022/08/26/214441058/db268078abf176b92761082c898c74f6_6324390636099990616.png"
+    },
+    {
+      "id": "330",
+      "name": "齐颂",
+      "avatar": "https://uploadstatic.mihoyo.com/sr-wiki/2022/08/26/214441058/a0e33307479d3d2f6c4052f87273742a_495707204067447655.png"
+    },
+    {
+      "id": "333",
+      "name": "幽邃",
+      "avatar": "https://uploadstatic.mihoyo.com/sr-wiki/2022/08/26/214441058/1dd9868815d8d047e80eb8df7b26f44d_8650289934785145895.png"
+    },
+    {
+      "id": "331",
+      "name": "琥珀",
+      "avatar": "https://uploadstatic.mihoyo.com/sr-wiki/2022/08/26/214441058/455562fd29b975988b00574be088a092_7038680443277840142.png"
+    },
+    {
+      "id": "323",
+      "name": "天倾",
+      "avatar": "https://uploadstatic.mihoyo.com/sr-wiki/2022/08/26/214441058/b6fd9a4431fd3e930b21bfda3884e95a_1116873662782404820.png"
+    },
+    {
+      "id": "335",
+      "name": "物穰",
+      "avatar": "https://uploadstatic.mihoyo.com/sr-wiki/2022/08/26/214441058/ddf01515f63426ea04ae807e4c80bfbd_600220384768444495.png"
+    },
+    {
+      "id": "326",
+      "name": "锋镝",
+      "avatar": "https://uploadstatic.mihoyo.com/sr-wiki/2022/08/26/214441058/3741c377b76d70d7ff7e1090322c5b6f_573968269338747080.png"
+    },
+    {
+      "id": "556",
+      "name": "俱殁",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/22/103492603/e96e55825c223bc667c2f995e09e5a13_797242412374073605.png"
+    },
+    {
+      "id": "555",
+      "name": "相抗",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/22/103492603/a3d3d6e0b655d58e10752fa296219822_7441016946411320344.png"
+    },
+    {
+      "id": "554",
+      "name": "睿见",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/22/103492603/fbd5a54695e361b18e21554b7be7ec00_267654002039095312.png"
+    },
+    {
+      "id": "553",
+      "name": "蕃息",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/22/103492603/4ebe95ba0b652249d4df240a2c9e42e7_7231210955498652445.png"
+    },
+    {
+      "id": "552",
+      "name": "开疆",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/22/103492603/0478a6b7a63534e7051a037edf6efa43_2902336058745709661.png"
+    },
+    {
+      "id": "551",
+      "name": "匿影",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/22/103492603/c12a85671c8615f396cb25d5a300a3bf_2155787248353687245.png"
+    },
+    {
+      "id": "550",
+      "name": "调和",
+      "avatar": "https://act-upload.mihoyo.com/sr-wiki/2023/04/22/103492603/4256ba1c0a919e369ead3b0eb9584f97_132881214849310263.png"
+    }
+  ]
+}

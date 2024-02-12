@@ -13,5 +13,16 @@
     "name": "APEX 武器",
     "id": "apex/weapons",
     "avatar": "https://apexlegends.wiki.gg/images/thumb/2/28/Apex_Legends_Icon.png/36px-Apex_Legends_Icon.png"
+  },
+  {
+    "name": "星穹铁道 角色",
+    "id": "star_rail/roles",
+    "avatar": "https://www.miyoushe.com/_nuxt/img/game-sr.4f80911.jpg"
+  },
+  {
+    "name": "星穹铁道 光锥",
+    "id": "star_rail/light_cone",
+    "avatar": "https://www.miyoushe.com/_nuxt/img/game-sr.4f80911.jpg"
   }
+  
 ]
