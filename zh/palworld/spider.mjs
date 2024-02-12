@@ -25,4 +25,21 @@ const data = nodes.map((td, id) => {
     }
 })
 
-await fs.writeFile(__dirname + '/pals.json', JSON.stringify(data, null, 2))
+const title = "幻兽帕鲁 最佳帕鲁提名"
+
+const items = [
+    "最喜欢的帕鲁",
+    "最讨厌的帕鲁",
+    "最可爱的帕鲁",
+    "最香草的帕鲁",
+    "最罕见的帕鲁",
+    "最爱偷懒的帕鲁",
+    "最佳劳模",
+    "最难抓的帕鲁",
+    "最美味的帕鲁",
+    ""
+]
+
+await fs.writeFile(__dirname + '/pals.json', JSON.stringify({
+    title, items, data
+}, null, 2))
