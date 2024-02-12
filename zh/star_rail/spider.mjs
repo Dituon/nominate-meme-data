@@ -16,26 +16,30 @@ const { data: raw } = await axios.get(URL)
 const rolesData = raw.data.list[0].children[0].list.map(role => {
     const {
         content_id: id,
-        icon: avatar,
+        // ext,
         title: name,
+        icon: avatar
     } = role
+    // const extData = JSON.parse(ext)
     return {
         id: '' + id,
         name,
         avatar
+        // avatar: extData.c_18.picture.list[0]
     }
 })
 
 const lightConeData = raw.data.list[0].children[1].list.map(role => {
     const {
         content_id: id,
-        icon: avatar,
+        ext,
         title: name,
     } = role
+    const extData = JSON.parse(ext)
     return {
         id: '' + id,
         name,
-        avatar
+        avatar: extData.c_19.picture.list[0]
     }
 })
 
