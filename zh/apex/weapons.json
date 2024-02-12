@@ -1,0 +1,237 @@
+{
+  "title": "Apex 最佳传奇提名",
+  "items": [
+    "最喜欢的武器",
+    "最害怕的武器",
+    "最常用的武器",
+    "最常见的武器",
+    "最不想捡到的武器",
+    "击杀最多的武器",
+    "被击杀最多的武器",
+    "最难用的武器",
+    "最简单的武器",
+    "最常制造的武器"
+  ],
+  "data": [
+    {
+      "id": 0,
+      "name": "HAVOC Rifle",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/e/ec/HAVOC_Rifle.png/214px-HAVOC_Rifle.png"
+    },
+    {
+      "id": 1,
+      "name": "VK-47 Flatline",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/f/f1/VK-47_Flatline.png/180px-VK-47_Flatline.png"
+    },
+    {
+      "id": 2,
+      "name": "Hemlok Burst AR",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/7/74/Hemlok_Burst_AR.png/166px-Hemlok_Burst_AR.png"
+    },
+    {
+      "id": 3,
+      "name": "R-301 Carbine",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/f/f1/R-301_Carbine.png/218px-R-301_Carbine.png"
+    },
+    {
+      "id": 4,
+      "name": "Nemesis Burst AR",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/b/b8/Nemesis_Burst_AR.png/251px-Nemesis_Burst_AR.png"
+    },
+    {
+      "id": 5,
+      "name": "Alternator SMG",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/e/e9/Alternator_SMG.png/86px-Alternator_SMG.png"
+    },
+    {
+      "id": 6,
+      "name": "Prowler Burst PDW",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/b/bf/Prowler_Burst_PDW.png/115px-Prowler_Burst_PDW.png"
+    },
+    {
+      "id": 7,
+      "name": "R-99 SMG",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/d/d5/R-99_SMG.png/162px-R-99_SMG.png"
+    },
+    {
+      "id": 8,
+      "name": "Volt SMG",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/6/60/Volt_SMG.png/190px-Volt_SMG.png"
+    },
+    {
+      "id": 9,
+      "name": "C.A.R. SMG",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/1/13/C.A.R._SMG.png/203px-C.A.R._SMG.png"
+    },
+    {
+      "id": 10,
+      "name": "Devotion LMG",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/8/8c/Devotion_LMG.png/242px-Devotion_LMG.png"
+    },
+    {
+      "id": 11,
+      "name": "L-STAR EMG",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/0/01/L-STAR_EMG.png/162px-L-STAR_EMG.png"
+    },
+    {
+      "id": 12,
+      "name": "M600 Spitfire",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/f/f2/M600_Spitfire.png/219px-M600_Spitfire.png"
+    },
+    {
+      "id": 13,
+      "name": "Rampage LMG",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/2/20/Rampage_LMG.png/252px-Rampage_LMG.png"
+    },
+    {
+      "id": 14,
+      "name": "G7 Scout",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/e/eb/G7_Scout.png/200px-G7_Scout.png"
+    },
+    {
+      "id": 15,
+      "name": "Triple Take",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/d/d9/Triple_Take.png/172px-Triple_Take.png"
+    },
+    {
+      "id": 16,
+      "name": "30-30 Repeater",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/8/86/30-30_Repeater.png/248px-30-30_Repeater.png"
+    },
+    {
+      "id": 17,
+      "name": "Bocek Compound Bow",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/0/02/Bocek_Compound_Bow.png/85px-Bocek_Compound_Bow.png"
+    },
+    {
+      "id": 18,
+      "name": "Charge Rifle",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/2/2b/Charge_Rifle.png/111px-Charge_Rifle.png"
+    },
+    {
+      "id": 19,
+      "name": "Longbow DMR",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/4/46/Longbow_DMR.png/209px-Longbow_DMR.png"
+    },
+    {
+      "id": 20,
+      "name": "Kraber .50-Cal Sniper",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/f/f5/Kraber_.50-Cal_Sniper.png/251px-Kraber_.50-Cal_Sniper.png"
+    },
+    {
+      "id": 21,
+      "name": "Sentinel",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/9/91/Sentinel.png/203px-Sentinel.png"
+    },
+    {
+      "id": 22,
+      "name": "EVA-8 Auto",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/9/97/EVA-8_Auto.png/189px-EVA-8_Auto.png"
+    },
+    {
+      "id": 23,
+      "name": "Mastiff Shotgun",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/c/c9/Mastiff_Shotgun.png/232px-Mastiff_Shotgun.png"
+    },
+    {
+      "id": 24,
+      "name": "Mozambique Shotgun",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/a/ae/Mozambique_Shotgun.png/136px-Mozambique_Shotgun.png"
+    },
+    {
+      "id": 25,
+      "name": "Peacekeeper",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/6/64/Peacekeeper.png/250px-Peacekeeper.png"
+    },
+    {
+      "id": 26,
+      "name": "RE-45 Auto",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/2/25/RE-45_Auto.png/78px-RE-45_Auto.png"
+    },
+    {
+      "id": 27,
+      "name": "P2020",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/c/c1/P2020.png/88px-P2020.png"
+    },
+    {
+      "id": 28,
+      "name": "Wingman",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/0/09/Wingman.png/117px-Wingman.png"
+    },
+    {
+      "id": 29,
+      "name": "Arc Star",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/d/d8/Arc_Star.svg/65px-Arc_Star.svg.png"
+    },
+    {
+      "id": 30,
+      "name": "Frag Grenade",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/c/c6/Frag_Grenade.svg/65px-Frag_Grenade.svg.png"
+    },
+    {
+      "id": 31,
+      "name": "Thermite Grenade",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/a/ae/Thermite_Grenade.svg/65px-Thermite_Grenade.svg.png"
+    },
+    {
+      "id": 32,
+      "name": "Throwing Knife",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/d/d1/Throwing_Knife.png/260px-Throwing_Knife.png"
+    },
+    {
+      "id": 33,
+      "name": "Heart Stealer",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/a/a2/Heart_Stealer.png/86px-Heart_Stealer.png"
+    },
+    {
+      "id": 34,
+      "name": "Buster Sword R2R5",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/1/19/Buster_Sword_R2R5_Icon.svg/221px-Buster_Sword_R2R5_Icon.svg.png"
+    },
+    {
+      "id": 35,
+      "name": "Mozambique Shotgun/April Fools'",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/a/ae/Mozambique_Shotgun.png/136px-Mozambique_Shotgun.png"
+    },
+    {
+      "id": 36,
+      "name": "Ol' Nessie",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/5/54/Ol%27_Nessie.png/140px-Ol%27_Nessie.png"
+    },
+    {
+      "id": 37,
+      "name": "Mozambeam",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/d/d5/Mozambeam.png/138px-Mozambeam.png"
+    },
+    {
+      "id": 38,
+      "name": "Mozamblam",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/7/7c/Mozamblam.png/127px-Mozamblam.png"
+    },
+    {
+      "id": 39,
+      "name": "Mozambrrr",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/0/00/Mozambrrr.png/138px-Mozambrrr.png"
+    },
+    {
+      "id": 40,
+      "name": "Mozamburst",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/9/9c/Mozamburst.png/143px-Mozamburst.png"
+    },
+    {
+      "id": 41,
+      "name": "P2020/April Fools'",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/c/c1/P2020.png/88px-P2020.png"
+    },
+    {
+      "id": 42,
+      "name": "Rampart",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/5/54/Sheila.png/154px-Sheila.png"
+    },
+    {
+      "id": 43,
+      "name": "Vantage",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/a/a9/A-13_Sentry.png/233px-A-13_Sentry.png"
+    }
+  ]
+}

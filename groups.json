@@ -3,5 +3,15 @@
     "name": "幻兽帕鲁",
     "id": "palworld/pals",
     "avatar": "https://patchwiki.biligame.com/images/palworld/d/d1/09ag6ma7ej9g1lh175ehcksldajmpmx.png"
+  },
+  {
+    "name": "APEX 传奇",
+    "id": "apex/legends",
+    "avatar": "https://apexlegends.wiki.gg/images/thumb/2/28/Apex_Legends_Icon.png/36px-Apex_Legends_Icon.png"
+  },
+  {
+    "name": "APEX 武器",
+    "id": "apex/weapons",
+    "avatar": "https://apexlegends.wiki.gg/images/thumb/2/28/Apex_Legends_Icon.png/36px-Apex_Legends_Icon.png"
   }
 ]

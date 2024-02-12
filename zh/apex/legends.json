@@ -1,0 +1,141 @@
+{
+  "title": "Apex 最佳传奇提名",
+  "items": [
+    "最喜欢的传奇",
+    "最害怕的传奇",
+    "最常用的传奇",
+    "最常见的传奇",
+    "最佳队友",
+    "最唐队友",
+    "最香草的传奇",
+    "最难用的传奇",
+    "最简单的传奇"
+  ],
+  "data": [
+    {
+      "id": 0,
+      "name": "Bangalore",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/a/a9/Bangalore_Legend_Card.png/179px-Bangalore_Legend_Card.png"
+    },
+    {
+      "id": 1,
+      "name": "Fuse",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/7/78/Fuse_Legend_Card.png/179px-Fuse_Legend_Card.png"
+    },
+    {
+      "id": 2,
+      "name": "Ash",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/6/67/Ash_Legend_Card.png/179px-Ash_Legend_Card.png"
+    },
+    {
+      "id": 3,
+      "name": "Mad Maggie",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/a/a2/Mad_Maggie_Legend_Card.png/179px-Mad_Maggie_Legend_Card.png"
+    },
+    {
+      "id": 4,
+      "name": "Ballistic",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/b/b2/Ballistic_Legend_Card.png/179px-Ballistic_Legend_Card.png"
+    },
+    {
+      "id": 5,
+      "name": "Pathfinder",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/4/40/Pathfinder_Legend_Card.png/179px-Pathfinder_Legend_Card.png"
+    },
+    {
+      "id": 6,
+      "name": "Wraith",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/b/ba/Wraith_Legend_Card.png/179px-Wraith_Legend_Card.png"
+    },
+    {
+      "id": 7,
+      "name": "Octane",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/4/43/Octane_Legend_Card.png/179px-Octane_Legend_Card.png"
+    },
+    {
+      "id": 8,
+      "name": "Revenant",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/2/20/Revenant_Reborn_Legend_Card.png/179px-Revenant_Reborn_Legend_Card.png"
+    },
+    {
+      "id": 9,
+      "name": "Horizon",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/0/0a/Horizon_Legend_Card.png/179px-Horizon_Legend_Card.png"
+    },
+    {
+      "id": 10,
+      "name": "Valkyrie",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/9/98/Valkyrie_Legend_Card.png/179px-Valkyrie_Legend_Card.png"
+    },
+    {
+      "id": 11,
+      "name": "Bloodhound",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/a/ab/Bloodhound_Legend_Card.png/179px-Bloodhound_Legend_Card.png"
+    },
+    {
+      "id": 12,
+      "name": "Crypto",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/4/4d/Crypto_Legend_Card.png/179px-Crypto_Legend_Card.png"
+    },
+    {
+      "id": 13,
+      "name": "Seer",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/a/a1/Seer_Legend_Card.png/179px-Seer_Legend_Card.png"
+    },
+    {
+      "id": 14,
+      "name": "Vantage",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/d/d8/Vantage_Legend_Card.png/179px-Vantage_Legend_Card.png"
+    },
+    {
+      "id": 15,
+      "name": "Gibraltar",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/c/cf/Gibraltar_Legend_Card.png/179px-Gibraltar_Legend_Card.png"
+    },
+    {
+      "id": 16,
+      "name": "Lifeline",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/c/c1/Lifeline_Legend_Card.png/179px-Lifeline_Legend_Card.png"
+    },
+    {
+      "id": 17,
+      "name": "Mirage",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/f/f6/Mirage_Legend_Card.png/179px-Mirage_Legend_Card.png"
+    },
+    {
+      "id": 18,
+      "name": "Loba",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/4/4a/Loba_Legend_Card.png/179px-Loba_Legend_Card.png"
+    },
+    {
+      "id": 19,
+      "name": "Newcastle",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/7/7b/Newcastle_Legend_Card.png/179px-Newcastle_Legend_Card.png"
+    },
+    {
+      "id": 20,
+      "name": "Conduit",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/c/cc/Conduit_Legend_Card.png/179px-Conduit_Legend_Card.png"
+    },
+    {
+      "id": 21,
+      "name": "Caustic",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/f/f4/Caustic_Legend_Card.png/179px-Caustic_Legend_Card.png"
+    },
+    {
+      "id": 22,
+      "name": "Wattson",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/b/bc/Wattson_Legend_Card.png/179px-Wattson_Legend_Card.png"
+    },
+    {
+      "id": 23,
+      "name": "Rampart",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/8/8d/Rampart_Legend_Card.png/179px-Rampart_Legend_Card.png"
+    },
+    {
+      "id": 24,
+      "name": "Catalyst",
+      "avatar": "https://apexlegends.wiki.gg/images/thumb/8/83/Catalyst_Legend_Card.png/179px-Catalyst_Legend_Card.png"
+    }
+  ]
+}
