@@ -1,5 +1,6 @@
 {
   "title": "幻兽帕鲁 最佳帕鲁提名",
+  "desc": "数据来自 Bilibili Game Wiki",
   "items": [
     "最喜欢的帕鲁",
     "最讨厌的帕鲁",
@@ -9,7 +10,8 @@
     "最爱偷懒的帕鲁",
     "最佳劳模",
     "最难抓的帕鲁",
-    "最美味的帕鲁"
+    "最美味的帕鲁",
+    ""
   ],
   "data": [
     {
@@ -184,506 +186,516 @@
     },
     {
       "id": 34,
+      "name": "吊缚灵",
+      "avatar": "https://patchwiki.biligame.com/images/palworld/6/63/fkrqy48y9rs05n14ldqvuxrywrmrvng.png"
+    },
+    {
+      "id": 35,
+      "name": "冰缚灵",
+      "avatar": "https://patchwiki.biligame.com/images/palworld/b/b8/7nqwz3qqj14vw04brvlgbcwdh6ydbsd.png"
+    },
+    {
+      "id": 36,
       "name": "叶胖达",
       "avatar": "https://patchwiki.biligame.com/images/palworld/e/e7/m4ju506cwyyz4ugnj61gu4ppzp8ow9z.png"
     },
     {
-      "id": 35,
+      "id": 37,
       "name": "雷胖达",
       "avatar": "https://patchwiki.biligame.com/images/palworld/f/fc/bzrx52vz6dqwsgps86r96i4798yjcoa.png"
     },
     {
-      "id": 36,
+      "id": 38,
       "name": "棉花糖",
       "avatar": "https://patchwiki.biligame.com/images/palworld/6/63/grunpz51qc9u3ktwn5r7w5wq02s59h1.png"
     },
     {
-      "id": 37,
+      "id": 39,
       "name": "灌木羊",
       "avatar": "https://patchwiki.biligame.com/images/palworld/0/0e/g1i0q1o1uzvonvjuaj911kwgz058ve1.png"
     },
     {
-      "id": 38,
+      "id": 40,
       "name": "美露帕",
       "avatar": "https://patchwiki.biligame.com/images/palworld/b/bc/kqh64rhyh0wn7eefbibgahykmr1t6cg.png"
     },
     {
-      "id": 39,
+      "id": 41,
       "name": "紫霞鹿",
       "avatar": "https://patchwiki.biligame.com/images/palworld/6/6a/sihn05s9wv3c2b1byobp7d0p7v6f2kp.png"
     },
     {
-      "id": 40,
+      "id": 42,
       "name": "祇岳鹿",
       "avatar": "https://patchwiki.biligame.com/images/palworld/f/f2/p3eshlmfy9m1p9ob2j7b6i3qnr94va5.png"
     },
     {
-      "id": 41,
+      "id": 43,
       "name": "疾风隼",
       "avatar": "https://patchwiki.biligame.com/images/palworld/c/c5/qb02prtmp3co4ms3grkypfk0wrqcaly.png"
     },
     {
-      "id": 42,
+      "id": 44,
       "name": "姬小兔",
       "avatar": "https://patchwiki.biligame.com/images/palworld/8/8c/jjdgb5st1jpqod5quy24jqj7ns6ae7t.png"
     },
     {
-      "id": 43,
+      "id": 45,
       "name": "炎魔羊",
       "avatar": "https://patchwiki.biligame.com/images/palworld/1/18/01shumdupvrvrsxno80ktqpj9w9m1c0.png"
     },
     {
-      "id": 44,
+      "id": 46,
       "name": "暗魔羊",
       "avatar": "https://patchwiki.biligame.com/images/palworld/b/b0/rtqcza7iqh89k4viuin6sd54vb5eiyq.png"
     },
     {
-      "id": 45,
+      "id": 47,
       "name": "幻悦蝶",
       "avatar": "https://patchwiki.biligame.com/images/palworld/8/89/5vziq4cct5n1u7caj8tkxl096lcj7u3.png"
     },
     {
-      "id": 46,
+      "id": 48,
       "name": "炽焰牛",
       "avatar": "https://patchwiki.biligame.com/images/palworld/6/6e/jktf024zdct5wn7ajh6a21o2fh35jtt.png"
     },
     {
-      "id": 47,
+      "id": 49,
       "name": "趴趴鲶",
       "avatar": "https://patchwiki.biligame.com/images/palworld/b/b4/1p9zozu9bq237tmmezgrcnf8wlfsr5h.png"
     },
     {
-      "id": 48,
+      "id": 50,
       "name": "黑鸦隐士",
       "avatar": "https://patchwiki.biligame.com/images/palworld/f/fb/ongo3uo3vjwchd3zs5j0n7gyztshwkd.png"
     },
     {
-      "id": 49,
+      "id": 51,
       "name": "朋克蜥",
       "avatar": "https://patchwiki.biligame.com/images/palworld/1/1e/bbgj2aijeyy0sl0v8m1jg0f1l0ryi8e.png"
     },
     {
-      "id": 50,
+      "id": 52,
       "name": "热血蜥",
       "avatar": "https://patchwiki.biligame.com/images/palworld/8/8a/6yf95m7mtltav6atgiuum54342uzh68.png"
     },
     {
-      "id": 51,
+      "id": 53,
       "name": "月镰魔",
       "avatar": "https://patchwiki.biligame.com/images/palworld/d/d1/1ss1rmclwdlnqcaune1aepcwoxmmxh7.png"
     },
     {
-      "id": 52,
+      "id": 54,
       "name": "天擒鸟",
       "avatar": "https://patchwiki.biligame.com/images/palworld/b/b9/bl7n5jnxwrkj6ziw7pf1fvj699d1f5e.png"
     },
     {
-      "id": 53,
+      "id": 55,
       "name": "羽箭射手",
       "avatar": "https://patchwiki.biligame.com/images/palworld/1/13/2p0j9mojj47lydz8qajwru1rttlos8o.png"
     },
     {
-      "id": 54,
+      "id": 56,
       "name": "山岳射手",
       "avatar": "https://patchwiki.biligame.com/images/palworld/b/b2/khvhje3tho4m8ib35cj1m3hvscvadof.png"
     },
     {
-      "id": 55,
+      "id": 57,
       "name": "铁拳猿",
       "avatar": "https://patchwiki.biligame.com/images/palworld/b/b6/let6npg40lybh1e8ylhoqpnczk5mch2.png"
     },
     {
-      "id": 56,
+      "id": 58,
       "name": "骑士蜂",
       "avatar": "https://patchwiki.biligame.com/images/palworld/9/95/1e4ww33gre41iz9rpokg1uqrpkmruac.png"
     },
     {
-      "id": 57,
+      "id": 59,
       "name": "女皇蜂",
       "avatar": "https://patchwiki.biligame.com/images/palworld/1/1b/fbtls5eukwz4lr3hmlcy6jhv3i8glfv.png"
     },
     {
-      "id": 58,
+      "id": 60,
       "name": "笑魇猫",
       "avatar": "https://patchwiki.biligame.com/images/palworld/4/42/nwfoztpc6n6nazag46g4ycf1ovm05fd.png"
     },
     {
-      "id": 59,
+      "id": 61,
       "name": "毛掸儿",
       "avatar": "https://patchwiki.biligame.com/images/palworld/e/e8/onr4bcjhadppoawedjr0mezld4qbimo.png"
     },
     {
-      "id": 60,
+      "id": 62,
       "name": "毛老爹",
       "avatar": "https://patchwiki.biligame.com/images/palworld/1/16/8u7rsqggjky4wisxeysh5ogcs4fg2zu.png"
     },
     {
-      "id": 61,
+      "id": 63,
       "name": "疾旋鼬",
       "avatar": "https://patchwiki.biligame.com/images/palworld/8/89/oksweug0lsv49m1xsh0pcyzyd9kdh0n.png"
     },
     {
-      "id": 62,
+      "id": 64,
       "name": "雷角马",
       "avatar": "https://patchwiki.biligame.com/images/palworld/b/b2/5ffi63c1yldjbi0ccy4wd6qmlxr61q6.png"
     },
     {
-      "id": 63,
+      "id": 65,
       "name": "吹雪狐",
       "avatar": "https://patchwiki.biligame.com/images/palworld/e/e2/pzfhcj2ceh0howd5b5mqufyrgcrt4kd.png"
     },
     {
-      "id": 64,
+      "id": 66,
       "name": "火麒麟",
       "avatar": "https://patchwiki.biligame.com/images/palworld/7/77/7x4i0dq9gacslvwf5dpqnetck9fmq6d.png"
     },
     {
-      "id": 65,
+      "id": 67,
       "name": "邪麒麟",
       "avatar": "https://patchwiki.biligame.com/images/palworld/2/2e/72znbkeky4mly9ngj5x7unvfvu8fzfz.png"
     },
     {
-      "id": 66,
+      "id": 68,
       "name": "严冬鹿",
       "avatar": "https://patchwiki.biligame.com/images/palworld/2/2d/7xntrkclvczh1e4ben7pmvh6vompx8i.png"
     },
     {
-      "id": 67,
+      "id": 69,
       "name": "霹雳犬",
       "avatar": "https://patchwiki.biligame.com/images/palworld/a/af/a3aqbt59kp3cdg5ub7a477ubu9ileg2.png"
     },
     {
-      "id": 68,
+      "id": 70,
       "name": "苍焰狼",
       "avatar": "https://patchwiki.biligame.com/images/palworld/2/2d/7apfgck654fsxhrg6t6d7yilyxva7xc.png"
     },
     {
-      "id": 69,
+      "id": 71,
       "name": "雷鸣童子",
       "avatar": "https://patchwiki.biligame.com/images/palworld/d/de/hvweqkx4alsfm3md1to7wlixdafx47a.png"
     },
     {
-      "id": 70,
+      "id": 72,
       "name": "秘斯媞雅",
       "avatar": "https://patchwiki.biligame.com/images/palworld/0/08/q81awv5cirz88wo3hq2u62yev15yftm.png"
     },
     {
-      "id": 71,
+      "id": 73,
       "name": "花冠龙",
       "avatar": "https://patchwiki.biligame.com/images/palworld/d/d2/qd9g7k7imue09no12s203besmo4rwke.png"
     },
     {
-      "id": 72,
+      "id": 74,
       "name": "雷冠龙",
       "avatar": "https://patchwiki.biligame.com/images/palworld/6/63/9znw4n24qqin50wbwabafi1fb1aofmp.png"
     },
     {
-      "id": 73,
+      "id": 75,
       "name": "滑水蛇",
       "avatar": "https://patchwiki.biligame.com/images/palworld/e/ef/9ch4yhf60uqu0xdpr1gad8efkfurh6k.png"
     },
     {
-      "id": 74,
+      "id": 76,
       "name": "流沙蛇",
       "avatar": "https://patchwiki.biligame.com/images/palworld/8/89/juk60smlulhhflm9e02xnssrwp76ow0.png"
     },
     {
-      "id": 75,
+      "id": 77,
       "name": "噬魂兽",
       "avatar": "https://patchwiki.biligame.com/images/palworld/0/02/eveickqpdnbs5fvmbu46u6icezf5q87.png"
     },
     {
-      "id": 76,
+      "id": 78,
       "name": "碎岩龟",
       "avatar": "https://patchwiki.biligame.com/images/palworld/3/35/2rbet5mwpfvkckdg984fd3cbq9z2pp7.png"
     },
     {
-      "id": 77,
+      "id": 79,
       "name": "猫蝠怪",
       "avatar": "https://patchwiki.biligame.com/images/palworld/4/43/1x56szgftpb5wzt4g35og1uljt53aaw.png"
     },
     {
-      "id": 78,
+      "id": 80,
       "name": "博爱蜥",
       "avatar": "https://patchwiki.biligame.com/images/palworld/2/27/7vfkbdd137d2co97q7in8k4n57dkz28.png"
     },
     {
-      "id": 79,
+      "id": 81,
       "name": "融焰娘",
       "avatar": "https://patchwiki.biligame.com/images/palworld/b/be/qgp71i0rf0ck2ntuch6md74hs6hj5i4.png"
     },
     {
-      "id": 80,
+      "id": 82,
       "name": "烽歌龙",
       "avatar": "https://patchwiki.biligame.com/images/palworld/c/cb/buzvcm1p0gjsl3bdszs6ix6w4v6ftys.png"
     },
     {
-      "id": 81,
+      "id": 83,
       "name": "霜歌龙",
       "avatar": "https://patchwiki.biligame.com/images/palworld/8/81/eioanms95zfvgzxedkkg3gfj3rqrw7h.png"
     },
     {
-      "id": 82,
+      "id": 84,
       "name": "浪刃武士",
       "avatar": "https://patchwiki.biligame.com/images/palworld/6/66/7q00u1knwmezhvc6r1itiqtj6rt5qs4.png"
     },
     {
-      "id": 83,
+      "id": 85,
       "name": "迅雷鸟",
       "avatar": "https://patchwiki.biligame.com/images/palworld/8/82/a1pllm8dnuqwayr7lqqmhl3xl4jllbt.png"
     },
     {
-      "id": 84,
+      "id": 86,
       "name": "燧火鸟",
       "avatar": "https://patchwiki.biligame.com/images/palworld/8/85/74baxxax9qmggn641b59jj0kayqpjvn.png"
     },
     {
-      "id": 85,
+      "id": 87,
       "name": "暗巫猫",
       "avatar": "https://patchwiki.biligame.com/images/palworld/e/e6/t8hji7xdo6dhe0qomt83gklh0ct9xha.png"
     },
     {
-      "id": 86,
+      "id": 88,
       "name": "焰巫狐",
       "avatar": "https://patchwiki.biligame.com/images/palworld/2/29/4pio9ioekoksk6ujgnt8g4l1o9yckdn.png"
     },
     {
-      "id": 87,
+      "id": 89,
       "name": "踏春兔",
       "avatar": "https://patchwiki.biligame.com/images/palworld/b/b0/4umagx3cynyeo2ydaac0cpzbqhfdhdl.png"
     },
     {
-      "id": 88,
+      "id": 90,
       "name": "薇莉塔",
       "avatar": "https://patchwiki.biligame.com/images/palworld/4/40/90erz3b1u90y7ny32iy6mhvncqen6wa.png"
     },
     {
-      "id": 89,
+      "id": 91,
       "name": "绸笠蛾",
       "avatar": "https://patchwiki.biligame.com/images/palworld/1/1a/rl2fogp5jtjen0e8k9ddmqrdtlxurrm.png"
     },
     {
-      "id": 90,
+      "id": 92,
       "name": "精灵龙",
       "avatar": "https://patchwiki.biligame.com/images/palworld/f/ff/cqdutoypwu7ec5xtudu6a3c5wmnua2x.png"
     },
     {
-      "id": 91,
+      "id": 93,
       "name": "水灵龙",
       "avatar": "https://patchwiki.biligame.com/images/palworld/3/3d/ds8fb72x0sq7rli0n69vq7f6ev0r52q.png"
     },
     {
-      "id": 92,
+      "id": 94,
       "name": "水灵儿",
       "avatar": "https://patchwiki.biligame.com/images/palworld/9/94/ezifctcn1xxppeaqru0p0ccg6p1wvpp.png"
     },
     {
-      "id": 93,
+      "id": 95,
       "name": "火灵儿",
       "avatar": "https://patchwiki.biligame.com/images/palworld/8/8c/54snjx3fzbubngmv0qazz1gft9i0l4i.png"
     },
     {
-      "id": 94,
+      "id": 96,
       "name": "碧海龙",
       "avatar": "https://patchwiki.biligame.com/images/palworld/d/d1/f8sdaqa20ozft8kimfgi9teh8i9chpf.png"
     },
     {
-      "id": 95,
+      "id": 97,
       "name": "冰棘兽",
       "avatar": "https://patchwiki.biligame.com/images/palworld/9/99/a6s8cetsyyus94xn1drnsn57i1vpa6v.png"
     },
     {
-      "id": 96,
+      "id": 98,
       "name": "狱焰王",
       "avatar": "https://patchwiki.biligame.com/images/palworld/3/38/pjlalf0sok22oxfbsrfdnfbole8au22.png"
     },
     {
-      "id": 97,
+      "id": 99,
       "name": "狱阎王",
       "avatar": "https://patchwiki.biligame.com/images/palworld/7/75/de8flqpq0xi2okjvz88871nbyhskvb1.png"
     },
     {
-      "id": 98,
+      "id": 100,
       "name": "佩克龙",
       "avatar": "https://patchwiki.biligame.com/images/palworld/c/c8/6xqivad9ap2ivq0ktjnwj9h7bvusaqd.png"
     },
     {
-      "id": 99,
+      "id": 101,
       "name": "派克龙",
       "avatar": "https://patchwiki.biligame.com/images/palworld/5/5b/a5543pnu3ptma8xcwavkrrlxgrsfv12.png"
     },
     {
-      "id": 100,
+      "id": 102,
       "name": "连理龙",
       "avatar": "https://patchwiki.biligame.com/images/palworld/d/d9/2awrisooh0p9g0ujrbsmlz8emjtcw8e.png"
     },
     {
-      "id": 101,
+      "id": 103,
       "name": "海誓龙",
       "avatar": "https://patchwiki.biligame.com/images/palworld/4/43/jpno7fuj8j1w7hntkucckaf6axk5grj.png"
     },
     {
-      "id": 102,
+      "id": 104,
       "name": "花丽娜",
       "avatar": "https://patchwiki.biligame.com/images/palworld/d/d2/8k2clox7ku5jejva5c3hpb5fsm7ph12.png"
     },
     {
-      "id": 103,
+      "id": 105,
       "name": "熔岩兽",
       "avatar": "https://patchwiki.biligame.com/images/palworld/5/52/r5qdb88p7jiawozho6qn3542htwxufs.png"
     },
     {
-      "id": 104,
+      "id": 106,
       "name": "寒霜兽",
       "avatar": "https://patchwiki.biligame.com/images/palworld/7/78/eq1pmxdos1tr4z64mqtgtce2l0heri8.png"
     },
     {
-      "id": 105,
+      "id": 107,
       "name": "君王美露帕",
       "avatar": "https://patchwiki.biligame.com/images/palworld/5/58/9dwix6l79zd9b7h6a83okzyyveuaava.png"
     },
     {
-      "id": 106,
+      "id": 108,
       "name": "冰帝美露帕",
       "avatar": "https://patchwiki.biligame.com/images/palworld/7/7a/ieugsarelklcotj91txa82t9af1gn23.png"
     },
     {
-      "id": 107,
+      "id": 109,
       "name": "森猛犸",
       "avatar": "https://patchwiki.biligame.com/images/palworld/1/17/a34a6616rgooy0qsep43yaf106orpx4.png"
     },
     {
-      "id": 108,
+      "id": 110,
       "name": "雪猛犸",
       "avatar": "https://patchwiki.biligame.com/images/palworld/b/bd/j9tu9ba0k9r93g02rb686gh8onvma8y.png"
     },
     {
-      "id": 109,
+      "id": 111,
       "name": "白绒雪怪",
       "avatar": "https://patchwiki.biligame.com/images/palworld/b/bf/s3vhlcieue7s6na72ivfn4aitb1tngh.png"
     },
     {
-      "id": 110,
+      "id": 112,
       "name": "绿苔绒怪",
       "avatar": "https://patchwiki.biligame.com/images/palworld/6/60/pj35tbdej29la49wc0579k4bh210n79.png"
     },
     {
-      "id": 111,
+      "id": 113,
       "name": "铠格力斯",
       "avatar": "https://patchwiki.biligame.com/images/palworld/2/2d/39ftr0364etrba1ipip52q97hjckok7.png"
     },
     {
-      "id": 112,
+      "id": 114,
       "name": "云海鹿",
       "avatar": "https://patchwiki.biligame.com/images/palworld/3/3e/kndyjr5cu08c8loi8nocat45kbsgp4p.png"
     },
     {
-      "id": 113,
+      "id": 115,
       "name": "夜幕魔蝠",
       "avatar": "https://patchwiki.biligame.com/images/palworld/7/7c/4pgb6j5pq85oy5a0kgj7nhy234tk54e.png"
     },
     {
-      "id": 114,
+      "id": 116,
       "name": "天羽龙",
       "avatar": "https://patchwiki.biligame.com/images/palworld/2/26/tiw2e7rlve8flzlx3083cwotbup3nrp.png"
     },
     {
-      "id": 115,
+      "id": 117,
       "name": "焰煌",
       "avatar": "https://patchwiki.biligame.com/images/palworld/9/9a/1xpm8rqhlc4hp9b6dzsytvh2hl6ygc6.png"
     },
     {
-      "id": 116,
+      "id": 118,
       "name": "雷冥鸟",
       "avatar": "https://patchwiki.biligame.com/images/palworld/4/4d/2fpvml971emzd0q91ssmhdlhxjhzbpa.png"
     },
     {
-      "id": 117,
+      "id": 119,
       "name": "魔渊龙",
       "avatar": "https://patchwiki.biligame.com/images/palworld/d/db/b6ykmfcjwznac88ot0h91l62z64goo9.png"
     },
     {
-      "id": 118,
+      "id": 120,
       "name": "冥铠蝎",
       "avatar": "https://patchwiki.biligame.com/images/palworld/d/dd/p4imfxbiinhqu670umw92cezyuazsyg.png"
     },
     {
-      "id": 119,
+      "id": 121,
       "name": "阿努比斯",
       "avatar": "https://patchwiki.biligame.com/images/palworld/c/c7/2qps5jo0lgglea160w5bcg02zj6t1m0.png"
     },
     {
-      "id": 120,
+      "id": 122,
       "name": "覆海龙",
       "avatar": "https://patchwiki.biligame.com/images/palworld/a/a5/pt725098y4d439jzxc6ajb8r2q3pm08.png"
     },
     {
-      "id": 121,
+      "id": 123,
       "name": "腾炎龙",
       "avatar": "https://patchwiki.biligame.com/images/palworld/f/f7/7en9qorvik8l4plgndxiks3gnlq57nd.png"
     },
     {
-      "id": 122,
+      "id": 124,
       "name": "朱雀",
       "avatar": "https://patchwiki.biligame.com/images/palworld/c/c5/p6pa9r348qzznttbwh54ge0pjvxt19z.png"
     },
     {
-      "id": 123,
+      "id": 125,
       "name": "清雀",
       "avatar": "https://patchwiki.biligame.com/images/palworld/c/c1/4xyx9odj7ia1ody0ptwvdwog6eg08tv.png"
     },
     {
-      "id": 124,
+      "id": 126,
       "name": "暴电熊",
       "avatar": "https://patchwiki.biligame.com/images/palworld/5/52/2202dwrzomkem444rd328ttao0lfg87.png"
     },
     {
-      "id": 125,
+      "id": 127,
       "name": "百合女王",
       "avatar": "https://patchwiki.biligame.com/images/palworld/a/a0/nvjphowaiv99p4jtni25uwuh647thva.png"
     },
     {
-      "id": 126,
+      "id": 128,
       "name": "黑月女王",
       "avatar": "https://patchwiki.biligame.com/images/palworld/f/f7/bxukd5i5241l4uat6ab7buc8t2vygek.png"
     },
     {
-      "id": 127,
+      "id": 129,
       "name": "荷鲁斯",
       "avatar": "https://patchwiki.biligame.com/images/palworld/5/55/4mx6rw39m9djfa0b85xjysatozh0651.png"
     },
     {
-      "id": 128,
+      "id": 130,
       "name": "波鲁杰克斯",
       "avatar": "https://patchwiki.biligame.com/images/palworld/5/5c/c0hozyl4i17attj53hox9br928ld60t.png"
     },
     {
-      "id": 129,
+      "id": 131,
       "name": "异构格里芬",
       "avatar": "https://patchwiki.biligame.com/images/palworld/1/15/igsiraxigl5gj5xl0igdlw2o32wpcdq.png"
     },
     {
-      "id": 130,
+      "id": 132,
       "name": "圣光骑士",
       "avatar": "https://patchwiki.biligame.com/images/palworld/a/a4/ei70052cg0m93ragr1udk3jrgcr0som.png"
     },
     {
-      "id": 131,
+      "id": 133,
       "name": "混沌骑士",
       "avatar": "https://patchwiki.biligame.com/images/palworld/3/3c/sdboon6dj2fx3ru7sh24zjrtaz8iagy.png"
     },
     {
-      "id": 132,
+      "id": 134,
       "name": "唤冬兽",
       "avatar": "https://patchwiki.biligame.com/images/palworld/c/cc/mh61nrlb7bfnoq2sgv0i7i3xku39bzq.png"
     },
     {
-      "id": 133,
+      "id": 135,
       "name": "唤夜兽",
       "avatar": "https://patchwiki.biligame.com/images/palworld/4/44/ro7aasid5abjs19wrobb82vtqcf72gf.png"
     },
     {
-      "id": 134,
+      "id": 136,
       "name": "空涡龙",
       "avatar": "https://patchwiki.biligame.com/images/palworld/5/5a/p4cadb84u8ina4jw9m6fwz8xemircsm.png"
     }

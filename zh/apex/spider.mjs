@@ -1,8 +1,8 @@
 import axios from "axios"
 import HTMLParser from "node-html-parser"
-import fs from "fs/promises"
 import path from 'path'
 import { fileURLToPath } from 'url'
+import { saveMemberData } from "../../index.mjs"
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -44,9 +44,12 @@ async function saveLegends() {
         "最简单的传奇",
     ]
 
-    await fs.writeFile(__dirname + '/legends.json', JSON.stringify({
-        title, items, data
-    }, null, 2))
+    await saveMemberData(__dirname + '/legends.json', {
+        title,
+        desc: '数据来自 apexlegends.wiki.gg',
+        items,
+        data
+    })
 }
 
 // Weapons
@@ -81,9 +84,12 @@ async function saveWeapons() {
         "最常制造的武器",
     ]
 
-    await fs.writeFile(__dirname + '/weapons.json', JSON.stringify({
-        title, items, data
-    }, null, 2))
+    await saveMemberData(__dirname + '/weapons.json', {
+        title,
+        desc: '数据来自 apexlegends.wiki.gg',
+        items,
+        data
+    })
 }
 
 await saveLegends()

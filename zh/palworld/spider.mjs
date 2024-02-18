@@ -1,6 +1,6 @@
 import axios from "axios"
 import HTMLParser from "node-html-parser"
-import fs from "fs/promises"
+import { saveMemberData } from "../../index.mjs"
 import path from 'path'
 import { fileURLToPath } from 'url'
 
@@ -40,6 +40,9 @@ const items = [
     ""
 ]
 
-await fs.writeFile(__dirname + '/pals.json', JSON.stringify({
-    title, items, data
-}, null, 2))
+await saveMemberData(__dirname + '/pals.json', {
+    title,
+    desc: '数据来自 Bilibili Game Wiki',
+    items,
+    data
+})

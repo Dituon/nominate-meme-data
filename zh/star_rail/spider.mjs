@@ -1,5 +1,5 @@
 import axios from "axios"
-import fs from "fs/promises"
+import { saveMemberData } from "../../index.mjs"
 import path from 'path'
 import { fileURLToPath } from 'url'
 import HTMLParser from "node-html-parser"
@@ -65,13 +65,19 @@ const lightConeItems = [
     "最被低估的光锥",
 ]
 
-await fs.writeFile(__dirname + '/roles.json', JSON.stringify({
-    title: roleTitle, items: roleItems, data: rolesData
-}, null, 2))
+await saveMemberData(__dirname + '/roles.json', {
+    title: roleTitle,
+    desc: '数据来自 Bilibili Game Wiki',
+    items: roleItems,
+    data: rolesData
+})
 
-await fs.writeFile(__dirname + '/light_cone.json', JSON.stringify({
-    title: lightConeTitle, items: lightConeItems, data: lightConeData
-}, null, 2))
+await saveMemberData(__dirname + '/light_cone.json', {
+    title: lightConeTitle,
+    desc: '数据来自 Bilibili Game Wiki',
+    items: lightConeItems,
+    data: lightConeData
+})
 
 function convertImageUrl(inputUrl) {
     const urlParts = inputUrl.split('/');
