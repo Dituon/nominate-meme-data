@@ -1,5 +1,15 @@
 [
   {
+    "name": "东方Project 角色",
+    "id": "touhou/roles",
+    "avatar": "https://upload.thwiki.cc/thumb/0/0b/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/100px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png"
+  },
+  {
+    "name": "东方Project 游戏",
+    "id": "touhou/games",
+    "avatar": "https://upload.thwiki.cc/thumb/b/b2/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1%E5%B0%81%E9%9D%A2.jpg/160px-%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1%E5%B0%81%E9%9D%A2.jpg"
+  },
+  {
     "name": "幻兽帕鲁",
     "id": "palworld/pals",
     "avatar": "https://patchwiki.biligame.com/images/palworld/d/d1/09ag6ma7ej9g1lh175ehcksldajmpmx.png"
