@@ -1,0 +1,258 @@
+{
+  "title": "2017年夏季 最佳日本动画提名",
+  "desc": "数据来自 萌娘百科; CC-BY-NC-SA 3.0",
+  "items": [
+    "最期待的动画",
+    "霸权动画",
+    "最喜欢的动画",
+    "最出圈的动画",
+    "最过誉的动画",
+    "最被低估的动画",
+    "二创最多的动画",
+    "争议最大的动画",
+    "最佳原创动画",
+    "最佳漫改/游戏改动画"
+  ],
+  "data": [
+    {
+      "id": 0,
+      "name": "地狱少女 宵伽",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/0b/Jigoku_Shoujo_Yoi_no_Togi_KV.png/300px-Jigoku_Shoujo_Yoi_no_Togi_KV.png"
+    },
+    {
+      "id": 1,
+      "name": "咕噜咕噜魔法阵",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/7/72/Mahojin_Guruguru_KV.png/300px-Mahojin_Guruguru_KV.png"
+    },
+    {
+      "id": 2,
+      "name": "Fate/Apocrypha",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/4/46/Fate_Apocrypha_Anime_KV2.jpg/300px-Fate_Apocrypha_Anime_KV2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "活击 刀剑乱舞",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/c8/Katsugeki_Touken_Ranbu_Anime_KV.jpg/300px-Katsugeki_Touken_Ranbu_Anime_KV.jpg"
+    },
+    {
+      "id": 4,
+      "name": "战姬绝唱SYMPHOGEAR AXZ",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/9/9b/Symphogear_AXZ_KV2.jpg/300px-Symphogear_AXZ_KV2.jpg"
+    },
+    {
+      "id": 5,
+      "name": "最游记RELOAD BLAST",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/39/Saiyuki_Reload_Blast_KV2.jpg/300px-Saiyuki_Reload_Blast_KV2.jpg"
+    },
+    {
+      "id": 6,
+      "name": "洁癖男子！青山君",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/26/Aoyama-kun_KV.png/300px-Aoyama-kun_KV.png"
+    },
+    {
+      "id": 7,
+      "name": "狂赌之渊",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/6/69/KAKEGURUI_KV.png/300px-KAKEGURUI_KV.png"
+    },
+    {
+      "id": 8,
+      "name": "来自深渊",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/58/Made_in_Abyss_KV2.jpg/300px-Made_in_Abyss_KV2.jpg"
+    },
+    {
+      "id": 9,
+      "name": "NEW GAME!!",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/17/New_Game_2nd.jpg/300px-New_Game_2nd.jpg"
+    },
+    {
+      "id": 10,
+      "name": "猜谜王",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/30/7o3x_keyvisual2.jpg/300px-7o3x_keyvisual2.jpg"
+    },
+    {
+      "id": 11,
+      "name": "第一次的辣妹",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/d5/Hajimete_no_Gal_KV.jpg/300px-Hajimete_no_Gal_KV.jpg"
+    },
+    {
+      "id": 12,
+      "name": "舞动青春",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/fe/Ballroom_KV4.jpg/300px-Ballroom_KV4.jpg"
+    },
+    {
+      "id": 13,
+      "name": "恋爱与谎言",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/f9/Love_and_Lies_Anime_KV.jpg/300px-Love_and_Lies_Anime_KV.jpg"
+    },
+    {
+      "id": 14,
+      "name": "单蠢女孩",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/02/Ahogirl_Anime_KV2.png/300px-Ahogirl_Anime_KV2.png"
+    },
+    {
+      "id": 15,
+      "name": "徒然喜欢你",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/a/a2/Tsuredure_Children_Anime_KV2.jpg/300px-Tsuredure_Children_Anime_KV2.jpg"
+    },
+    {
+      "id": 16,
+      "name": "将国戡乱记",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/08/Shoukoku_no_Altair_Anime_KV2.jpg/300px-Shoukoku_no_Altair_Anime_KV2.jpg"
+    },
+    {
+      "id": 17,
+      "name": "半兽人的烦恼",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/6/68/Centaur_Anime_KV.jpg/300px-Centaur_Anime_KV.jpg"
+    },
+    {
+      "id": 18,
+      "name": "时间支配者",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/33/Chronos_Ruler_Anime_KV2.png/300px-Chronos_Ruler_Anime_KV2.png"
+    },
+    {
+      "id": 19,
+      "name": "独占我的英雄",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/9/95/Hitorijime_My_Hero_KV.jpg/300px-Hitorijime_My_Hero_KV.jpg"
+    },
+    {
+      "id": 20,
+      "name": "妖怪公寓的幽雅日常",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/f6/Youapa_main.jpg/300px-Youapa_main.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Gamers!",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/d1/Gamers_Anime_KV2.jpg/300px-Gamers_Anime_KV2.jpg"
+    },
+    {
+      "id": 22,
+      "name": "欢迎来到实力至上主义的教室",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/3c/Youjitsu_Anime_KV.jpg/300px-Youjitsu_Anime_KV.jpg"
+    },
+    {
+      "id": 23,
+      "name": "天使的3P！",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/e/e4/Tenshi_no_3P_Anime_KV2.png/300px-Tenshi_no_3P_Anime_KV2.png"
+    },
+    {
+      "id": 24,
+      "name": "异世界食堂",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/d0/Isekai_Shokudo_Anime_KV.jpg/300px-Isekai_Shokudo_Anime_KV.jpg"
+    },
+    {
+      "id": 25,
+      "name": "骑士&amp;魔法",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/1c/Knights_and_Magic_Anime_KV.jpg/300px-Knights_and_Magic_Anime_KV.jpg"
+    },
+    {
+      "id": 26,
+      "name": "带着智能手机闯荡异世界",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/5f/Isesuma_Visual2.jpg/300px-Isesuma_Visual2.jpg"
+    },
+    {
+      "id": 27,
+      "name": "DIVE!!",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/a/a8/Dive_Anime_KV.jpg/300px-Dive_Anime_KV.jpg"
+    },
+    {
+      "id": 28,
+      "name": "梵蒂冈奇迹调查官",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/2d/Vatican_Kiseki_Chosakan.png/300px-Vatican_Kiseki_Chosakan.png"
+    },
+    {
+      "id": 29,
+      "name": "18if",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/2f/18if_KV.png/300px-18if_KV.png"
+    },
+    {
+      "id": 30,
+      "name": "战斗女子高校",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/4/40/Battle_Girl_High_School_Anime_KV.jpg/300px-Battle_Girl_High_School_Anime_KV.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Princess Principal",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/89/Princess_Principal.png/300px-Princess_Principal.png"
+    },
+    {
+      "id": 32,
+      "name": "HinaLogi～from Luck &amp; Logic～",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/b1/Hinalogi_KV.png/300px-Hinalogi_KV.png"
+    },
+    {
+      "id": 33,
+      "name": "便利店男友",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/b8/Konbini_Kareshi_KV.png/300px-Konbini_Kareshi_KV.png"
+    },
+    {
+      "id": 34,
+      "name": "动作女英雄 水果啦啦队",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/36/Action_Heroine_Cheer_Fruits_KV2.jpg/300px-Action_Heroine_Cheer_Fruits_KV2.jpg"
+    },
+    {
+      "id": 35,
+      "name": "THE REFLECTION",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/35/THE_REFLECTION_KV.jpg/300px-THE_REFLECTION_KV.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Marvel Future Avengers",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/e/ea/Future_avengers_L.jpg/300px-Future_avengers_L.jpg"
+    },
+    {
+      "id": 37,
+      "name": "女高网球部 9期",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/4/4e/Tekyu_9ki.png/300px-Tekyu_9ki.png"
+    },
+    {
+      "id": 38,
+      "name": "捏造陷阱 -NTR-",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/8d/NTR_Anime_KV2.png/300px-NTR_Anime_KV2.png"
+    },
+    {
+      "id": 39,
+      "name": "裙子里面是野兽",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/b6/Yooo_Anime.jpg/300px-Yooo_Anime.jpg"
+    },
+    {
+      "id": 40,
+      "name": "野良与皇女与流浪猫之心",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/a/a9/Nora_visual.jpg/300px-Nora_visual.jpg"
+    },
+    {
+      "id": 41,
+      "name": "美男战国◆虽然穿越时空却没有开始恋爱",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/e/e8/Ikemen_Sengoku_Anime.png/300px-Ikemen_Sengoku_Anime.png"
+    },
+    {
+      "id": 42,
+      "name": "尽量加油吧！魔法少女胡桃",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/b8/Maho_Shojo_Kurumi.png/300px-Maho_Shojo_Kurumi.png"
+    },
+    {
+      "id": 43,
+      "name": "Kaito Ansa",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/e/ea/Kaito_Ansa.jpg/300px-Kaito_Ansa.jpg"
+    },
+    {
+      "id": 44,
+      "name": "海天使的灯火",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/9/9d/Clione_no_Akari_Anime_KV.jpg/300px-Clione_no_Akari_Anime_KV.jpg"
+    },
+    {
+      "id": 45,
+      "name": "直感×运算法则♪",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/12/%E9%BA%9F%26%E7%8A%80.jpg/300px-%E9%BA%9F%26%E7%8A%80.jpg"
+    },
+    {
+      "id": 46,
+      "name": "无责任银河☆泰勒",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/03/Musekinin_Galaxy_Tylor.png/300px-Musekinin_Galaxy_Tylor.png"
+    },
+    {
+      "id": 47,
+      "name": "机动战士高达 Twilight AXIS",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/ce/Gundam_Twilight_Axis.jpg/300px-Gundam_Twilight_Axis.jpg"
+    }
+  ]
+}

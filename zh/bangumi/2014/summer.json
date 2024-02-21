@@ -1,0 +1,93 @@
+{
+  "title": "2014年夏季 最佳日本动画提名",
+  "desc": "数据来自 萌娘百科; CC-BY-NC-SA 3.0",
+  "items": [
+    "最期待的动画",
+    "霸权动画",
+    "最喜欢的动画",
+    "最出圈的动画",
+    "最过誉的动画",
+    "最被低估的动画",
+    "二创最多的动画",
+    "争议最大的动画",
+    "最佳原创动画",
+    "最佳漫改/游戏改动画"
+  ],
+  "data": [
+    {
+      "id": 0,
+      "name": "刀剑神域II",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/9/9d/Sword_art_Online_S2_KV2.jpg/300px-Sword_art_Online_S2_KV2.jpg"
+    },
+    {
+      "id": 1,
+      "name": "东京食尸鬼",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/39/Tokyo_Ghoul_KV1.png/300px-Tokyo_Ghoul_KV1.png"
+    },
+    {
+      "id": 2,
+      "name": "ALDNOAH.ZERO",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/4/49/ALDNOAH_ZERO_KV1.png/300px-ALDNOAH_ZERO_KV1.png"
+    },
+    {
+      "id": 3,
+      "name": "黑执事 Book of Circus",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/c7/Kuroshitsuji_BoC.png/300px-Kuroshitsuji_BoC.png"
+    },
+    {
+      "id": 4,
+      "name": "月刊少女野崎君",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/a/a7/Nozaki_kun_KV.png/300px-Nozaki_kun_KV.png"
+    },
+    {
+      "id": 5,
+      "name": "斩·赤红之瞳！",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/85/Akame_ga_Kill_KV.jpg/300px-Akame_ga_Kill_KV.jpg"
+    },
+    {
+      "id": 6,
+      "name": "花舞少女",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/d4/Hanayamata_KV.png/300px-Hanayamata_KV.png"
+    },
+    {
+      "id": 7,
+      "name": "元气囝仔",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/1e/Barakamon.jpg/300px-Barakamon.jpg"
+    },
+    {
+      "id": 8,
+      "name": "LOVE STAGE!!",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/de/LOVE_STAGE_KV.png/300px-LOVE_STAGE_KV.png"
+    },
+    {
+      "id": 9,
+      "name": "精灵使的剑舞",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/52/Seirei_Tsukai_KV.png/300px-Seirei_Tsukai_KV.png"
+    },
+    {
+      "id": 10,
+      "name": "RAIL WARS! -日本国有铁道公安队-",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/b8/Rail_Wars_KV.png/300px-Rail_Wars_KV.png"
+    },
+    {
+      "id": 11,
+      "name": "女神异闻录4黄金版 The Animation",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/09/P4GA_KV.png/300px-P4GA_KV.png"
+    },
+    {
+      "id": 12,
+      "name": "DRAMAtical Murder",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/fd/DMMD_KV.png/300px-DMMD_KV.png"
+    },
+    {
+      "id": 13,
+      "name": "Re:␣滨虎",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/89/Re_hamatora.jpg/300px-Re_hamatora.jpg"
+    },
+    {
+      "id": 14,
+      "name": "恐怖残响",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/d2/Terrorintokyo.jpg/300px-Terrorintokyo.jpg"
+    }
+  ]
+}

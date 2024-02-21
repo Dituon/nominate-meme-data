@@ -1,0 +1,33 @@
+{
+  "title": "2013年冬季 最佳日本动画提名",
+  "desc": "数据来自 萌娘百科; CC-BY-NC-SA 3.0",
+  "items": [
+    "最期待的动画",
+    "霸权动画",
+    "最喜欢的动画",
+    "最出圈的动画",
+    "最过誉的动画",
+    "最被低估的动画",
+    "二创最多的动画",
+    "争议最大的动画",
+    "最佳原创动画",
+    "最佳漫改/游戏改动画"
+  ],
+  "data": [
+    {
+      "id": 0,
+      "name": "初音岛III",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/2e/Da.Capo.full.326236.jpg/300px-Da.Capo.full.326236.jpg"
+    },
+    {
+      "id": 1,
+      "name": "AKB0048 (第二季)",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/06/P1477509521.jpg/300px-P1477509521.jpg"
+    },
+    {
+      "id": 2,
+      "name": "黑塔利亚 The Beautiful World",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/d8/Axis.Powers_Hetalia.jpg/300px-Axis.Powers_Hetalia.jpg"
+    }
+  ]
+}

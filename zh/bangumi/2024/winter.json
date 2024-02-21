@@ -1,0 +1,298 @@
+{
+  "title": "2024年冬季 最佳日本动画提名",
+  "desc": "数据来自 萌娘百科; CC-BY-NC-SA 3.0",
+  "items": [
+    "最期待的动画",
+    "霸权动画",
+    "最喜欢的动画",
+    "最出圈的动画",
+    "最过誉的动画",
+    "最被低估的动画",
+    "二创最多的动画",
+    "争议最大的动画",
+    "最佳原创动画",
+    "最佳漫改/游戏改动画"
+  ],
+  "data": [
+    {
+      "id": 0,
+      "name": "迷宫饭",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/f4/Delicious_in_Dungeon_KV2.jpg/300px-Delicious_in_Dungeon_KV2.jpg"
+    },
+    {
+      "id": 1,
+      "name": "我独自升级",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/21/Solo_Leveling_Teaser2.jpg/300px-Solo_Leveling_Teaser2.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Wonderful光之美少女！",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/31/%E6%B1%AAQ.jpeg/300px-%E6%B1%AAQ.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "通灵王 FLOWERS",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/0a/Shamanking_Flower_KV.webp/300px-Shamanking_Flower_KV.webp.png"
+    },
+    {
+      "id": 4,
+      "name": "福星小子 第2期(第2作)",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/26/Uy_Allstars_2022_KV4.jpg/300px-Uy_Allstars_2022_KV4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "青之驱魔师 岛根启明结社篇",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/6/66/Aoex_S3_KV2.jpg/300px-Aoex_S3_KV2.jpg"
+    },
+    {
+      "id": 6,
+      "name": "王者天下5",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/a/aa/Kingdom_S5_KV3.jpg/300px-Kingdom_S5_KV3.jpg"
+    },
+    {
+      "id": 7,
+      "name": "我心里危险的东西 第2期",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/bf/Bokuyaba_S2_KV.jpg/300px-Bokuyaba_S2_KV.jpg"
+    },
+    {
+      "id": 8,
+      "name": "物理魔法使马修 神觉者候补选拔试验篇",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/38/Mashle_KV4.jpg/300px-Mashle_KV4.jpg"
+    },
+    {
+      "id": 9,
+      "name": "欢迎来到实力至上主义的教室 第3期",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/58/Youjitsu_Anime_S3_KV2.jpg/300px-Youjitsu_Anime_S3_KV2.jpg"
+    },
+    {
+      "id": 10,
+      "name": "弱势角色友崎君 2nd STAGE",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/2e/Tomozaki_S2_KV.jpg/300px-Tomozaki_S2_KV.jpg"
+    },
+    {
+      "id": 11,
+      "name": "月光下的异世界之旅 第二幕",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/5e/Tsukimichi_S2_KV.jpg/300px-Tsukimichi_S2_KV.jpg"
+    },
+    {
+      "id": 12,
+      "name": "狩火之王 第2季",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/b4/Hikarinoou_KV2.jpg/300px-Hikarinoou_KV2.jpg"
+    },
+    {
+      "id": 13,
+      "name": "因为不是真正的伙伴而被逐出勇者队伍，流落到边境展开慢活人生 2nd",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/f3/Shinnonkama_S2_KV.jpg/300px-Shinnonkama_S2_KV.jpg"
+    },
+    {
+      "id": 14,
+      "name": "忍者神威",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/85/Ninja_Kamui_KV.jpg/300px-Ninja_Kamui_KV.jpg"
+    },
+    {
+      "id": 15,
+      "name": "大欺诈师 razbliuto",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/e/e6/Great_Pretender_S2_KV.jpg/300px-Great_Pretender_S2_KV.jpg"
+    },
+    {
+      "id": 16,
+      "name": "MONSTERS 一百三情飞龙侍极",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/4/40/Monsters_KV.jpg/300px-Monsters_KV.jpg"
+    },
+    {
+      "id": 17,
+      "name": "战国妖狐",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/bf/Sengoku_Youko_KV.jpg/300px-Sengoku_Youko_KV.jpg"
+    },
+    {
+      "id": 18,
+      "name": "魔都精兵的奴隶",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/d7/Mabotai_KV.jpg/300px-Mabotai_KV.jpg"
+    },
+    {
+      "id": 19,
+      "name": "公主大人的“拷问”时间",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/bc/Himesama_KV.jpg/300px-Himesama_KV.jpg"
+    },
+    {
+      "id": 20,
+      "name": "愚蠢天使与恶魔共舞",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/2e/Kanaten_KV.jpg/300px-Kanaten_KV.jpg"
+    },
+    {
+      "id": 21,
+      "name": "指尖相触，恋恋不舍",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/5c/Yubisaki_KV.jpg/300px-Yubisaki_KV.jpg"
+    },
+    {
+      "id": 22,
+      "name": "北海道辣妹贼拉可爱",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/0a/Dosankogal_KV.jpg/300px-Dosankogal_KV.jpg"
+    },
+    {
+      "id": 23,
+      "name": "佐佐木与文鸟小哔",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/1f/Sasaki_to_Pii-chan_KV.jpg/300px-Sasaki_to_Pii-chan_KV.jpg"
+    },
+    {
+      "id": 24,
+      "name": "外科医生爱丽丝",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/f7/Surgeon_Elise_KV2.jpg/300px-Surgeon_Elise_KV2.jpg"
+    },
+    {
+      "id": 25,
+      "name": "魔女与野兽",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/4/4e/Majo_Yajuu_KV2.jpg/300px-Majo_Yajuu_KV2.jpg"
+    },
+    {
+      "id": 26,
+      "name": "婚戒物语",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/b5/Talesofweddingrings_KV0.jpg/300px-Talesofweddingrings_KV0.jpg"
+    },
+    {
+      "id": 27,
+      "name": "憧憬成为魔法少女",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/9/9c/Mahoako_KV.jpg/300px-Mahoako_KV.jpg"
+    },
+    {
+      "id": 28,
+      "name": "休假的坏人先生",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/6/66/Warumonosan_KV.jpg/300px-Warumonosan_KV.jpg"
+    },
+    {
+      "id": 29,
+      "name": "到了30岁还是处男，似乎会变成魔法师",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/a/ae/Cherimaho_KV.jpg/300px-Cherimaho_KV.jpg"
+    },
+    {
+      "id": 30,
+      "name": "百千家的妖怪王子",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/b6/Momochisan_Teaser1.jpg/300px-Momochisan_Teaser1.jpg"
+    },
+    {
+      "id": 31,
+      "name": "轮回七次的恶役千金，在前敌国享受随心所欲的新婚生活",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/9/99/7th_timeloop_KV2.jpg/300px-7th_timeloop_KV2.jpg"
+    },
+    {
+      "id": 32,
+      "name": "为了在异世界也能抚摸毛茸茸而努力着。",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/1b/Mohunade_Teaser2.jpg/300px-Mohunade_Teaser2.jpg"
+    },
+    {
+      "id": 33,
+      "name": "最弱的驯养师开启的捡垃圾的旅途。",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/19/Saijakutamer_KV.jpg/300px-Saijakutamer_KV.jpg"
+    },
+    {
+      "id": 34,
+      "name": "事与愿违的不死冒险者",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/4/42/Nozomanufushi_KV.jpg/300px-Nozomanufushi_KV.jpg"
+    },
+    {
+      "id": 35,
+      "name": "秒杀外挂太强了，异世界的家伙们根本就不是对手。",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/a/a3/Sokushicheat_KV.jpg/300px-Sokushicheat_KV.jpg"
+    },
+    {
+      "id": 36,
+      "name": "治愈魔法的错误使用法～奔赴战场的回复要员～",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/1b/Chiyumaho_KV2.jpg/300px-Chiyumaho_KV2.jpg"
+    },
+    {
+      "id": 37,
+      "name": "反派千金等级99～我是隐藏头目但不是魔王～",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/0b/Akuyakulv99_KV2.jpg/300px-Akuyakulv99_KV2.jpg"
+    },
+    {
+      "id": 38,
+      "name": "最强肉盾的迷宫攻略 ～拥有稀少技能体力9999的肉盾，被勇者队伍辞退了～",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/6/67/Saikyo_Tank_KV.jpg/300px-Saikyo_Tank_KV.jpg"
+    },
+    {
+      "id": 39,
+      "name": "HIGH CARD season2",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/f1/HIGH_CARD_KV7.jpg/300px-HIGH_CARD_KV7.jpg"
+    },
+    {
+      "id": 40,
+      "name": "SYNDUALITY Noir(第2季度)",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/0a/Synduality_KV2.jpg/300px-Synduality_KV2.jpg"
+    },
+    {
+      "id": 41,
+      "name": "BUCCHIGIRI？！",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/27/Bucchigiri_KV.jpg/300px-Bucchigiri_KV.jpg"
+    },
+    {
+      "id": 42,
+      "name": "金属口红",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/be/Metallicrouge_KV.jpg/300px-Metallicrouge_KV.jpg"
+    },
+    {
+      "id": 43,
+      "name": "勇气爆发BANG BRAVERN",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/3e/Bang_Bravern_KV2.jpg/300px-Bang_Bravern_KV2.jpg"
+    },
+    {
+      "id": 44,
+      "name": "碰之道",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/1e/Ponomichi_KV2.jpg/300px-Ponomichi_KV2.jpg"
+    },
+    {
+      "id": 45,
+      "name": "月刊妄想科学",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/d5/Moh_KV.jpg/300px-Moh_KV.jpg"
+    },
+    {
+      "id": 46,
+      "name": "明治击剑－1874－",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/54/Shochiku_Teaser.png/300px-Shochiku_Teaser.png"
+    },
+    {
+      "id": 47,
+      "name": "卡片战斗先导者 DivineZ",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/fe/Vanguard_DivineZ.jpg/300px-Vanguard_DivineZ.jpg"
+    },
+    {
+      "id": 48,
+      "name": "暗芝居 12期",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/a/ae/Yamishibai12.jpg/300px-Yamishibai12.jpg"
+    },
+    {
+      "id": 49,
+      "name": "小酒馆Basue",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/5a/Snack_Basue_Teaser.jpg/300px-Snack_Basue_Teaser.jpg"
+    },
+    {
+      "id": 50,
+      "name": "贴满！小狗",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/a/ad/Harimaware_KV.jpg/300px-Harimaware_KV.jpg"
+    },
+    {
+      "id": 51,
+      "name": "最强王图鉴 ～The Ultimate Battles～",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/16/Saikyooh.jpg/300px-Saikyooh.jpg"
+    },
+    {
+      "id": 52,
+      "name": "名汤《异世界之汤》开拓记 ～40岁左右的温泉迷的转生地是悠闲的温泉天国～",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/b0/Isekainoyu.jpg/300px-Isekainoyu.jpg"
+    },
+    {
+      "id": 53,
+      "name": "超普通县千叶传说",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/80/Chibaden_main.jpg/300px-Chibaden_main.jpg"
+    },
+    {
+      "id": 54,
+      "name": "忍不住了！加密忍者咲耶 贰之章",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/4/46/Cryptoninja2.png/300px-Cryptoninja2.png"
+    },
+    {
+      "id": 55,
+      "name": "挣扎吧，亚当君",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/dd/Adamkun.jpg/300px-Adamkun.jpg"
+    }
+  ]
+}

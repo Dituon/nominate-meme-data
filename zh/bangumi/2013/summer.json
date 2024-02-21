@@ -1,0 +1,73 @@
+{
+  "title": "2013年夏季 最佳日本动画提名",
+  "desc": "数据来自 萌娘百科; CC-BY-NC-SA 3.0",
+  "items": [
+    "最期待的动画",
+    "霸权动画",
+    "最喜欢的动画",
+    "最出圈的动画",
+    "最过誉的动画",
+    "最被低估的动画",
+    "二创最多的动画",
+    "争议最大的动画",
+    "最佳原创动画",
+    "最佳漫改/游戏改动画"
+  ],
+  "data": [
+    {
+      "id": 0,
+      "name": "玉响",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/9/94/Tamayura_2nd.png/300px-Tamayura_2nd.png"
+    },
+    {
+      "id": 1,
+      "name": "海王星系列#衍生作品",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/cf/Nep-anime_kv.jpeg/350px-Nep-anime_kv.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "物语系列 2nd season",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/7/77/Wuyu2season.jpg/350px-Wuyu2season.jpg"
+    },
+    {
+      "id": 3,
+      "name": "侦探歌剧 少女福尔摩斯",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/6/69/Yande.re_158185.jpg/300px-Yande.re_158185.jpg"
+    },
+    {
+      "id": 4,
+      "name": "萝球社",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/33/Ro-kyu-bu_ss.jpg/300px-Ro-kyu-bu_ss.jpg"
+    },
+    {
+      "id": 5,
+      "name": "》在设定和配乐方面挺相似的，不由得让人对本作更加期待。\n",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/05/5d5c7681800a19d81b95eb8432fa828ba41e4684.jpg/300px-5d5c7681800a19d81b95eb8432fa828ba41e4684.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Servant×Service",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/18/Servant%C3%97Service.png/300px-Servant%C3%97Service.png"
+    },
+    {
+      "id": 7,
+      "name": "High School D×D",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/21/Dxd.jpg/300px-Dxd.jpg"
+    },
+    {
+      "id": 8,
+      "name": "网球并不可笑嘛",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/c4/Te-kyu.jpg/300px-Te-kyu.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Free!",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/7/70/Free_swim_01.jpg/300px-Free_swim_01.jpg"
+    },
+    {
+      "id": 10,
+      "name": "没有神的星期天",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/5b/Shenbuzaidexingqitian_01.jpg/300px-Shenbuzaidexingqitian_01.jpg"
+    }
+  ]
+}

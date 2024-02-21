@@ -1,0 +1,238 @@
+{
+  "title": "2021年夏季 最佳日本动画提名",
+  "desc": "数据来自 萌娘百科; CC-BY-NC-SA 3.0",
+  "items": [
+    "最期待的动画",
+    "霸权动画",
+    "最喜欢的动画",
+    "最出圈的动画",
+    "最过誉的动画",
+    "最被低估的动画",
+    "二创最多的动画",
+    "争议最大的动画",
+    "最佳原创动画",
+    "最佳漫改/游戏改动画"
+  ],
+  "data": [
+    {
+      "id": 0,
+      "name": "LoveLive!Superstar!!",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/56/LoveLive%21Superstar%21%21_TV_Key_Visual_1.jpg/300px-LoveLive%21Superstar%21%21_TV_Key_Visual_1.jpg"
+    },
+    {
+      "id": 1,
+      "name": "寒蝉鸣泣之时 卒",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/7/71/Higurashi_Sotsu.webp/300px-Higurashi_Sotsu.webp.png"
+    },
+    {
+      "id": 2,
+      "name": "小林家的龙女仆S",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/1a/MaidragonS_KV3.jpg/300px-MaidragonS_KV3.jpg"
+    },
+    {
+      "id": 3,
+      "name": "魔法纪录 魔法少女小圆外传 2nd SEASON -觉醒前夜-",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/24/Magia_Record_Anime_S2_KV.jpg/300px-Magia_Record_Anime_S2_KV.jpg"
+    },
+    {
+      "id": 4,
+      "name": "桃子男孩渡海而来",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/7/70/Peachboyriverside_anime_kv3.jpg/300px-Peachboyriverside_anime_kv3.jpg"
+    },
+    {
+      "id": 5,
+      "name": "平稳世代的韦驮天们",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/2c/Idaten_Anime_KV2.jpg/300px-Idaten_Anime_KV2.jpg"
+    },
+    {
+      "id": 6,
+      "name": "关于我转生变成史莱姆这档事 第2期第2部",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/d7/Tensura_Anime_2nd_KV3.jpg/300px-Tensura_Anime_2nd_KV3.jpg"
+    },
+    {
+      "id": 7,
+      "name": "白沙的水族馆",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/f2/Aquatope_KV1.jpg/300px-Aquatope_KV1.jpg"
+    },
+    {
+      "id": 8,
+      "name": "漂流少年",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/9/92/Sonny_boy_Main-sp.jpg/300px-Sonny_boy_Main-sp.jpg"
+    },
+    {
+      "id": 9,
+      "name": "盖塔机器人ARC",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/b9/%E7%9B%96%E5%A1%94%E6%9C%BA%E5%99%A8%E4%BA%BAARC_2.jpg/300px-%E7%9B%96%E5%A1%94%E6%9C%BA%E5%99%A8%E4%BA%BAARC_2.jpg"
+    },
+    {
+      "id": 10,
+      "name": "星球大战：幻境",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/7/76/Star_wars-visions_KV.jpg/300px-Star_wars-visions_KV.jpg"
+    },
+    {
+      "id": 11,
+      "name": "范马刃牙",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/8f/Baki-anime_kv.jpg/300px-Baki-anime_kv.jpg"
+    },
+    {
+      "id": 12,
+      "name": "魔法科高中的优等生",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/4/40/Mahouka-yuutouse_KV2.jpg/300px-Mahouka-yuutouse_KV2.jpg"
+    },
+    {
+      "id": 13,
+      "name": "死神少爷与黑女仆",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/82/Bocchan_anime_kv.png/300px-Bocchan_anime_kv.png"
+    },
+    {
+      "id": 14,
+      "name": "阴晴不定大哥哥",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/d3/Uramichi_Anime_KV.jpg/300px-Uramichi_Anime_KV.jpg"
+    },
+    {
+      "id": 15,
+      "name": "女友成双",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/1b/Kanojo_mo_kanojo_KV2.jpg/300px-Kanojo_mo_kanojo_KV2.jpg"
+    },
+    {
+      "id": 16,
+      "name": "女神宿舍的管理员。",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/c0/Megami_Ryou_KV.png/300px-Megami_Ryou_KV.png"
+    },
+    {
+      "id": 17,
+      "name": "月光下的异世界之旅",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/c5/Tsukimichi_KV.jpg/300px-Tsukimichi_KV.jpg"
+    },
+    {
+      "id": 18,
+      "name": "RE-MAIN",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/7/78/Re-main.jpg/300px-Re-main.jpg"
+    },
+    {
+      "id": 19,
+      "name": "歌剧少女！！",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/11/Kageki_Anime_KV.jpg/300px-Kageki_Anime_KV.jpg"
+    },
+    {
+      "id": 20,
+      "name": "瓦尼塔斯的手记(前半)",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/e/ef/Vanitas_KV2.jpg/300px-Vanitas_KV2.jpg"
+    },
+    {
+      "id": 21,
+      "name": "贾希大人不气馁",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/0e/Jahysama_KV.jpg/300px-Jahysama_KV.jpg"
+    },
+    {
+      "id": 22,
+      "name": "见面5秒开始战斗",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/c4/Dea5_anime_kv1.jpg/300px-Dea5_anime_kv1.jpg"
+    },
+    {
+      "id": 23,
+      "name": "异世界迷宫黑心企业",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/6/6b/Meikyubc_anime_KV.jpg/300px-Meikyubc_anime_KV.jpg"
+    },
+    {
+      "id": 24,
+      "name": "我立于百万生命之上 第2季",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/35/1000000_Lives_Anime_S2_KV.jpg/300px-1000000_Lives_Anime_S2_KV.jpg"
+    },
+    {
+      "id": 25,
+      "name": "NIGHT HEAD 2041",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/2a/NIGHT_HEAD_kv.jpg/300px-NIGHT_HEAD_kv.jpg"
+    },
+    {
+      "id": 26,
+      "name": "转生成为了只有乙女游戏破灭Flag的邪恶大小姐X",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/4/40/Otomegame_Anime_S2_KV2.jpg/300px-Otomegame_Anime_S2_KV2.jpg"
+    },
+    {
+      "id": 27,
+      "name": "精灵幻想记",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/e/e3/Seirei_Gensouki_Anime_KV2.jpg/300px-Seirei_Gensouki_Anime_KV2.jpg"
+    },
+    {
+      "id": 28,
+      "name": "现实主义勇者的王国再建记",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/b7/Genjitsusyugisya_KV.jpg/300px-Genjitsusyugisya_KV.jpg"
+    },
+    {
+      "id": 29,
+      "name": "我们的重制人生",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/7/7c/Remake_Anime_KV.png/300px-Remake_Anime_KV.png"
+    },
+    {
+      "id": 30,
+      "name": "侦探已死",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/29/Tanmoshi_KV6.png/300px-Tanmoshi_KV6.png"
+    },
+    {
+      "id": 31,
+      "name": "开挂药师的异世界悠闲生活",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/f4/Cheat_Kusushi_KV.png/300px-Cheat_Kusushi_KV.png"
+    },
+    {
+      "id": 32,
+      "name": "生化危机 无尽暗黑",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/fb/Resident_Evil_Infinite_Darkness.jpg/300px-Resident_Evil_Infinite_Darkness.jpg"
+    },
+    {
+      "id": 33,
+      "name": "绯红结系",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/4/4c/Scarlet_Nexus_Anime_Key_Visual.png/300px-Scarlet_Nexus_Anime_Key_Visual.png"
+    },
+    {
+      "id": 34,
+      "name": "D_CIDE TRAUMEREI THE ANIMATION",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/cf/DCTM_KV2.jpg/300px-DCTM_KV2.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Obey Me! the Anime",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/d8/Obey_me_the_Anime_KV.jpg/300px-Obey_me_the_Anime_KV.jpg"
+    },
+    {
+      "id": 36,
+      "name": "IDOLiSH7 Third BEAT! Part.1",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/00/IDOLiSH7_Anime_S3_KV2.jpg/300px-IDOLiSH7_Anime_S3_KV2.jpg"
+    },
+    {
+      "id": 37,
+      "name": "TSUKIPRO THE ANIMATION 2",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/03/TSUKIPRO_THE_ANIMATION_S2_KV.jpg/300px-TSUKIPRO_THE_ANIMATION_S2_KV.jpg"
+    },
+    {
+      "id": 38,
+      "name": "我，小怼",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/2c/Ore_Tsushima_KV.jpg/300px-Ore_Tsushima_KV.jpg"
+    },
+    {
+      "id": 39,
+      "name": "暗芝居 9期",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/08/Yamishibai_S9.jpg/300px-Yamishibai_S9.jpg"
+    },
+    {
+      "id": 40,
+      "name": "Mini卡片战斗先导者 Large",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/3e/Mini_vanguard_large_KV.jpg/300px-Mini_vanguard_large_KV.jpg"
+    },
+    {
+      "id": 41,
+      "name": "指尖传出的真挚热情2-恋人是消防员-",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/4/41/Yubinetsu_Anime2_KV.jpg/300px-Yubinetsu_Anime2_KV.jpg"
+    },
+    {
+      "id": 42,
+      "name": "加油啊同期酱",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/15/Anime_Douki_KV.jpeg/300px-Anime_Douki_KV.jpeg"
+    },
+    {
+      "id": 43,
+      "name": "星期一的丰满2",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/7/7a/Tawawa2_kv.jpg/300px-Tawawa2_kv.jpg"
+    }
+  ]
+}

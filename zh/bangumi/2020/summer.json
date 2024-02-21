@@ -1,0 +1,158 @@
+{
+  "title": "2020年夏季 最佳日本动画提名",
+  "desc": "数据来自 萌娘百科; CC-BY-NC-SA 3.0",
+  "items": [
+    "最期待的动画",
+    "霸权动画",
+    "最喜欢的动画",
+    "最出圈的动画",
+    "最过誉的动画",
+    "最被低估的动画",
+    "二创最多的动画",
+    "争议最大的动画",
+    "最佳原创动画",
+    "最佳漫改/游戏改动画"
+  ],
+  "data": [
+    {
+      "id": 0,
+      "name": "我的青春恋爱物语果然有问题。完",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/a/a3/Oregairu_S3_KV.jpg/300px-Oregairu_S3_KV.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Re:从零开始的异世界生活 2nd season(前半)",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/f0/Re_Zero_Anime_S2_KV.jpg/300px-Re_Zero_Anime_S2_KV.jpg"
+    },
+    {
+      "id": 2,
+      "name": "刀剑神域 Alicization War of Underworld -THE LAST SEASON-",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/16/SAO_Alicization_War_of_Underworld_Anime_KV_2.jpg/300px-SAO_Alicization_War_of_Underworld_Anime_KV_2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "食戟之灵 豪之皿",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/d0/Shokugeki_no_Soma_5th_kv.jpg/300px-Shokugeki_no_Soma_5th_kv.jpg"
+    },
+    {
+      "id": 4,
+      "name": "炎炎消防队 贰之章",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/6/62/Enn_Enn_no_Shouboutai_S2KV.webp/300px-Enn_Enn_no_Shouboutai_S2KV.webp.png"
+    },
+    {
+      "id": 5,
+      "name": "恋与制作人～EVOL×LOVE～",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/55/%E6%81%8B%E4%B8%8E%E5%88%B6%E4%BD%9C%E4%BA%BA%E6%96%B0%E8%A7%86%E8%A7%89%E5%9B%BE.jpg/300px-%E6%81%8B%E4%B8%8E%E5%88%B6%E4%BD%9C%E4%BA%BA%E6%96%B0%E8%A7%86%E8%A7%89%E5%9B%BE.jpg"
+    },
+    {
+      "id": 6,
+      "name": "大欺诈师",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/d0/Great_Pretender_Anime_KV1.jpg/300px-Great_Pretender_Anime_KV1.jpg"
+    },
+    {
+      "id": 7,
+      "name": "天晴烂漫！",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/b4/Appare_Ranman_Anime_KV.jpg/300px-Appare_Ranman_Anime_KV.jpg"
+    },
+    {
+      "id": 8,
+      "name": "DECA-DENCE",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/80/DECA-DENCE_Anime_KV.jpg/300px-DECA-DENCE_Anime_KV.jpg"
+    },
+    {
+      "id": 9,
+      "name": "刃牙 大擂台赛篇",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/85/Baki2_theme_v5.jpg/300px-Baki2_theme_v5.jpg"
+    },
+    {
+      "id": 10,
+      "name": "龙之信条",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/19/Dragon%27s_Dogma_Teaser.png/300px-Dragon%27s_Dogma_Teaser.png"
+    },
+    {
+      "id": 11,
+      "name": "租借女友",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/5f/Kanokari_Anime_KV.jpg/300px-Kanokari_Anime_KV.jpg"
+    },
+    {
+      "id": 12,
+      "name": "放学后海堤日记",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/6/60/Teibo_KV.jpg/300px-Teibo_KV.jpg"
+    },
+    {
+      "id": 13,
+      "name": "富豪刑事 Balance:UNLIMITED",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/5a/Fugou_Keiji_Anime_KV2.jpg/300px-Fugou_Keiji_Anime_KV2.jpg"
+    },
+    {
+      "id": 14,
+      "name": "日本沉没2020",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/4/42/Japansinks2020_KV.jpg/300px-Japansinks2020_KV.jpg"
+    },
+    {
+      "id": 15,
+      "name": "魔法律事务所 2期",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/22/Mahouritsu_Anime_s2_Teaser.jpg/300px-Mahouritsu_Anime_s2_Teaser.jpg"
+    },
+    {
+      "id": 16,
+      "name": "NO GUNS LIFE 2期",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/0b/No_Guns_Life_s2_KV.jpg/300px-No_Guns_Life_s2_KV.jpg"
+    },
+    {
+      "id": 17,
+      "name": "宇崎酱想要玩耍！",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/31/Uzaki-chan_wa_Asobitai_Anime_KV.jpg/300px-Uzaki-chan_wa_Asobitai_Anime_KV.jpg"
+    },
+    {
+      "id": 18,
+      "name": "彼得·格里尔的贤者时间",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/f5/Peter_Grill_Anime_KV.webp/300px-Peter_Grill_Anime_KV.webp.png"
+    },
+    {
+      "id": 19,
+      "name": "弩级战队H×EROS",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/52/Dokyu_Hentai_Hxeros_Anime_KV2.png/300px-Dokyu_Hentai_Hxeros_Anime_KV2.png"
+    },
+    {
+      "id": 20,
+      "name": "THE GOD OF HIGH SCHOOL 高校之神",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/7/76/THE_GOD_OF_HIGH_SCHOOL_KV2.jpg/300px-THE_GOD_OF_HIGH_SCHOOL_KV2.jpg"
+    },
+    {
+      "id": 21,
+      "name": "魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学校～",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/28/Maoh_Gakuin_no_Futekigousha_Anime_KV2.jpg/300px-Maoh_Gakuin_no_Futekigousha_Anime_KV2.jpg"
+    },
+    {
+      "id": 22,
+      "name": "魔物娘的医生",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/c1/Monster_Musume_no_Oisha-san_Anime_KV.jpg/300px-Monster_Musume_no_Oisha-san_Anime_KV.jpg"
+    },
+    {
+      "id": 23,
+      "name": "GIBIATE the Animation",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/6/68/GIBIATE_Anime_KV.png/300px-GIBIATE_Anime_KV.png"
+    },
+    {
+      "id": 24,
+      "name": "宝石幻想 光芒重现",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/5c/Lapis_Re_Lights_Anime_KV.webp/300px-Lapis_Re_Lights_Anime_KV.webp.png"
+    },
+    {
+      "id": 25,
+      "name": "BanG Dream! Girls Band Party!☆PICO～大份～",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/e/ec/BanG_Dream_Pico_%E5%A4%A7%E4%BB%BD01.jpg/300px-BanG_Dream_Pico_%E5%A4%A7%E4%BB%BD01.jpg"
+    },
+    {
+      "id": 26,
+      "name": "赛马娘四格",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/87/Umayon_Anime_KV2.png/300px-Umayon_Anime_KV2.png"
+    },
+    {
+      "id": 27,
+      "name": "GET UP! GET LIVE! #GERAGERA",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/f2/Geragera_Anime.jpg/300px-Geragera_Anime.jpg"
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "title": "2016年夏季 最佳日本动画提名",
+  "desc": "数据来自 萌娘百科; CC-BY-NC-SA 3.0",
+  "items": [
+    "最期待的动画",
+    "霸权动画",
+    "最喜欢的动画",
+    "最出圈的动画",
+    "最过誉的动画",
+    "最被低估的动画",
+    "二创最多的动画",
+    "争议最大的动画",
+    "最佳原创动画",
+    "最佳漫改/游戏改动画"
+  ],
+  "data": [
+    {
+      "id": 0,
+      "name": "Rewrite",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/4/45/Rewrite_Anime_KV3.jpg/300px-Rewrite_Anime_KV3.jpg"
+    },
+    {
+      "id": 1,
+      "name": "planetarian～星之梦～",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/04/Planetarian_Project_Poster.png/300px-Planetarian_Project_Poster.png"
+    },
+    {
+      "id": 2,
+      "name": "LoveLive!Sunshine!!",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/f5/LLSS_Anime_KV.png/300px-LLSS_Anime_KV.png"
+    },
+    {
+      "id": 3,
+      "name": "Fate/kaleid liner 魔法少女☆伊莉雅 3rei!!",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/5b/Illya_3rei_KV.png/300px-Illya_3rei_KV.png"
+    },
+    {
+      "id": 4,
+      "name": "烙印勇士",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/1e/Berserk_KV2.png/300px-Berserk_KV2.png"
+    },
+    {
+      "id": 5,
+      "name": "驱魔少年 HALLOW",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/03/Dgray_visual.jpg/300px-Dgray_visual.jpg"
+    },
+    {
+      "id": 6,
+      "name": "食戟之灵 贰之皿",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/21/Shokugeki_no_Soma_2nd_KV2.jpg/300px-Shokugeki_no_Soma_2nd_KV2.jpg"
+    },
+    {
+      "id": 7,
+      "name": "弹丸论破3 -The End of 希望之峰学园- 未来篇",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/e/e2/Danganronpa_3_Mainvisual6.png/300px-Danganronpa_3_Mainvisual6.png"
+    },
+    {
+      "id": 8,
+      "name": "弹丸论破3 -The End of 希望之峰学园- 绝望篇",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/22/Danganronpa_3_Mainvisual9.png/300px-Danganronpa_3_Mainvisual9.png"
+    },
+    {
+      "id": 9,
+      "name": "齐木楠雄的灾难",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/b8/Saiki_Kusuo_no_Psi_Nan.png/300px-Saiki_Kusuo_no_Psi_Nan.png"
+    },
+    {
+      "id": 10,
+      "name": "灵能百分百",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/31/Mob_Psycho_100_KV2.jpg/300px-Mob_Psycho_100_KV2.jpg"
+    },
+    {
+      "id": 11,
+      "name": "亚尔斯兰战记 风尘乱舞",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/0c/Arslan2_main_02.png/300px-Arslan2_main_02.png"
+    },
+    {
+      "id": 12,
+      "name": "七大罪 圣战的预兆",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/9/90/7-taizai_Special.jpg/300px-7-taizai_Special.jpg"
+    },
+    {
+      "id": 13,
+      "name": "蓝海少女",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/54/Amanchu_KV2.png/300px-Amanchu_KV2.png"
+    },
+    {
+      "id": 14,
+      "name": "野球少年",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/2f/Battery_keyvisual_v2.jpg/300px-Battery_keyvisual_v2.jpg"
+    },
+    {
+      "id": 15,
+      "name": "男子啦啦队!!",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/21/Cheerboys_KV.png/300px-Cheerboys_KV.png"
+    },
+    {
+      "id": 16,
+      "name": "DAYS",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/a/a3/Days_KV2.png/300px-Days_KV2.png"
+    },
+    {
+      "id": 17,
+      "name": "orange",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/c1/Orange_Anime_KV2.jpg/300px-Orange_Anime_KV2.jpg"
+    },
+    {
+      "id": 18,
+      "name": "天真与闪电",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/4/4a/Amaama_to_Inazuma_KV2.png/300px-Amaama_to_Inazuma_KV2.png"
+    },
+    {
+      "id": 19,
+      "name": "半田君传说",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/51/Handa-kun_Anime_KV.jpg/300px-Handa-kun_Anime_KV.jpg"
+    },
+    {
+      "id": 20,
+      "name": "NEW GAME!",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/a/a7/New_Game_Anime_Visual.png/300px-New_Game_Anime_Visual.png"
+    },
+    {
+      "id": 21,
+      "name": "这个美术社大有问题！",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/27/Konobi_Anime_KV.png/300px-Konobi_Anime_KV.png"
+    },
+    {
+      "id": 22,
+      "name": "禁忌咒纹",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/e/e2/Taboo_Tattoo_Anime_KV.png/300px-Taboo_Tattoo_Anime_KV.png"
+    },
+    {
+      "id": 23,
+      "name": "初恋怪兽",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/03/Hatsukoi_Monster_Anime_KV.jpg/300px-Hatsukoi_Monster_Anime_KV.jpg"
+    },
+    {
+      "id": 24,
+      "name": "吸血鬼仆人",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/35/Servamp_KV.jpg/300px-Servamp_KV.jpg"
+    },
+    {
+      "id": 25,
+      "name": "忧郁的物怪庵",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/89/Fukigen_na_Mononokean_Anime_KV.png/300px-Fukigen_na_Mononokean_Anime_KV.png"
+    },
+    {
+      "id": 26,
+      "name": "ReLIFE",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/a/a1/Relife_1_600.jpg/300px-Relife_1_600.jpg"
+    },
+    {
+      "id": 27,
+      "name": "小桃小栗 Love Love物语",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/d1/Momokuri_1_600.jpg/300px-Momokuri_1_600.jpg"
+    },
+    {
+      "id": 28,
+      "name": "一人之下 the outcast",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/4/4a/%E4%B8%80%E4%BA%BA%E4%B9%8B%E4%B8%8B.jpg/300px-%E4%B8%80%E4%BA%BA%E4%B9%8B%E4%B8%8B.jpg"
+    },
+    {
+      "id": 29,
+      "name": "发条精灵战记 天镜的极北之星",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/38/Alderamin_KV.png/300px-Alderamin_KV.png"
+    },
+    {
+      "id": 30,
+      "name": "QUALIDEA CODE",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/9/9e/Qualidea_Code_KV2.png/300px-Qualidea_Code_KV2.png"
+    },
+    {
+      "id": 31,
+      "name": "魔装学园H×H",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/5d/Hybrid_Heart_Anime_KV.png/300px-Hybrid_Heart_Anime_KV.png"
+    },
+    {
+      "id": 32,
+      "name": "Ange Vierge",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/9/96/Ange_Vierge_Anime_KV.png/300px-Ange_Vierge_Anime_KV.png"
+    },
+    {
+      "id": 33,
+      "name": "情热传说 the X",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/35/Toz-x_Anime_KV.png/300px-Toz-x_Anime_KV.png"
+    },
+    {
+      "id": 34,
+      "name": "智龙迷城X",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/2d/Pazudora-x-anime-kv.jpg/300px-Pazudora-x-anime-kv.jpg"
+    },
+    {
+      "id": 35,
+      "name": "月歌。THE ANIMATION",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/04/Tsukiuta_the_Animation_KV2.png/300px-Tsukiuta_the_Animation_KV2.png"
+    },
+    {
+      "id": 36,
+      "name": "B-PROJECT～鼓动*Ambitious～",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/24/Bpro_Anime_KV.png/300px-Bpro_Anime_KV.png"
+    },
+    {
+      "id": 37,
+      "name": "Scared Rider Xechs",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/5a/Scared_Rider_Xechs.jpg/300px-Scared_Rider_Xechs.jpg"
+    },
+    {
+      "id": 38,
+      "name": "91Days",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/dc/91Days_KV.jpg/300px-91Days_KV.jpg"
+    },
+    {
+      "id": 39,
+      "name": "美男高校地球防卫部LOVE!LOVE!",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/1a/Boueibu_2nd_KV4.jpg/300px-Boueibu_2nd_KV4.jpg"
+    },
+    {
+      "id": 40,
+      "name": "时间旅行少女～真理·和花与8名科学家～",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/d3/Mariwaka_KV2.jpg/300px-Mariwaka_KV2.jpg"
+    },
+    {
+      "id": 41,
+      "name": "Active Raid -机动强袭室第八系- 2nd",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/8c/Activeraid_main_3.jpg/300px-Activeraid_main_3.jpg"
+    },
+    {
+      "id": 42,
+      "name": "雷加利亚三圣星",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/df/Regalia_the_Three_Sacred_Star_main3l.png/300px-Regalia_the_Three_Sacred_Star_main3l.png"
+    },
+    {
+      "id": 43,
+      "name": "SHOW BY ROCK!! SHORT!!",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/0a/Show_By_Rock_Short.png/300px-Show_By_Rock_Short.png"
+    },
+    {
+      "id": 44,
+      "name": "魔法少女？Naria☆Girls",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/34/Naria_Girls.png/300px-Naria_Girls.png"
+    },
+    {
+      "id": 45,
+      "name": "腐男子高中生活",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/e/e1/Fudanshi_Koukou_Seikatsu.jpg/300px-Fudanshi_Koukou_Seikatsu.jpg"
+    },
+    {
+      "id": 46,
+      "name": "OZMAFIA!!",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/25/Ozmafia_Anime_KV2.png/300px-Ozmafia_Anime_KV2.png"
+    },
+    {
+      "id": 47,
+      "name": "香蕉喵",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/6/64/Bananya_KV.jpg/300px-Bananya_KV.jpg"
+    }
+  ]
+}

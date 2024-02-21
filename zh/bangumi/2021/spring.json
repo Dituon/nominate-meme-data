@@ -1,0 +1,348 @@
+{
+  "title": "2021年春季 最佳日本动画提名",
+  "desc": "数据来自 萌娘百科; CC-BY-NC-SA 3.0",
+  "items": [
+    "最期待的动画",
+    "霸权动画",
+    "最喜欢的动画",
+    "最出圈的动画",
+    "最过誉的动画",
+    "最被低估的动画",
+    "二创最多的动画",
+    "争议最大的动画",
+    "最佳原创动画",
+    "最佳漫改/游戏改动画"
+  ],
+  "data": [
+    {
+      "id": 0,
+      "name": "通灵王(第2作)",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/4/4a/Shaman_King_Anime_KV2.jpg/300px-Shaman_King_Anime_KV2.jpg"
+    },
+    {
+      "id": 1,
+      "name": "伊甸星原",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/0b/Edens_Zero_Anime_KV2.jpg/300px-Edens_Zero_Anime_KV2.jpg"
+    },
+    {
+      "id": 2,
+      "name": "我的英雄学院 5期",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/e/e3/My_Hero_Academia_S5KV5.jpg/300px-My_Hero_Academia_S5KV5.jpg"
+    },
+    {
+      "id": 3,
+      "name": "王者天下3",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/3b/Kingdom_S3_KV3.jpg/300px-Kingdom_S3_KV3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "水果篮子 The Final",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/31/Fruits_Basket_2021_The_Final_KV.jpg/300px-Fruits_Basket_2021_The_Final_KV.jpg"
+    },
+    {
+      "id": 5,
+      "name": "哥斯拉 奇异点",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/f4/Godzilla_sp_anime_KV.jpg/300px-Godzilla_sp_anime_KV.jpg"
+    },
+    {
+      "id": 6,
+      "name": "大运动会 ReSTART!",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/27/Daiundoukai_restart_KV.jpg/300px-Daiundoukai_restart_KV.jpg"
+    },
+    {
+      "id": 7,
+      "name": "佐贺偶像是传奇 Revenge",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/cd/Zombie_Land_Saga_S2_KV.jpg/300px-Zombie_Land_Saga_S2_KV.jpg"
+    },
+    {
+      "id": 8,
+      "name": "SSSS.DYNAZENON",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/7/74/SSSS.DYNAZENON_KV3.jpg/300px-SSSS.DYNAZENON_KV3.jpg"
+    },
+    {
+      "id": 9,
+      "name": "86 -不存在的战区-",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/7/75/86_Anime_KV3.jpg/300px-86_Anime_KV3.jpg"
+    },
+    {
+      "id": 10,
+      "name": "美少年侦探团",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/58/Bishonen_Tantedian_KV2.jpg/300px-Bishonen_Tantedian_KV2.jpg"
+    },
+    {
+      "id": 11,
+      "name": "转生史莱姆日记 关于我转生变成史莱姆这档事",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/14/Tensura_Nikki_Anime_KV2.jpg/300px-Tensura_Nikki_Anime_KV2.jpg"
+    },
+    {
+      "id": 12,
+      "name": "影宅",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/16/ShadowsHouse_KV.jpg/300px-ShadowsHouse_KV.jpg"
+    },
+    {
+      "id": 13,
+      "name": "真白之音",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/88/Mashiro_no_Oto_Anime_KV2.jpg/300px-Mashiro_no_Oto_Anime_KV2.jpg"
+    },
+    {
+      "id": 14,
+      "name": "再见我的克拉默",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/13/Sayonara_Cramer_TV_KV2.jpg/300px-Sayonara_Cramer_TV_KV2.jpg"
+    },
+    {
+      "id": 15,
+      "name": "致不灭的你",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/07/Fumetsu_no_Anata_e_Anime_KV.jpg/300px-Fumetsu_no_Anata_e_Anime_KV.jpg"
+    },
+    {
+      "id": 16,
+      "name": "不要欺负我，长瀞同学",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/7/7c/Nagatoro-san_Anime_KV2.jpg/300px-Nagatoro-san_Anime_KV2.jpg"
+    },
+    {
+      "id": 17,
+      "name": "入间同学入魔了 第2系列",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/7/7b/Mairimashita_Iruma-kun_Anime_S2_KV.jpg/300px-Mairimashita_Iruma-kun_Anime_S2_KV.jpg"
+    },
+    {
+      "id": 18,
+      "name": "极主夫道",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/e/e6/Gokusyufu_Anime_KV.jpg/300px-Gokusyufu_Anime_KV.jpg"
+    },
+    {
+      "id": 19,
+      "name": "龙先生、想要买个家。",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/4/40/Dragons_House-Hunting_Anime_KV2.jpg/300px-Dragons_House-Hunting_Anime_KV2.jpg"
+    },
+    {
+      "id": 20,
+      "name": "如果这叫爱情感觉会很恶心",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/18/Koikimo_Anime_KV.jpg/300px-Koikimo_Anime_KV.jpg"
+    },
+    {
+      "id": 21,
+      "name": "忧国的莫里亚蒂(第2季度)",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/b0/Moriarty_the_Patriot_Anime_KV2.jpg/300px-Moriarty_the_Patriot_Anime_KV2.jpg"
+    },
+    {
+      "id": 22,
+      "name": "东京卍复仇者",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/6/65/Tokyo_revengers_KV2.jpg/300px-Tokyo_revengers_KV2.jpg"
+    },
+    {
+      "id": 23,
+      "name": "灼热卡巴迪",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/8f/Shakunetsu_kabaddi_KV_HD.jpg/300px-Shakunetsu_kabaddi_KV_HD.jpg"
+    },
+    {
+      "id": 24,
+      "name": "席斯坦 -The Roman Fighter-",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/9/94/Cestvs_the_Roman_Fighter_KV.jpg/300px-Cestvs_the_Roman_Fighter_KV.jpg"
+    },
+    {
+      "id": 25,
+      "name": "烧窑的话也要马克杯",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/fa/Yakumo_projec_KV.jpg/300px-Yakumo_projec_KV.jpg"
+    },
+    {
+      "id": 26,
+      "name": "刮掉胡子的我与捡到的女高中生",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/21/Higehiro_anime_KV1.jpg/300px-Higehiro_anime_KV1.jpg"
+    },
+    {
+      "id": 27,
+      "name": "青梅竹马绝对不会输的恋爱喜剧",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/a/a9/Osamake_animekinen_KV.jpg/300px-Osamake_animekinen_KV.jpg"
+    },
+    {
+      "id": 28,
+      "name": "打了300年的史莱姆，不知不觉就练到了满级",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/d0/Slime300_Anime_KV4.jpg/300px-Slime300_Anime_KV4.jpg"
+    },
+    {
+      "id": 29,
+      "name": "战斗员派遣中！",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/8b/Kisaragi_KV.jpg/300px-Kisaragi_KV.jpg"
+    },
+    {
+      "id": 30,
+      "name": "圣女魔力无所不能",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/23/Seijo_no_Maryoku_Teaser.jpg/300px-Seijo_no_Maryoku_Teaser.jpg"
+    },
+    {
+      "id": 31,
+      "name": "本田小狼与我",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/7/75/SUPER_CUB_anime_KV3.jpg/300px-SUPER_CUB_anime_KV3.jpg"
+    },
+    {
+      "id": 32,
+      "name": "异世界魔王与召唤少女的奴隶魔术Ω",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/ca/Isekai_Maou_S2_Anime_Main1.jpeg/300px-Isekai_Maou_S2_Anime_Main1.jpeg"
+    },
+    {
+      "id": 33,
+      "name": "如果究极进化的完全沉浸RPG比现实还更像垃圾游戏的话",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/8d/Fulldive_KV.jpg/300px-Fulldive_KV.jpg"
+    },
+    {
+      "id": 34,
+      "name": "美妙世界 The Animation",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/4/48/Subarashiki_Kono_Sekai_Anime_KV3.jpg/300px-Subarashiki_Kono_Sekai_Anime_KV3.jpg"
+    },
+    {
+      "id": 35,
+      "name": "七骑士 -英雄的继承者-",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/9/9c/Sevenknights_KV2.jpg/300px-Sevenknights_KV2.jpg"
+    },
+    {
+      "id": 36,
+      "name": "BLUE REFLECTION RAY/澪",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/04/Bluereflection_ray_anime_kv2_HD.jpg/300px-Bluereflection_ray_anime_kv2_HD.jpg"
+    },
+    {
+      "id": 37,
+      "name": "NOMAD MEGALO BOX 2",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/f8/NOMAD_MEGALO_BOX2_KV_HD.jpg/300px-NOMAD_MEGALO_BOX2_KV_HD.jpg"
+    },
+    {
+      "id": 38,
+      "name": "Vivy -Fluorite Eye's Song-",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/9/96/Vivy_FluoriteEyesSong_KV3.jpg/300px-Vivy_FluoriteEyesSong_KV3.jpg"
+    },
+    {
+      "id": 39,
+      "name": "后空翻少年！！",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/9/99/Bakuten_KV3.jpg/300px-Bakuten_KV3.jpg"
+    },
+    {
+      "id": 40,
+      "name": "MARS RED",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/2d/Marsred_KV3.png/300px-Marsred_KV3.png"
+    },
+    {
+      "id": 41,
+      "name": "扰乱 THE PRINCESS OF SNOW AND BLOOD",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/9/93/%E6%89%B0%E4%B9%B1%E4%B8%BB%E8%A7%92.jpg/300px-%E6%89%B0%E4%B9%B1%E4%B8%BB%E8%A7%92.jpg"
+    },
+    {
+      "id": 42,
+      "name": "武士弥助",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/e/e7/Yasuke_KV2.jpg/300px-Yasuke_KV2.jpg"
+    },
+    {
+      "id": 43,
+      "name": "伊甸",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/a/a3/Eden_KV.jpg/300px-Eden_KV.jpg"
+    },
+    {
+      "id": 44,
+      "name": "Fairy兰丸～让我来帮助你的心～",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/7/73/Fairyran_KV4.jpg/300px-Fairyran_KV4.jpg"
+    },
+    {
+      "id": 45,
+      "name": "奇巧计程车",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/9/91/Odd_Taxi_KV_HD.jpg/300px-Odd_Taxi_KV_HD.jpg"
+    },
+    {
+      "id": 46,
+      "name": "甜梦猫 MIX!",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/07/Mewkledreamy_Anime_MIX_KV.jpg/300px-Mewkledreamy_Anime_MIX_KV.jpg"
+    },
+    {
+      "id": 47,
+      "name": "妖怪手表♪",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/be/Youkai_Watch_2021_KV.jpg/300px-Youkai_Watch_2021_KV.jpg"
+    },
+    {
+      "id": 48,
+      "name": "更多!认真地不认真的怪侠佐罗利 第2系列",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/7/76/Motto_Zorori_S2_KV.jpg/300px-Motto_Zorori_S2_KV.jpg"
+    },
+    {
+      "id": 49,
+      "name": "SD高达世界 群英集",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/fe/SD_Gundam_World_Heroes_KV2.jpeg/300px-SD_Gundam_World_Heroes_KV2.jpeg"
+    },
+    {
+      "id": 50,
+      "name": "卡片战斗先导者 overDress SEASON1",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/19/Cardfight_Overdress_KV.png/300px-Cardfight_Overdress_KV.png"
+    },
+    {
+      "id": 51,
+      "name": "新干线变形机器人 SHINKALION Z THE ANIMATION",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/df/Shinkalion_z_KV.jpg/300px-Shinkalion_z_KV.jpg"
+    },
+    {
+      "id": 52,
+      "name": "决斗大师 KING!",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/4/48/Duel_Masters_King_KV2.jpg/300px-Duel_Masters_King_KV2.jpg"
+    },
+    {
+      "id": 53,
+      "name": "MAZICA PARTY",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/2d/Mazica_Party_KV.jpg/300px-Mazica_Party_KV.jpg"
+    },
+    {
+      "id": 54,
+      "name": "战斗陀螺BURST Dynamite Battle",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/55/Dynamite_Battle.jpg/300px-Dynamite_Battle.jpg"
+    },
+    {
+      "id": 55,
+      "name": "黑塔利亚 World★Stars",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/e/ee/Hetalia_World_Stars_KV.jpg/300px-Hetalia_World_Stars_KV.jpg"
+    },
+    {
+      "id": 56,
+      "name": "结城友奈是勇者 啾噜！",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/7/7a/Yuyuyui_tyurutto.jpg/300px-Yuyuyui_tyurutto.jpg"
+    },
+    {
+      "id": 57,
+      "name": "暴力熊",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/08/Gloomy_Bear_KV.jpg/300px-Gloomy_Bear_KV.jpg"
+    },
+    {
+      "id": 58,
+      "name": "冰冰冰 冰淇淋君",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/5d/Icecrin_KV2.jpg/300px-Icecrin_KV2.jpg"
+    },
+    {
+      "id": 59,
+      "name": "放马过来 寿司相扑",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/8c/Sushisumo_KV.jpg/300px-Sushisumo_KV.jpg"
+    },
+    {
+      "id": 60,
+      "name": "宇宙奇妙生物小铁君",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/dd/Space_academy.png/300px-Space_academy.png"
+    },
+    {
+      "id": 61,
+      "name": "恐龙庄日和",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/10/Dinosaur_Biyori.jpg/300px-Dinosaur_Biyori.jpg"
+    },
+    {
+      "id": 62,
+      "name": "变身成黑辣妹之后就和死党上床了。",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/7/72/Kurogal_KV.png/300px-Kurogal_KV.png"
+    },
+    {
+      "id": 63,
+      "name": "Pretty All Friends Selection",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/7/74/Pretty_All_Friends_Selection%E8%A7%86%E8%A7%89%E5%9B%BE.png/300px-Pretty_All_Friends_Selection%E8%A7%86%E8%A7%89%E5%9B%BE.png"
+    },
+    {
+      "id": 64,
+      "name": "终末的女武神",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/c8/%E7%BB%88%E6%9C%AB%E7%9A%84%E5%A5%B3%E6%AD%A6%E7%A5%9E_Record_of_Ragnaro.webp/300px-%E7%BB%88%E6%9C%AB%E7%9A%84%E5%A5%B3%E6%AD%A6%E7%A5%9E_Record_of_Ragnaro.webp.png"
+    },
+    {
+      "id": 65,
+      "name": "不可思议粗点心屋 钱天堂",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/4/49/Zenitendo.png/300px-Zenitendo.png"
+    }
+  ]
+}

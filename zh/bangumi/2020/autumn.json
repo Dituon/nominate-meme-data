@@ -1,0 +1,273 @@
+{
+  "title": "2020年秋季 最佳日本动画提名",
+  "desc": "数据来自 萌娘百科; CC-BY-NC-SA 3.0",
+  "items": [
+    "最期待的动画",
+    "霸权动画",
+    "最喜欢的动画",
+    "最出圈的动画",
+    "最过誉的动画",
+    "最被低估的动画",
+    "二创最多的动画",
+    "争议最大的动画",
+    "最佳原创动画",
+    "最佳漫改/游戏改动画"
+  ],
+  "data": [
+    {
+      "id": 0,
+      "name": "请问您今天要来点兔子吗？BLOOM",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/83/Diantu3_KV2.jpg/300px-Diantu3_KV2.jpg"
+    },
+    {
+      "id": 1,
+      "name": "LoveLive!虹咲学园学园偶像同好会",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/18/Llnijigaku_Anime_KV.jpg/300px-Llnijigaku_Anime_KV.jpg"
+    },
+    {
+      "id": 2,
+      "name": "半妖的夜叉姬",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/dc/Hanyo_no_Yashahime_KV.jpg/300px-Hanyo_no_Yashahime_KV.jpg"
+    },
+    {
+      "id": 3,
+      "name": "寒蝉鸣泣之时 业",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/6/6f/Higurashi_New_Anime_KV.webp/300px-Higurashi_New_Anime_KV.webp.png"
+    },
+    {
+      "id": 4,
+      "name": "成神之日",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/53/Kamisama-day_Anime_KV2.jpg/300px-Kamisama-day_Anime_KV2.jpg"
+    },
+    {
+      "id": 5,
+      "name": "在地下城寻求邂逅是否搞错了什么III",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/fc/Danmachi_Anime_S3_KV.jpg/300px-Danmachi_Anime_S3_KV.jpg"
+    },
+    {
+      "id": 6,
+      "name": "D4DJ First Mix",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/4/4f/D4DJ_anime_keyvisual2.jpg/300px-D4DJ_anime_keyvisual2.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Assault Lily BOUQUET",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/0c/Assault_Lily_BOUQUET_Anime_KV2.jpg/300px-Assault_Lily_BOUQUET_Anime_KV2.jpg"
+    },
+    {
+      "id": 8,
+      "name": "咒术回战",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/25/Jujutsu_anime_kv3.jpg/300px-Jujutsu_anime_kv3.jpg"
+    },
+    {
+      "id": 9,
+      "name": "黄金神威 第3期",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/9/9f/Golden_Kamuy_Anime_S3KV2.png/300px-Golden_Kamuy_Anime_S3KV2.png"
+    },
+    {
+      "id": 10,
+      "name": "排球少年！！ TO THE TOP(第2季度)",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/36/Haikyu_S4_KV3.jpg/300px-Haikyu_S4_KV3.jpg"
+    },
+    {
+      "id": 11,
+      "name": "勇者斗恶龙 达伊的大冒险(第2作)",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/0f/Dragon_Quest_Dai_no_Daibouken_Anime_KV.jpg/300px-Dragon_Quest_Dai_no_Daibouken_Anime_KV.jpg"
+    },
+    {
+      "id": 12,
+      "name": "阿松 3期",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/3f/Osomatsu-san_S3_kv.jpg/300px-Osomatsu-san_S3_kv.jpg"
+    },
+    {
+      "id": 13,
+      "name": "总之就是非常可爱",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/ce/Tonikakukawaii_anime_kv.jpg/300px-Tonikakukawaii_anime_kv.jpg"
+    },
+    {
+      "id": 14,
+      "name": "强袭魔女 ROAD to BERLIN",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/bd/Strike_Witches_RtB_Anime_KV.jpg/300px-Strike_Witches_RtB_Anime_KV.jpg"
+    },
+    {
+      "id": 15,
+      "name": "『催眠麦克风-Division Rap Battle-』Rhyme Anima",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/22/Hypnosis_Mic_Rhyme_Anima_KV.jpg/300px-Hypnosis_Mic_Rhyme_Anima_KV.jpg"
+    },
+    {
+      "id": 16,
+      "name": "战翼的希格德莉法",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/3b/Sigrdrifa_KV2.webp/300px-Sigrdrifa_KV2.webp.png"
+    },
+    {
+      "id": 17,
+      "name": "前说！",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/03/Maesetsu_Anime_KV.jpg/300px-Maesetsu_Anime_KV.jpg"
+    },
+    {
+      "id": 18,
+      "name": "安达与岛村",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/4/40/Adachi_to_Shimamura_Anime_KV.jpg/300px-Adachi_to_Shimamura_Anime_KV.jpg"
+    },
+    {
+      "id": 19,
+      "name": "魔法科高中的劣等生 来访者篇",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/18/Mahouka_S2KV.jpg/300px-Mahouka_S2KV.jpg"
+    },
+    {
+      "id": 20,
+      "name": "池袋西口公园",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/fe/Ikebukuro_West_Gate_Park_Anime_KV.jpg/300px-Ikebukuro_West_Gate_Park_Anime_KV.jpg"
+    },
+    {
+      "id": 21,
+      "name": "满溢的水果挞",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/31/Ochifuru_anime_KV.png/300px-Ochifuru_anime_KV.png"
+    },
+    {
+      "id": 22,
+      "name": "在魔王城说晚安",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/4/4b/Maou-jou_de_Oyasumi_anime_kv.jpg/300px-Maou-jou_de_Oyasumi_anime_kv.jpg"
+    },
+    {
+      "id": 23,
+      "name": "无能力者娜娜",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/e/e9/Munou_na_Nana_Anime_KV.jpg/300px-Munou_na_Nana_Anime_KV.jpg"
+    },
+    {
+      "id": 24,
+      "name": "NOBLESSE -大贵族-",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/be/NOBLESSE_anime_KV.jpg/300px-NOBLESSE_anime_KV.jpg"
+    },
+    {
+      "id": 25,
+      "name": "辣妹与恐龙",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/e/e5/Galkyo_Anime_KV1.jpg/300px-Galkyo_Anime_KV1.jpg"
+    },
+    {
+      "id": 26,
+      "name": "攀岩少女！ -Sport Climbing Girls-",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/1a/Climbing_Girls_KV2.png/300px-Climbing_Girls_KV2.png"
+    },
+    {
+      "id": 27,
+      "name": "我立于百万生命之上",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/81/1000000_Lives_Anime_KV2.jpg/300px-1000000_Lives_Anime_KV2.jpg"
+    },
+    {
+      "id": 28,
+      "name": "忧国的莫里亚蒂",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/df/Moriarty_the_Patriot_Anime_KV.jpg/300px-Moriarty_the_Patriot_Anime_KV.jpg"
+    },
+    {
+      "id": 29,
+      "name": "魔女之旅",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/1a/Majo_no_tabitabi_anime_kv.webp/300px-Majo_no_tabitabi_anime_kv.webp.png"
+    },
+    {
+      "id": 30,
+      "name": "这是你与我的最后战场，或是开创世界的圣战",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/50/Kimitoboku_no_saigo_no_senjo_kv.webp/300px-Kimitoboku_no_saigo_no_senjo_kv.webp.png"
+    },
+    {
+      "id": 31,
+      "name": "熊熊勇闯异世界",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/2a/Kuma_Kuma_Kuma_Bear_Anime_KV3.jpg/300px-Kuma_Kuma_Kuma_Bear_Anime_KV3.jpg"
+    },
+    {
+      "id": 32,
+      "name": "众神眷顾的男人",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/00/Kamitachi_anime_KV2.jpg/300px-Kamitachi_anime_KV2.jpg"
+    },
+    {
+      "id": 33,
+      "name": "体操武士",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/d4/Taiso_Samurai_Anime_KV.jpg/300px-Taiso_Samurai_Anime_KV.jpg"
+    },
+    {
+      "id": 34,
+      "name": "恶棍DRIVE",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/05/Akudama_Drive_KV2.jpg/300px-Akudama_Drive_KV2.jpg"
+    },
+    {
+      "id": 35,
+      "name": "IDOLiSH7 Second BEAT!",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/b1/IDOLiSH7_Anime_S2_KV.jpg/300px-IDOLiSH7_Anime_S2_KV.jpg"
+    },
+    {
+      "id": 36,
+      "name": "A3! SEASON AUTUMN &amp; WINTER",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/87/A3%21_SEASON_AUTUMN_%26_WINTER.jpg/300px-A3%21_SEASON_AUTUMN_%26_WINTER.jpg"
+    },
+    {
+      "id": 37,
+      "name": "王之逆袭 意志的继承者",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/6/64/Kings_raid_anime_kv.jpg/300px-Kings_raid_anime_kv.jpg"
+    },
+    {
+      "id": 38,
+      "name": "灾祸的真理 -ZUERST-",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/b9/Magatsu_Wahrheit_Zuerst_KV2.jpg/300px-Magatsu_Wahrheit_Zuerst_KV2.jpg"
+    },
+    {
+      "id": 39,
+      "name": "最响Kamizmode!",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/2e/Saikyo_Kamizmode_KV.jpg/300px-Saikyo_Kamizmode_KV.jpg"
+    },
+    {
+      "id": 40,
+      "name": "秘密结社 鹰之爪 ～Golden Spell～",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/02/Golden_Spell_main.jpg/300px-Golden_Spell_main.jpg"
+    },
+    {
+      "id": 41,
+      "name": "One Room Third Season",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/c8/One_Room_3rd.jpg/300px-One_Room_3rd.jpg"
+    },
+    {
+      "id": 42,
+      "name": "小碧蓝幻想!",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/4/45/Guraburu_Anime_KV.png/300px-Guraburu_Anime_KV.png"
+    },
+    {
+      "id": 43,
+      "name": "与汪汪喵喵同居的开心日常",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/e/ea/Inu_to_Neko_Docchi_mo_Katteru_to_Mainichi_Tanoshii_Anime_KV2.jpg/300px-Inu_to_Neko_Docchi_mo_Katteru_to_Mainichi_Tanoshii_Anime_KV2.jpg"
+    },
+    {
+      "id": 44,
+      "name": "铁路浪漫谭",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/4/4d/Rail_Romanesque.jpg/300px-Rail_Romanesque.jpg"
+    },
+    {
+      "id": 45,
+      "name": "土下座跪求给看",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/b9/Dogeza_anime_kv.jpg/300px-Dogeza_anime_kv.jpg"
+    },
+    {
+      "id": 46,
+      "name": "神奇柑仔店",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/bf/Zenitendo_KV.jpg/300px-Zenitendo_KV.jpg"
+    },
+    {
+      "id": 47,
+      "name": "快把我哥带走4",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/db/Anikusu_4th.jpg/300px-Anikusu_4th.jpg"
+    },
+    {
+      "id": 48,
+      "name": "无论如何都想加入生肖2",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/58/Etononeko_s2.jpg/300px-Etononeko_s2.jpg"
+    },
+    {
+      "id": 49,
+      "name": "东京GAMBO",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/dc/TOKYO_GAMBO.png/300px-TOKYO_GAMBO.png"
+    },
+    {
+      "id": 50,
+      "name": "ETERNITY ～深夜的濡恋频道♡～",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/38/Eternity.png/300px-Eternity.png"
+    }
+  ]
+}

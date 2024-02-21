@@ -1,0 +1,38 @@
+{
+  "title": "2013年秋季 最佳日本动画提名",
+  "desc": "数据来自 萌娘百科; CC-BY-NC-SA 3.0",
+  "items": [
+    "最期待的动画",
+    "霸权动画",
+    "最喜欢的动画",
+    "最出圈的动画",
+    "最过誉的动画",
+    "最被低估的动画",
+    "二创最多的动画",
+    "争议最大的动画",
+    "最佳原创动画",
+    "最佳漫改/游戏改动画"
+  ],
+  "data": [
+    {
+      "id": 0,
+      "name": "机巧少女不会受伤",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/f4/%E6%9C%BA%E5%B7%A7%E5%B0%91%E5%A5%B3%E4%B8%8D%E4%BC%9A%E5%8F%97%E4%BC%A4TV%E5%8A%A8%E7%94%BB%E5%8C%96.jpg/300px-%E6%9C%BA%E5%B7%A7%E5%B0%91%E5%A5%B3%E4%B8%8D%E4%BC%9A%E5%8F%97%E4%BC%A4TV%E5%8A%A8%E7%94%BB%E5%8C%96.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Little Busters! ～Refrain～",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/11/LBRF.jpg/300px-LBRF.jpg"
+    },
+    {
+      "id": 2,
+      "name": "境界的彼方",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/b0/Kyoukai_no_Kanata.jpg/300px-Kyoukai_no_Kanata.jpg"
+    },
+    {
+      "id": 3,
+      "name": "悠哉日常大王",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/e/eb/Mainvis_autumn.jpg/300px-Mainvis_autumn.jpg"
+    }
+  ]
+}

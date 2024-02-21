@@ -1,0 +1,198 @@
+{
+  "title": "2014年春季 最佳日本动画提名",
+  "desc": "数据来自 萌娘百科; CC-BY-NC-SA 3.0",
+  "items": [
+    "最期待的动画",
+    "霸权动画",
+    "最喜欢的动画",
+    "最出圈的动画",
+    "最过誉的动画",
+    "最被低估的动画",
+    "二创最多的动画",
+    "争议最大的动画",
+    "最佳原创动画",
+    "最佳漫改/游戏改动画"
+  ],
+  "data": [
+    {
+      "id": 0,
+      "name": "妖精的尾巴 新系列",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/39/FAIRY_TAIL_2014_Main.png/300px-FAIRY_TAIL_2014_Main.png"
+    },
+    {
+      "id": 1,
+      "name": "LoveLive! 2期",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/df/LL_LoveLive%212nd.png/300px-LL_LoveLive%212nd.png"
+    },
+    {
+      "id": 2,
+      "name": "JOJO的奇妙冒险 星尘斗士",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/dc/JOJO_second_season.jpg/300px-JOJO_second_season.jpg"
+    },
+    {
+      "id": 3,
+      "name": "虫师·续章",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/11/Mushishi_2014_KV.png/300px-Mushishi_2014_KV.png"
+    },
+    {
+      "id": 4,
+      "name": "请问您今天要来点兔子吗?",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/1c/Is_the_order_a_rabbit.jpg/300px-Is_the_order_a_rabbit.jpg"
+    },
+    {
+      "id": 5,
+      "name": "排球少年！！",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/00/Haikyu_1nd.jpg/300px-Haikyu_1nd.jpg"
+    },
+    {
+      "id": 6,
+      "name": "一周的朋友。",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/6/60/Isshuukan_Friends_KV.png/300px-Isshuukan_Friends_KV.png"
+    },
+    {
+      "id": 7,
+      "name": "我们大家的河合庄",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/d4/Kawaiso_KV.png/300px-Kawaiso_KV.png"
+    },
+    {
+      "id": 8,
+      "name": "恶魔之谜",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/a/a8/Akumanoridoru.jpg/300px-Akumanoridoru.jpg"
+    },
+    {
+      "id": 9,
+      "name": "希德尼娅的骑士",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/d1/Sidonia_no_Kishi_KV2.png/300px-Sidonia_no_Kishi_KV2.png"
+    },
+    {
+      "id": 10,
+      "name": "极黑的布伦希尔特",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/4/40/Jihei_01.jpg/300px-Jihei_01.jpg"
+    },
+    {
+      "id": 11,
+      "name": "噬魂师NOT!",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/6/6f/Soul_Eater_Not_KV.png/300px-Soul_Eater_Not_KV.png"
+    },
+    {
+      "id": 12,
+      "name": "乒乓",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/dd/Ping_Pong_Anime.jpg/300px-Ping_Pong_Anime.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Baby Steps~网球优等生~",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/f0/Baby_Steps_S1KV.png/300px-Baby_Steps_S1KV.png"
+    },
+    {
+      "id": 14,
+      "name": "漫画家与助手",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/5a/%E6%BC%AB%E7%94%BB%E5%AE%B6%E4%B8%8E%E5%8A%A9%E6%89%8B_%E6%B5%B7%E6%8A%A5.jpg/300px-%E6%BC%AB%E7%94%BB%E5%AE%B6%E4%B8%8E%E5%8A%A9%E6%89%8B_%E6%B5%B7%E6%8A%A5.jpg"
+    },
+    {
+      "id": 15,
+      "name": "犬神同学和猫山同学",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/9/9e/%E7%8A%AC%E7%A5%9E%E5%90%8C%E5%AD%A6%E5%92%8C%E7%8C%AB%E5%B1%B1%E5%90%8C%E5%AD%A6.jpg/300px-%E7%8A%AC%E7%A5%9E%E5%90%8C%E5%AD%A6%E5%92%8C%E7%8C%AB%E5%B1%B1%E5%90%8C%E5%AD%A6.jpg"
+    },
+    {
+      "id": 16,
+      "name": "NO GAME NO LIFE 游戏人生",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/a/a6/NGNL_visual.png/300px-NGNL_visual.png"
+    },
+    {
+      "id": 17,
+      "name": "约会大作战Ⅱ",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/ce/DATE_A_LIVE_S2KV.png/300px-DATE_A_LIVE_S2KV.png"
+    },
+    {
+      "id": 18,
+      "name": "棺姬嘉依卡",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/d6/Hitsugi_no_Chaika_KV.png/300px-Hitsugi_no_Chaika_KV.png"
+    },
+    {
+      "id": 19,
+      "name": "黑色子弹",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/19/Qiheidezidan.jpg/300px-Qiheidezidan.jpg"
+    },
+    {
+      "id": 20,
+      "name": "魔法科高校的劣等生",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/e/eb/Mahouka_Koukou_no_Rettousei_Main.png/300px-Mahouka_Koukou_no_Rettousei_Main.png"
+    },
+    {
+      "id": 21,
+      "name": "如果她的旗帜被折断了",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/d6/4c6ef741.png/300px-4c6ef741.png"
+    },
+    {
+      "id": 22,
+      "name": "星刻的龙骑士",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/ca/Seikoku_no_Dragonar_main.png/300px-Seikoku_no_Dragonar_main.png"
+    },
+    {
+      "id": 23,
+      "name": "众神的恶作剧",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/cb/Kamigami_no_Asobi_KV.png/300px-Kamigami_no_Asobi_KV.png"
+    },
+    {
+      "id": 24,
+      "name": "爱丝卡&amp;罗吉的炼金工房 ～黄昏天空之炼金术士～",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/82/Escha_and_Logy_KV.png/300px-Escha_and_Logy_KV.png"
+    },
+    {
+      "id": 25,
+      "name": "剑灵",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/e/ec/Blade_Soul_KV.png/300px-Blade_Soul_KV.png"
+    },
+    {
+      "id": 26,
+      "name": "目隐都市的演绎者",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/3d/Mekakucityactors_1.jpg/300px-Mekakucityactors_1.jpg"
+    },
+    {
+      "id": 27,
+      "name": "M3～其为黑钢～",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/7/79/M3_MAIN_KV.png/300px-M3_MAIN_KV.png"
+    },
+    {
+      "id": 28,
+      "name": "选择感染者WIXOSS",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/7/75/517W0kDslgL.jpg/300px-517W0kDslgL.jpg"
+    },
+    {
+      "id": 29,
+      "name": "地球队长",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/df/Captain_Earth_KV.png/300px-Captain_Earth_KV.png"
+    },
+    {
+      "id": 30,
+      "name": "愚者信长",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/9/96/Nobunaga_the_Fool_Main.png/300px-Nobunaga_the_Fool_Main.png"
+    },
+    {
+      "id": 31,
+      "name": "风云维新大将军",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/d3/Fuuun_Ishin_Dai_Shougun_KV.png/300px-Fuuun_Ishin_Dai_Shougun_KV.png"
+    },
+    {
+      "id": 32,
+      "name": "魔神之骨",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/85/Majin_Bone_KV.png/300px-Majin_Bone_KV.png"
+    },
+    {
+      "id": 33,
+      "name": "相扑力士松太郎",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/e/ec/Abarenbou_Rikishi_KV.jpg/300px-Abarenbou_Rikishi_KV.jpg"
+    },
+    {
+      "id": 34,
+      "name": "☆KERORO☆",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/37/KERORO_S5_flash.png/300px-KERORO_S5_flash.png"
+    },
+    {
+      "id": 35,
+      "name": "超爆裂异次元卡片大战 Gigant Shooter 司",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/04/Gigantshooter_KV.png/300px-Gigantshooter_KV.png"
+    }
+  ]
+}

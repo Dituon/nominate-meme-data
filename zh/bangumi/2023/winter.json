@@ -1,0 +1,333 @@
+{
+  "title": "2023年冬季 最佳日本动画提名",
+  "desc": "数据来自 萌娘百科; CC-BY-NC-SA 3.0",
+  "items": [
+    "最期待的动画",
+    "霸权动画",
+    "最喜欢的动画",
+    "最出圈的动画",
+    "最过誉的动画",
+    "最被低估的动画",
+    "二创最多的动画",
+    "争议最大的动画",
+    "最佳原创动画",
+    "最佳漫改/游戏改动画"
+  ],
+  "data": [
+    {
+      "id": 0,
+      "name": "JOJO的奇妙冒险 石之海 Part.3",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/b1/JOJO6_KV4.jpg/300px-JOJO6_KV4.jpg"
+    },
+    {
+      "id": 1,
+      "name": "宝可梦 旅途 目标是宝可梦大师",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/07/Pocket_Monster_202301.jpg/300px-Pocket_Monster_202301.jpg"
+    },
+    {
+      "id": 2,
+      "name": "进击的巨人 The Final Season 完结篇（前篇）",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/6/6a/Attack_on_Titan_final_Season_kv07.jpg/300px-Attack_on_Titan_final_Season_kv07.jpg"
+    },
+    {
+      "id": 3,
+      "name": "开阔天空！光之美少女",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/cb/Precure2023.jpg/300px-Precure2023.jpg"
+    },
+    {
+      "id": 4,
+      "name": "枪神 STAMPEDE",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/9/9c/Trigun_Stampede_KV.jpg/300px-Trigun_Stampede_KV.jpg"
+    },
+    {
+      "id": 5,
+      "name": "海盗战记 SEASON 2",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/c2/Vinland_Saga_S2KV.jpg/300px-Vinland_Saga_S2KV.jpg"
+    },
+    {
+      "id": 6,
+      "name": "虚构推理 Season2",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/b7/Kyokou_Suiri_Anime_S2_KV3.png/300px-Kyokou_Suiri_Anime_S2_KV3.png"
+    },
+    {
+      "id": 7,
+      "name": "东京卍复仇者 圣夜决战篇",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/9/9c/Tokyo_revengers_S2_KV.jpg/300px-Tokyo_revengers_S2_KV.jpg"
+    },
+    {
+      "id": 8,
+      "name": "文豪野犬 4th SEASON",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/d9/Bungo_Stray_Dogs_Main12.jpg/300px-Bungo_Stray_Dogs_Main12.jpg"
+    },
+    {
+      "id": 9,
+      "name": "不要欺负我，长瀞同学 2nd Attack",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/cf/Nagatorosan_S2_KV.jpg/300px-Nagatorosan_S2_KV.jpg"
+    },
+    {
+      "id": 10,
+      "name": "吸血鬼马上死2",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/6/60/Sugushinu_S2KV.jpg/300px-Sugushinu_S2KV.jpg"
+    },
+    {
+      "id": 11,
+      "name": "伊藤润二“MANIAC”",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/20/Junji_Ito_MANIAC_KV2.jpg/300px-Junji_Ito_MANIAC_KV2.jpg"
+    },
+    {
+      "id": 12,
+      "name": "终末的女武神II 前篇",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/20/Ragnarok_S2_KV.jpg/300px-Ragnarok_S2_KV.jpg"
+    },
+    {
+      "id": 13,
+      "name": "怕痛的我，把防御力点满就对了2",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/22/Itainohaiya_Anime_S2_KV.jpg/300px-Itainohaiya_Anime_S2_KV.jpg"
+    },
+    {
+      "id": 14,
+      "name": "魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学校～ II（第1~6话）",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/a/a6/Maohgakuin_S2_KV2.jpg/300px-Maohgakuin_S2_KV2.jpg"
+    },
+    {
+      "id": 15,
+      "name": "弦音 -联系的一箭-",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/fb/Tsurune_Anime_S2_KV.jpg/300px-Tsurune_Anime_S2_KV.jpg"
+    },
+    {
+      "id": 16,
+      "name": "在地下城寻求邂逅是否搞错了什么IV 深章 灾厄篇",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/f1/Danmachi_Anime_S4_KV2.jpg/300px-Danmachi_Anime_S4_KV2.jpg"
+    },
+    {
+      "id": 17,
+      "name": "魔术士欧菲流浪之旅 拉玛城篇",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/6/67/Orphen_S3_KV.jpg/300px-Orphen_S3_KV.jpg"
+    },
+    {
+      "id": 18,
+      "name": "英雄传说 闪之轨迹 北方战役",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/27/Northern_War_KV2.jpg/300px-Northern_War_KV2.jpg"
+    },
+    {
+      "id": 19,
+      "name": "别当欧尼酱了！",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/7/7c/Onimai_KV.jpg/300px-Onimai_KV.jpg"
+    },
+    {
+      "id": 20,
+      "name": "妖幻三重奏（第1~6话）",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/a/ab/Ayakashi_Triangle_KV3.jpg/300px-Ayakashi_Triangle_KV3.jpg"
+    },
+    {
+      "id": 21,
+      "name": "智酱是女生！",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/d3/Tomochan_KV.jpg/300px-Tomochan_KV.jpg"
+    },
+    {
+      "id": 22,
+      "name": "冰属性男子与无表情女子",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/4/4e/Icpc_Anime_KV.webp/300px-Icpc_Anime_KV.webp.png"
+    },
+    {
+      "id": 23,
+      "name": "万事屋斋藤先生转生异世界",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/5d/Saitou_anime_KV3.jpg/300px-Saitou_anime_KV3.jpg"
+    },
+    {
+      "id": 24,
+      "name": "久保同学不放过我（第1~6话）",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/01/Kubosan_KV.webp/300px-Kubosan_KV.webp.png"
+    },
+    {
+      "id": 25,
+      "name": "再得一胜！",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/cc/Ipponagain_KV2.jpg/300px-Ipponagain_KV2.jpg"
+    },
+    {
+      "id": 26,
+      "name": "物物语",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/e/ed/Momonogatari_KV.jpg/300px-Momonogatari_KV.jpg"
+    },
+    {
+      "id": 27,
+      "name": "沦落者之夜",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/9/96/Nokemono_KV.jpg/300px-Nokemono_KV.jpg"
+    },
+    {
+      "id": 28,
+      "name": "生而为狗 我很幸福",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/ff/Inuhiro_KV2HD.jpg/300px-Inuhiro_KV2HD.jpg"
+    },
+    {
+      "id": 29,
+      "name": "关于我在无意间被隔壁的天使变成废柴这件事",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/50/Otonarino_Tenshisama_KV.jpg/300px-Otonarino_Tenshisama_KV.jpg"
+    },
+    {
+      "id": 30,
+      "name": "间谍教室",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/c6/Spyroom_KV.webp/300px-Spyroom_KV.webp.png"
+    },
+    {
+      "id": 31,
+      "name": "英雄王，为了穷尽武道而转生 ～然后，成为世界最强的见习骑士♀～",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/26/Auo_Anime_KV.jpg/300px-Auo_Anime_KV.jpg"
+    },
+    {
+      "id": 32,
+      "name": "傲娇反派千金莉洁洛特与实况主远藤同学及解说员小林同学",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/4/42/Tsunlise_KV3.jpg/300px-Tsunlise_KV3.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Sugar Apple Fairy Tale",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/b1/Sugar_Apple_Fairy_Tale_anime_KV.jpg/300px-Sugar_Apple_Fairy_Tale_anime_KV.jpg"
+    },
+    {
+      "id": 34,
+      "name": "转生王女与天才千金的魔法革命",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/08/Tenten_Kakumei_KV2.jpg/300px-Tenten_Kakumei_KV2.jpg"
+    },
+    {
+      "id": 35,
+      "name": "冰剑的魔术师将要统一世界",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/3a/Hyouken_KV.jpg/300px-Hyouken_KV.jpg"
+    },
+    {
+      "id": 36,
+      "name": "被解雇的暗黑士兵（30多岁）开始了慢生活的第二人生",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/e/e3/Ankokuheishi_KV3.jpg/300px-Ankokuheishi_KV3.jpg"
+    },
+    {
+      "id": 37,
+      "name": "拥有超常技能的异世界流浪美食家",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/b5/Tonsuki_KV.jpg/300px-Tonsuki_KV.jpg"
+    },
+    {
+      "id": 38,
+      "name": "为了养老金去异界存八万金",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/3c/Roukin8_KV.jpg/300px-Roukin8_KV.jpg"
+    },
+    {
+      "id": 39,
+      "name": "异世界悠闲农家",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/81/Nonbiri_Nouka_Teaser.jpg/300px-Nonbiri_Nouka_Teaser.jpg"
+    },
+    {
+      "id": 40,
+      "name": "最强阴阳师的异世界转生记",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/b4/Saikyou_Onmyouji_KV.jpg/300px-Saikyou_Onmyouji_KV.jpg"
+    },
+    {
+      "id": 41,
+      "name": "不相信人类的冒险者们好像要去拯救世界",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/4/43/Ningenfushin_KV.jpg/300px-Ningenfushin_KV.jpg"
+    },
+    {
+      "id": 42,
+      "name": "狩火之王",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/3a/Hikarinoou_KV.jpg/300px-Hikarinoou_KV.jpg"
+    },
+    {
+      "id": 43,
+      "name": "众神眷顾的男人2",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/7/78/Kamitachi_anime_S2_KV.jpg/300px-Kamitachi_anime_S2_KV.jpg"
+    },
+    {
+      "id": 44,
+      "name": "真·进化之实 踏上胜利的人生",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/2e/%E8%BF%9B%E5%8C%96%E4%B9%8B%E5%AE%9E%E8%B8%8F%E4%B8%8A%E8%83%9C%E5%88%A9%E7%9A%84%E4%BA%BA%E7%94%9F_S2_KV.jpg/300px-%E8%BF%9B%E5%8C%96%E4%B9%8B%E5%AE%9E%E8%B8%8F%E4%B8%8A%E8%83%9C%E5%88%A9%E7%9A%84%E4%BA%BA%E7%94%9F_S2_KV.jpg"
+    },
+    {
+      "id": 45,
+      "name": "大雪海的卡纳",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/5b/Ooyukiumi_KV2.jpg/300px-Ooyukiumi_KV2.jpg"
+    },
+    {
+      "id": 46,
+      "name": "阿鲁斯的巨兽",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/e/ed/Ars_Gaint_KV3.jpg/300px-Ars_Gaint_KV3.jpg"
+    },
+    {
+      "id": 47,
+      "name": "Buddy Daddies",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/a/ab/Buddy_and_Daddies_KV2.jpg/300px-Buddy_and_Daddies_KV2.jpg"
+    },
+    {
+      "id": 48,
+      "name": "HIGH CARD",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/6/6b/HIGH_CARD_KV3.jpg/300px-HIGH_CARD_KV3.jpg"
+    },
+    {
+      "id": 49,
+      "name": "REVENGER",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/83/Revenger_KV.jpg/300px-Revenger_KV.jpg"
+    },
+    {
+      "id": 50,
+      "name": "MAKE MY DAY",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/f4/MAKE_MY_DAY_kv.jpg/300px-MAKE_MY_DAY_kv.jpg"
+    },
+    {
+      "id": 51,
+      "name": "D4DJ All Mix",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/2a/D4DJ_S2_KV.jpg/300px-D4DJ_S2_KV.jpg"
+    },
+    {
+      "id": 52,
+      "name": "IDOLiSH7 Third BEAT!（第27~30话）",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/8d/IDOLiSH7_Anime_S3_KV4.jpg/300px-IDOLiSH7_Anime_S3_KV4.jpg"
+    },
+    {
+      "id": 53,
+      "name": "TECHNOROID OVERMIND",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/5f/Technoroid_Overmind_KV.jpg/300px-Technoroid_Overmind_KV.jpg"
+    },
+    {
+      "id": 54,
+      "name": "UniteUp!",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/a/a9/UniteUp_KV.jpg/300px-UniteUp_KV.jpg"
+    },
+    {
+      "id": 55,
+      "name": "FLAGLIA",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/8e/FLAGLIA_Teaser.jpg/300px-FLAGLIA_Teaser.jpg"
+    },
+    {
+      "id": 56,
+      "name": "卡片战斗先导者 will+Dress Season2",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/7/79/Cardfight_willdress_KV2.jpg/300px-Cardfight_willdress_KV2.jpg"
+    },
+    {
+      "id": 57,
+      "name": "虹四动画",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/9/97/Niji4anime_KV.jpg/300px-Niji4anime_KV.jpg"
+    },
+    {
+      "id": 58,
+      "name": "Fate/Grand Order 藤丸立香不明白",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/2f/FGO_Anime_2023.jpg/300px-FGO_Anime_2023.jpg"
+    },
+    {
+      "id": 59,
+      "name": "突如其来埃及神2",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/35/To2ni_anime2L.jpg/300px-To2ni_anime2L.jpg"
+    },
+    {
+      "id": 60,
+      "name": "KJ FILE 续篇",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/c2/KJ_FILE_2023.jpg/300px-KJ_FILE_2023.jpg"
+    },
+    {
+      "id": 61,
+      "name": "Show Time!2~想要做唱歌的大姐姐",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/52/Showtime_Anime_S2KV.jpg/300px-Showtime_Anime_S2KV.jpg"
+    },
+    {
+      "id": 62,
+      "name": "钢管舞公主！！",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/4/4d/Poleprincess_Teaser.jpg/300px-Poleprincess_Teaser.jpg"
+    }
+  ]
+}

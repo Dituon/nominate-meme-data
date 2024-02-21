@@ -1,0 +1,243 @@
+{
+  "title": "2015年春季 最佳日本动画提名",
+  "desc": "数据来自 萌娘百科; CC-BY-NC-SA 3.0",
+  "items": [
+    "最期待的动画",
+    "霸权动画",
+    "最喜欢的动画",
+    "最出圈的动画",
+    "最过誉的动画",
+    "最被低估的动画",
+    "二创最多的动画",
+    "争议最大的动画",
+    "最佳原创动画",
+    "最佳漫改/游戏改动画"
+  ],
+  "data": [
+    {
+      "id": 0,
+      "name": "小长门有希的消失",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/8e/Yuki-chan_Anime.jpg/300px-Yuki-chan_Anime.jpg"
+    },
+    {
+      "id": 1,
+      "name": "银魂°",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/4/4c/Gintama_2015.png/300px-Gintama_2015.png"
+    },
+    {
+      "id": 2,
+      "name": "我的青春恋爱物语果然有问题 续",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/9/94/Oregairu_2nd.png/300px-Oregairu_2nd.png"
+    },
+    {
+      "id": 3,
+      "name": "魔法少女奈叶ViVid",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/bd/Lyrical_Nanoha_Vivid_KV.jpg/300px-Lyrical_Nanoha_Vivid_KV.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Fate/stay night [Unlimited Blade Works] 2nd season",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/14/FSN_KEY_6.jpg/300px-FSN_KEY_6.jpg"
+    },
+    {
+      "id": 5,
+      "name": "伪恋:",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/d9/Nisekoi_2nd.jpg/300px-Nisekoi_2nd.jpg"
+    },
+    {
+      "id": 6,
+      "name": "食戟之灵",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/de/Shokugeki_no_Soma.jpg/300px-Shokugeki_no_Soma.jpg"
+    },
+    {
+      "id": 7,
+      "name": "圣斗士星矢 黄金魂",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/1c/Seiya_Sog.jpg/300px-Seiya_Sog.jpg"
+    },
+    {
+      "id": 8,
+      "name": "境界之轮回",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/9/95/Rinne_Anime.jpg/300px-Rinne_Anime.jpg"
+    },
+    {
+      "id": 9,
+      "name": "忍者杀手",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/d3/Ninja_Slayer_From_Animation.png/300px-Ninja_Slayer_From_Animation.png"
+    },
+    {
+      "id": 10,
+      "name": "希德尼娅的骑士 第九行星战役",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/16/Knights_of_Sidonia_2nd.jpg/300px-Knights_of_Sidonia_2nd.jpg"
+    },
+    {
+      "id": 11,
+      "name": "吹响！上低音号",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/3b/Hibike_Euphonium.jpg/300px-Hibike_Euphonium.jpg"
+    },
+    {
+      "id": 12,
+      "name": "御神乐学园组曲",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/1e/Mikagura_Anime.jpg/300px-Mikagura_Anime.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Hello!!黄金拼图",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/6/6a/Kinmosa_2nd_1.jpg/300px-Kinmosa_2nd_1.jpg"
+    },
+    {
+      "id": 14,
+      "name": "钻石王牌～Second Season～",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/0c/Diaace_2nd.png/300px-Diaace_2nd.png"
+    },
+    {
+      "id": 15,
+      "name": "网球优等生 2期",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/e/e0/Baby_Steps_2nd.jpg/300px-Baby_Steps_2nd.jpg"
+    },
+    {
+      "id": 16,
+      "name": "女高网球部 4期",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/7/79/Tekyu4.png/300px-Tekyu4.png"
+    },
+    {
+      "id": 17,
+      "name": "我是高宫茄乃",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/7/78/Takamiya_Nasuno.jpg/300px-Takamiya_Nasuno.jpg"
+    },
+    {
+      "id": 18,
+      "name": "歌之王子殿下 真爱革命",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/9/93/Utapri_Revolutions.png/300px-Utapri_Revolutions.png"
+    },
+    {
+      "id": 19,
+      "name": "浦和小调",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/9/95/Urawa_Usagi.png/300px-Urawa_Usagi.png"
+    },
+    {
+      "id": 20,
+      "name": "干支魂",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/6/67/Etotama.png/300px-Etotama.png"
+    },
+    {
+      "id": 21,
+      "name": "PUNCH LINE",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/5c/Punch_Line.jpg/300px-Punch_Line.jpg"
+    },
+    {
+      "id": 22,
+      "name": "山田君与7个魔女",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/cb/Yamajo_Anime.jpg/300px-Yamajo_Anime.jpg"
+    },
+    {
+      "id": 23,
+      "name": "血界战线",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/fc/Kekkaisensen_Anime.jpg/300px-Kekkaisensen_Anime.jpg"
+    },
+    {
+      "id": 24,
+      "name": "绝命制裁X",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/81/Triagex_Anime.jpg/300px-Triagex_Anime.jpg"
+    },
+    {
+      "id": 25,
+      "name": "灵感!",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/b2/Rekan_Anime.jpg/300px-Rekan_Anime.jpg"
+    },
+    {
+      "id": 26,
+      "name": "High School D×D BorN",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/0a/High_School_DxD_3rd.jpg/300px-High_School_DxD_3rd.jpg"
+    },
+    {
+      "id": 27,
+      "name": "俺物语!!",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/d0/Oremonogatari_Anime.jpg/300px-Oremonogatari_Anime.jpg"
+    },
+    {
+      "id": 28,
+      "name": "枪神斯托拉塔斯",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/a/a3/Gunslinger_Stratos_Anime.jpg/300px-Gunslinger_Stratos_Anime.jpg"
+    },
+    {
+      "id": 29,
+      "name": "PriPara 新系列",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/21/Pripara_New.jpg/300px-Pripara_New.jpg"
+    },
+    {
+      "id": 30,
+      "name": "放学后的昴星团",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/cc/Houkago_no_Pleiades.jpg/300px-Houkago_no_Pleiades.jpg"
+    },
+    {
+      "id": 31,
+      "name": "终结的炽天使",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/be/Owari_no_Seraph_Anime.jpg/300px-Owari_no_Seraph_Anime.jpg"
+    },
+    {
+      "id": 32,
+      "name": "SHOW BY ROCK!!",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/de/Show_by_rock.jpg/300px-Show_by_rock.jpg"
+    },
+    {
+      "id": 33,
+      "name": "关于完全听不懂老公在说什么的事 第2期",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/0/04/Danna_2nd.jpg/300px-Danna_2nd.jpg"
+    },
+    {
+      "id": 34,
+      "name": "灰色的迷宫&amp;灰色的乐园",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/e/ef/Grisaia_2nd.jpg/300px-Grisaia_2nd.jpg"
+    },
+    {
+      "id": 35,
+      "name": "在地下城寻求邂逅是否搞错了什么",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/7/72/Danmachi_Anime.png/300px-Danmachi_Anime.png"
+    },
+    {
+      "id": 36,
+      "name": "亚尔斯兰战记",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/87/Arslan_main_01.png/300px-Arslan_main_01.png"
+    },
+    {
+      "id": 37,
+      "name": "电波教师",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/b0/Denpa_Kyoshi.jpg/300px-Denpa_Kyoshi.jpg"
+    },
+    {
+      "id": 38,
+      "name": "PLASTIC MEMORIES",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/16/Plastic_Memories.jpg/300px-Plastic_Memories.jpg"
+    },
+    {
+      "id": 39,
+      "name": "宝石宠物Magical Change",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/80/Jewelpet_Magical_Change.png/300px-Jewelpet_Magical_Change.png"
+    },
+    {
+      "id": 40,
+      "name": "战斗之魂 烈火魂",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/13/Battle_Spirits_Burning_Soul.jpg/300px-Battle_Spirits_Burning_Soul.jpg"
+    },
+    {
+      "id": 41,
+      "name": "未来卡搭档对战100",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/fa/Fc_Buddyfight_100.jpg/300px-Fc_Buddyfight_100.jpg"
+    },
+    {
+      "id": 42,
+      "name": "BAR 被讨厌的蔬菜",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/db/Bar_Kiraware_Yasai.jpg/300px-Bar_Kiraware_Yasai.jpg"
+    },
+    {
+      "id": 43,
+      "name": "\n",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/7/72/Koukaku_AAA.jpg/300px-Koukaku_AAA.jpg"
+    },
+    {
+      "id": 44,
+      "name": "美少女战士Crystal",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/6/63/Sailor_Moon_Crystal_TV.jpg/300px-Sailor_Moon_Crystal_TV.jpg"
+    }
+  ]
+}

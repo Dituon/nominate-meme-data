@@ -33,6 +33,230 @@
     "name": "星穹铁道 光锥",
     "id": "star_rail/light_cone",
     "avatar": "https://www.miyoushe.com/_nuxt/img/game-sr.4f80911.jpg"
+  },
+  {
+    "name": "2024年冬季 日本动画",
+    "id": "bangumi/2024/winter",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/f/f4/Delicious_in_Dungeon_KV2.jpg/300px-Delicious_in_Dungeon_KV2.jpg"
+  },
+  {
+    "name": "2023年冬季 日本动画",
+    "id": "bangumi/2023/winter",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/b/b1/JOJO6_KV4.jpg/300px-JOJO6_KV4.jpg"
+  },
+  {
+    "name": "2023年春季 日本动画",
+    "id": "bangumi/2023/spring",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/5/5e/Kimetsu_no_Yaiba_Anime_S3_KV2.jpg/300px-Kimetsu_no_Yaiba_Anime_S3_KV2.jpg"
+  },
+  {
+    "name": "2023年夏季 日本动画",
+    "id": "bangumi/2023/summer",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/e/ee/Yohane_KV2.jpg/300px-Yohane_KV2.jpg"
+  },
+  {
+    "name": "2023年秋季 日本动画",
+    "id": "bangumi/2023/autumn",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/7/7d/Million_Live_KV2.jpg/300px-Million_Live_KV2.jpg"
+  },
+  {
+    "name": "2022年冬季 日本动画",
+    "id": "bangumi/2022/winter",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/8/8e/JOJO6_KV.jpg/300px-JOJO6_KV.jpg"
+  },
+  {
+    "name": "2022年春季 日本动画",
+    "id": "bangumi/2022/spring",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/1/11/Blackrockshooter_DAWN_FALL_KV4.jpg/300px-Blackrockshooter_DAWN_FALL_KV4.jpg"
+  },
+  {
+    "name": "2022年夏季 日本动画",
+    "id": "bangumi/2022/summer",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/9/90/Utawarerumono_KV.jpg/300px-Utawarerumono_KV.jpg"
+  },
+  {
+    "name": "2022年秋季 日本动画",
+    "id": "bangumi/2022/autumn",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/7/76/Kancolle_Anime_S2_KV3.webp/300px-Kancolle_Anime_S2_KV3.webp.png"
+  },
+  {
+    "name": "2021年冬季 日本动画",
+    "id": "bangumi/2021/winter",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/c/c5/Hataraku_Saibo_S2KV.jpg/300px-Hataraku_Saibo_S2KV.jpg"
+  },
+  {
+    "name": "2021年春季 日本动画",
+    "id": "bangumi/2021/spring",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/4/4a/Shaman_King_Anime_KV2.jpg/300px-Shaman_King_Anime_KV2.jpg"
+  },
+  {
+    "name": "2021年夏季 日本动画",
+    "id": "bangumi/2021/summer",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/5/56/LoveLive%21Superstar%21%21_TV_Key_Visual_1.jpg/300px-LoveLive%21Superstar%21%21_TV_Key_Visual_1.jpg"
+  },
+  {
+    "name": "2021年秋季 日本动画",
+    "id": "bangumi/2021/autumn",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/7/72/Muv_Luv_Alternative_the_Animation_kv3.jpeg/300px-Muv_Luv_Alternative_the_Animation_kv3.jpeg"
+  },
+  {
+    "name": "2020年冬季 日本动画",
+    "id": "bangumi/2020/winter",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/7/75/Magia_Record_Anime_KV2.jpg/300px-Magia_Record_Anime_KV2.jpg"
+  },
+  {
+    "name": "2020年春季 日本动画",
+    "id": "bangumi/2020/spring",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/9/98/Princess_Connect_Re_Dive_Anime_KV.png/300px-Princess_Connect_Re_Dive_Anime_KV.png"
+  },
+  {
+    "name": "2020年夏季 日本动画",
+    "id": "bangumi/2020/summer",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/a/a3/Oregairu_S3_KV.jpg/300px-Oregairu_S3_KV.jpg"
+  },
+  {
+    "name": "2020年秋季 日本动画",
+    "id": "bangumi/2020/autumn",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/8/83/Diantu3_KV2.jpg/300px-Diantu3_KV2.jpg"
+  },
+  {
+    "name": "2019年冬季 日本动画",
+    "id": "bangumi/2019/winter",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/4/43/The_Promised_Neverland_Anime_KV.jpg/300px-The_Promised_Neverland_Anime_KV.jpg"
+  },
+  {
+    "name": "2019年春季 日本动画",
+    "id": "bangumi/2019/spring",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/8/87/Kimetsu_no_Yaiba_Anime_KV3.jpg/300px-Kimetsu_no_Yaiba_Anime_KV3.jpg"
+  },
+  {
+    "name": "2019年夏季 日本动画",
+    "id": "bangumi/2019/summer",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/5/59/DS%E3%83%86%E3%82%A3%E3%82%B6%E3%83%BC%E7%89%88%E6%A8%A92_RRRR.jpg/300px-DS%E3%83%86%E3%82%A3%E3%82%B6%E3%83%BC%E7%89%88%E6%A8%A92_RRRR.jpg"
+  },
+  {
+    "name": "2019年秋季 日本动画",
+    "id": "bangumi/2019/autumn",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/1/16/PSYCHO-PASS_3_KV_.jpg/300px-PSYCHO-PASS_3_KV_.jpg"
+  },
+  {
+    "name": "2018年冬季 日本动画",
+    "id": "bangumi/2018/winter",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/d/d0/CCSakura_Clear_Card_KV2.jpg/300px-CCSakura_Clear_Card_KV2.jpg"
+  },
+  {
+    "name": "2018年春季 日本动画",
+    "id": "bangumi/2018/spring",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/2/28/SG0_Anime_KVF.jpg/300px-SG0_Anime_KVF.jpg"
+  },
+  {
+    "name": "2018年夏季 日本动画",
+    "id": "bangumi/2018/summer",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/2/28/Attack_on_Titan_Season_3_KV3.jpg/300px-Attack_on_Titan_Season_3_KV3.jpg"
+  },
+  {
+    "name": "2018年秋季 日本动画",
+    "id": "bangumi/2018/autumn",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/a/af/SAO_Alicization_Anime_KV2.jpg/300px-SAO_Alicization_Anime_KV2.jpg"
+  },
+  {
+    "name": "2017年冬季 日本动画",
+    "id": "bangumi/2017/winter",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/5/5d/Rewrite_Anime_KV5.jpg/300px-Rewrite_Anime_KV5.jpg"
+  },
+  {
+    "name": "2017年春季 日本动画",
+    "id": "bangumi/2017/spring",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/8/8e/BORUTO_KV.jpg/300px-BORUTO_KV.jpg"
+  },
+  {
+    "name": "2017年夏季 日本动画",
+    "id": "bangumi/2017/summer",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/0/0b/Jigoku_Shoujo_Yoi_no_Togi_KV.png/300px-Jigoku_Shoujo_Yoi_no_Togi_KV.png"
+  },
+  {
+    "name": "2017年秋季 日本动画",
+    "id": "bangumi/2017/autumn",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/4/4f/LLSS_Anime_KV2.jpg/300px-LLSS_Anime_KV2.jpg"
+  },
+  {
+    "name": "2016年冬季 日本动画",
+    "id": "bangumi/2016/winter",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/c/c7/%E6%9A%97%E6%9D%80%E6%95%99%E5%AE%A4_%E6%B5%B7%E6%8A%A5_2%E6%9C%9F.jpg/300px-%E6%9A%97%E6%9D%80%E6%95%99%E5%AE%A4_%E6%B5%B7%E6%8A%A5_2%E6%9C%9F.jpg"
+  },
+  {
+    "name": "2016年春季 日本动画",
+    "id": "bangumi/2016/spring",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/e/ef/Gyakuten_Saiban_Sono_Shinjitsu_Igi_Ari.jpg/300px-Gyakuten_Saiban_Sono_Shinjitsu_Igi_Ari.jpg"
+  },
+  {
+    "name": "2016年夏季 日本动画",
+    "id": "bangumi/2016/summer",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/4/45/Rewrite_Anime_KV3.jpg/300px-Rewrite_Anime_KV3.jpg"
+  },
+  {
+    "name": "2016年秋季 日本动画",
+    "id": "bangumi/2016/autumn",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/6/63/Sound_Euphonium_2_KV2.png/300px-Sound_Euphonium_2_KV2.png"
+  },
+  {
+    "name": "2015年冬季 日本动画",
+    "id": "bangumi/2015/winter",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/e/e3/Durararax2main.png/300px-Durararax2main.png"
+  },
+  {
+    "name": "2015年春季 日本动画",
+    "id": "bangumi/2015/spring",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/8/8e/Yuki-chan_Anime.jpg/300px-Yuki-chan_Anime.jpg"
+  },
+  {
+    "name": "2015年夏季 日本动画",
+    "id": "bangumi/2015/summer",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/b/b1/Charlotte_KV3.jpg/300px-Charlotte_KV3.jpg"
+  },
+  {
+    "name": "2015年秋季 日本动画",
+    "id": "bangumi/2015/autumn",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/0/04/%E7%BB%88%E7%89%A9%E8%AF%ADmain2.png/300px-%E7%BB%88%E7%89%A9%E8%AF%ADmain2.png"
+  },
+  {
+    "name": "2014年冬季 日本动画",
+    "id": "bangumi/2014/winter",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/9/9a/Chu2ren.jpg/300px-Chu2ren.jpg"
+  },
+  {
+    "name": "2014年春季 日本动画",
+    "id": "bangumi/2014/spring",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/3/39/FAIRY_TAIL_2014_Main.png/300px-FAIRY_TAIL_2014_Main.png"
+  },
+  {
+    "name": "2014年夏季 日本动画",
+    "id": "bangumi/2014/summer",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/9/9d/Sword_art_Online_S2_KV2.jpg/300px-Sword_art_Online_S2_KV2.jpg"
+  },
+  {
+    "name": "2014年秋季 日本动画",
+    "id": "bangumi/2014/autumn",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/1/14/FSN_KEY_4.jpg/300px-FSN_KEY_4.jpg"
+  },
+  {
+    "name": "2013年冬季 日本动画",
+    "id": "bangumi/2013/winter",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/2/2e/Da.Capo.full.326236.jpg/300px-Da.Capo.full.326236.jpg"
+  },
+  {
+    "name": "2013年春季 日本动画",
+    "id": "bangumi/2013/spring",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/8/8a/ToaruS_bg.jpg/300px-ToaruS_bg.jpg"
+  },
+  {
+    "name": "2013年夏季 日本动画",
+    "id": "bangumi/2013/summer",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/9/94/Tamayura_2nd.png/300px-Tamayura_2nd.png"
+  },
+  {
+    "name": "2013年秋季 日本动画",
+    "id": "bangumi/2013/autumn",
+    "avatar": "https://img.moegirl.org.cn/common/thumb/f/f4/%E6%9C%BA%E5%B7%A7%E5%B0%91%E5%A5%B3%E4%B8%8D%E4%BC%9A%E5%8F%97%E4%BC%A4TV%E5%8A%A8%E7%94%BB%E5%8C%96.jpg/300px-%E6%9C%BA%E5%B7%A7%E5%B0%91%E5%A5%B3%E4%B8%8D%E4%BC%9A%E5%8F%97%E4%BC%A4TV%E5%8A%A8%E7%94%BB%E5%8C%96.jpg"
   }
-  
 ]

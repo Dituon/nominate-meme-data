@@ -1,0 +1,203 @@
+{
+  "title": "2014年秋季 最佳日本动画提名",
+  "desc": "数据来自 萌娘百科; CC-BY-NC-SA 3.0",
+  "items": [
+    "最期待的动画",
+    "霸权动画",
+    "最喜欢的动画",
+    "最出圈的动画",
+    "最过誉的动画",
+    "最被低估的动画",
+    "二创最多的动画",
+    "争议最大的动画",
+    "最佳原创动画",
+    "最佳漫改/游戏改动画"
+  ],
+  "data": [
+    {
+      "id": 0,
+      "name": "Fate/stay night [Unlimited Blade Works]",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/14/FSN_KEY_4.jpg/300px-FSN_KEY_4.jpg"
+    },
+    {
+      "id": 1,
+      "name": "PSYCHO-PASS 心理测量者 2",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/c6/PSYCHO-PASS_2_MAIN.jpg/300px-PSYCHO-PASS_2_MAIN.jpg"
+    },
+    {
+      "id": 2,
+      "name": "魔术快斗1412",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/b5/Magickaito_l.jpg/300px-Magickaito_l.jpg"
+    },
+    {
+      "id": 3,
+      "name": "寻找遗失的未来",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/b6/Ushinawareta_Mirai_o_Motomete_Anime.jpg/300px-Ushinawareta_Mirai_o_Motomete_Anime.jpg"
+    },
+    {
+      "id": 4,
+      "name": "大图书馆的牧羊人",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/d2/Daitoshokan_no_Hitsujikai_Anime.png/300px-Daitoshokan_no_Hitsujikai_Anime.png"
+    },
+    {
+      "id": 5,
+      "name": "笑傲昙天",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/f8/Donten_ni_Warau_Anime.jpg/300px-Donten_ni_Warau_Anime.jpg"
+    },
+    {
+      "id": 6,
+      "name": "灰色的果实",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/2c/Grisaia_no_Kajitsu_Anime2.jpg/300px-Grisaia_no_Kajitsu_Anime2.jpg"
+    },
+    {
+      "id": 7,
+      "name": "绿林女儿罗妮娅",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/88/Ronia_poster.jpg/300px-Ronia_poster.jpg"
+    },
+    {
+      "id": 8,
+      "name": "寄生兽 生命的准则",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/7/7f/Kiseiju.jpg/300px-Kiseiju.jpg"
+    },
+    {
+      "id": 9,
+      "name": "高达G之复国运动",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/e/ee/Gundam_Reconguista_in_G.jpg/300px-Gundam_Reconguista_in_G.jpg"
+    },
+    {
+      "id": 10,
+      "name": "高达创战者TRY",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/e/e8/Gundam_BFT.png/300px-Gundam_BFT.png"
+    },
+    {
+      "id": 11,
+      "name": "记录的地平线 2期",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/51/Log_Horizon_2nd.jpg/300px-Log_Horizon_2nd.jpg"
+    },
+    {
+      "id": 12,
+      "name": "四月是你的谎言",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/8f/Kimiuso.jpg/300px-Kimiuso.jpg"
+    },
+    {
+      "id": 13,
+      "name": "七大罪",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/8a/7-taizai.jpg/300px-7-taizai.jpg"
+    },
+    {
+      "id": 14,
+      "name": "结城友奈是勇者",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/bf/Yuki_Yuna_wa_Yusha_de_Aru.jpg/300px-Yuki_Yuna_wa_Yusha_de_Aru.jpg"
+    },
+    {
+      "id": 15,
+      "name": "巴哈姆特之怒 GENESIS",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/4/46/Shingeki_no_Bahamut_Genesis.jpg/300px-Shingeki_no_Bahamut_Genesis.jpg"
+    },
+    {
+      "id": 16,
+      "name": "TRINITY SEVEN",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/1d/TRINITY_SEVEN.jpg/300px-TRINITY_SEVEN.jpg"
+    },
+    {
+      "id": 17,
+      "name": "魔弹之王与战姬",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/87/Madan_Anime.jpg/300px-Madan_Anime.jpg"
+    },
+    {
+      "id": 18,
+      "name": "天体的秩序",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/9/9a/Sora_no_Method.jpg/300px-Sora_no_Method.jpg"
+    },
+    {
+      "id": 19,
+      "name": "爱·天地无用！",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/c9/Ai_Tenchi_Muyo.png/300px-Ai_Tenchi_Muyo.png"
+    },
+    {
+      "id": 20,
+      "name": "棺姬嘉依卡 AVENGING BATTLE",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/b8/Chaika_AB.jpg/300px-Chaika_AB.jpg"
+    },
+    {
+      "id": 21,
+      "name": "甘城光辉游乐园",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/bf/Amagi_Brilliant_Park.jpg/300px-Amagi_Brilliant_Park.jpg"
+    },
+    {
+      "id": 22,
+      "name": "日常系的异能战斗",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/c4/Inou_Battle_wa_Nichijou-kei_no_Naka_de.jpg/300px-Inou_Battle_wa_Nichijou-kei_no_Naka_de.jpg"
+    },
+    {
+      "id": 23,
+      "name": "银仙",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/86/Kokkuri-san_Anime.png/300px-Kokkuri-san_Anime.png"
+    },
+    {
+      "id": 24,
+      "name": "Girl Friend BETA",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/50/GFBETA_Anime.jpg/300px-GFBETA_Anime.jpg"
+    },
+    {
+      "id": 25,
+      "name": "境界触发者",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/9/99/World_Trigger.jpg/300px-World_Trigger.jpg"
+    },
+    {
+      "id": 26,
+      "name": "世嘉硬件女孩",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/33/SeHa_Girl.png/300px-SeHa_Girl.png"
+    },
+    {
+      "id": 27,
+      "name": "我家浴缸的二三事",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/d2/Orenchi_no_Furo_Jijou.jpg/300px-Orenchi_no_Furo_Jijou.jpg"
+    },
+    {
+      "id": 28,
+      "name": "电器街的漫画店",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/14/Denkigai_no_Honya-san.jpg/300px-Denkigai_no_Honya-san.jpg"
+    },
+    {
+      "id": 29,
+      "name": "选择扩散者WIXOSS",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/f9/Selector_Spread_Wixoss.jpg/300px-Selector_Spread_Wixoss.jpg"
+    },
+    {
+      "id": 30,
+      "name": "CROSS ANGE 天使与龙的轮舞",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/7/78/Cross_Ange.jpg/300px-Cross_Ange.jpg"
+    },
+    {
+      "id": 31,
+      "name": "晨曦公主",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/e/e8/Akatsuki_no_Yona_Anime.jpg/300px-Akatsuki_no_Yona_Anime.jpg"
+    },
+    {
+      "id": 32,
+      "name": "狼少女与黑王子",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/db/Ookami_Shoujo.jpg/300px-Ookami_Shoujo.jpg"
+    },
+    {
+      "id": 33,
+      "name": "白箱",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/55/SHIROBAKO.jpg/300px-SHIROBAKO.jpg"
+    },
+    {
+      "id": 34,
+      "name": "我，要成为双马尾",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/7/7f/Twintail.jpg/300px-Twintail.jpg"
+    },
+    {
+      "id": 35,
+      "name": "关于完全听不懂老公在说什么的事",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/4/47/Danna_Anime.jpg/300px-Danna_Anime.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Wake Up,GirlZOO!",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/1d/Wug_Zoo.png/300px-Wug_Zoo.png"
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "title": "2018年春季 最佳日本动画提名",
+  "desc": "数据来自 萌娘百科; CC-BY-NC-SA 3.0",
+  "items": [
+    "最期待的动画",
+    "霸权动画",
+    "最喜欢的动画",
+    "最出圈的动画",
+    "最过誉的动画",
+    "最被低估的动画",
+    "二创最多的动画",
+    "争议最大的动画",
+    "最佳原创动画",
+    "最佳漫改/游戏改动画"
+  ],
+  "data": [
+    {
+      "id": 0,
+      "name": "命运石之门0",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/28/SG0_Anime_KVF.jpg/300px-SG0_Anime_KVF.jpg"
+    },
+    {
+      "id": 1,
+      "name": "银河英雄传说 Die Neue These 邂逅",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/87/Gineiden_Die_Neue_These_KV.jpg/300px-Gineiden_Die_Neue_These_KV.jpg"
+    },
+    {
+      "id": 2,
+      "name": "全金属狂潮! Invisible Victory",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/dc/Furumeta_IV_KV.jpg/300px-Furumeta_IV_KV.jpg"
+    },
+    {
+      "id": 3,
+      "name": "刀剑神域外传 Gun Gale Online",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/e/ec/SAOGGO_Anime_KV.jpg/300px-SAOGGO_Anime_KV.jpg"
+    },
+    {
+      "id": 4,
+      "name": "我的英雄学院 3期",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/34/My_Hero_Academia_S3KV2.jpg/300px-My_Hero_Academia_S3KV2.jpg"
+    },
+    {
+      "id": 5,
+      "name": "食戟之灵 餐之皿 远月列车篇",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/c7/Shokugeki_no_Soma_3rd_KV4.jpg/300px-Shokugeki_no_Soma_3rd_KV4.jpg"
+    },
+    {
+      "id": 6,
+      "name": "东京食尸鬼:re",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/3e/Tokyo_Ghoul_Re_KV2.jpg/300px-Tokyo_Ghoul_Re_KV2.jpg"
+    },
+    {
+      "id": 7,
+      "name": "鲁邦三世 PART5",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/8c/Lupin_the_Third_Part_5_KV.jpg/300px-Lupin_the_Third_Part_5_KV.jpg"
+    },
+    {
+      "id": 8,
+      "name": "重神机潘多拉",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/50/Jushinki_Pandora_Mainvisual4.jpg/300px-Jushinki_Pandora_Mainvisual4.jpg"
+    },
+    {
+      "id": 9,
+      "name": "多田君不恋爱",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/26/Tadakoi_KV.jpg/300px-Tadakoi_KV.jpg"
+    },
+    {
+      "id": 10,
+      "name": "女神异闻录5 the Animation",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/28/Persona5a_KV.jpg/300px-Persona5a_KV.jpg"
+    },
+    {
+      "id": 11,
+      "name": "赛马娘 Pretty Derby",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/ce/Umamusu_Anime_KV3.jpg/300px-Umamusu_Anime_KV3.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Cutie Honey Universe",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/8c/Cutie_Honey_Universe_KV.jpg/300px-Cutie_Honey_Universe_KV.jpg"
+    },
+    {
+      "id": 13,
+      "name": "LOST SONG",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/11/Lost_Song_KV2.jpg/300px-Lost_Song_KV2.jpg"
+    },
+    {
+      "id": 14,
+      "name": "高达Build Divers",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/a/a0/Gundam_Build_Divers.jpg/300px-Gundam_Build_Divers.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Lostorage conflated WIXOSS",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/7/77/Lostorage_conflated_WIXOSS_KV2l.jpg/300px-Lostorage_conflated_WIXOSS_KV2l.jpg"
+    },
+    {
+      "id": 16,
+      "name": "美男高校地球防卫部HAPPY KISS!",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/8d/Boueibu_HK_KV.jpg/300px-Boueibu_HK_KV.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Hisone &amp; Masotan",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/d/d5/Hisone_to_Masotan_KV2.jpg/300px-Hisone_to_Masotan_KV2.jpg"
+    },
+    {
+      "id": 18,
+      "name": "装刀凯 The Animation",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/85/Sword_Gai_KV.jpg/300px-Sword_Gai_KV.jpg"
+    },
+    {
+      "id": 19,
+      "name": "黄金神威",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/f3/Golden_Kamuy_Anime_KV2.jpg/300px-Golden_Kamuy_Anime_KV2.jpg"
+    },
+    {
+      "id": 20,
+      "name": "蓝海少女～advance～",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/18/Amanchu_Advance_KV2l.jpg/300px-Amanchu_Advance_KV2l.jpg"
+    },
+    {
+      "id": 21,
+      "name": "宅男腐女恋爱真难",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/a/a0/Wotakoi_Anime_KVl.jpg/300px-Wotakoi_Anime_KVl.jpg"
+    },
+    {
+      "id": 22,
+      "name": "琴之森",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/5e/Piano_no_Mori_KV.jpg/300px-Piano_no_Mori_KV.jpg"
+    },
+    {
+      "id": 23,
+      "name": "足球小将(动画第4作)",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/23/Captain_Tsubasa_2018_KV.jpg/300px-Captain_Tsubasa_2018_KV.jpg"
+    },
+    {
+      "id": 24,
+      "name": "鬼太郎(动画第6作)",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/7/7f/Gegege_no_Kitaro_6th_Teaser2l.jpg/300px-Gegege_no_Kitaro_6th_Teaser2l.jpg"
+    },
+    {
+      "id": 25,
+      "name": "苍天之拳 REGENESIS",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/b0/Souten_no_Ken_Regenesis_Anime_KV.jpg/300px-Souten_no_Ken_Regenesis_Anime_KV.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Comic Girls",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/5c/Comic_Girls_Anime_KV.jpg/300px-Comic_Girls_Anime_KV.jpg"
+    },
+    {
+      "id": 27,
+      "name": "鬼灯的冷彻 第贰期 其之贰",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/c4/Hozuki_no_Reitetsu_2nd_KV2.jpg/300px-Hozuki_no_Reitetsu_2nd_KV2.jpg"
+    },
+    {
+      "id": 28,
+      "name": "黑社会的超能力女儿",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/4/4f/Hinamatsuri_KV2.jpg/300px-Hinamatsuri_KV2.jpg"
+    },
+    {
+      "id": 29,
+      "name": "奴隶区 The Animation",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/4/49/Doreiku_Anime_KV.jpg/300px-Doreiku_Anime_KV.jpg"
+    },
+    {
+      "id": 30,
+      "name": "恶魔战线",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/6/61/Devilsline_Anime_KV.jpg/300px-Devilsline_Anime_KV.jpg"
+    },
+    {
+      "id": 31,
+      "name": "3D女友 REAL GIRL",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/e/ee/3D_Girlfriend_KV.jpg/300px-3D_Girlfriend_KV.jpg"
+    },
+    {
+      "id": 32,
+      "name": "魔法少女 俺",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/6/68/Magical_Girl_Ore_Anime_KV2.jpg/300px-Magical_Girl_Ore_Anime_KV2.jpg"
+    },
+    {
+      "id": 33,
+      "name": "魔法少女网站",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/6/6f/Magical_Girl_Site_Anime_KV.jpg/300px-Magical_Girl_Site_Anime_KV.jpg"
+    },
+    {
+      "id": 34,
+      "name": "棒球大联盟2nd",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/c8/Major_2nd_Anime_KV.jpg/300px-Major_2nd_Anime_KV.jpg"
+    },
+    {
+      "id": 35,
+      "name": "钱进球场",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/55/Gurazeni_Anime_KV2l.jpg/300px-Gurazeni_Anime_KV2l.jpg"
+    },
+    {
+      "id": 36,
+      "name": "MEGALO BOX",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/29/Megalo_Box_KV.jpg/300px-Megalo_Box_KV.jpg"
+    },
+    {
+      "id": 37,
+      "name": "和风吃茶鹿枫堂",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/22/Rokuhoudou_Anime_KV2.jpg/300px-Rokuhoudou_Anime_KV2.jpg"
+    },
+    {
+      "id": 38,
+      "name": "实验品家庭",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/e/e9/Creatures_Family_Days_KV.jpg/300px-Creatures_Family_Days_KV.jpg"
+    },
+    {
+      "id": 39,
+      "name": "罪人与龙共舞",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/87/Dance_with_the_Dragons_KV3.jpg/300px-Dance_with_the_Dragons_KV3.jpg"
+    },
+    {
+      "id": 40,
+      "name": "异世界居酒屋～古都阿伊特力亚的居酒屋阿信～",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/24/Nobu_anime_KV2.jpg/300px-Nobu_anime_KV2.jpg"
+    },
+    {
+      "id": 41,
+      "name": "妖怪旅馆营业中",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/1/1c/Kakuriyo_no_Yadomeshi_KV.jpg/300px-Kakuriyo_no_Yadomeshi_KV.jpg"
+    },
+    {
+      "id": 42,
+      "name": "恶魔高校D×D HERO",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/83/High_School_DxD_HERO_KV.jpg/300px-High_School_DxD_HERO_KV.jpg"
+    },
+    {
+      "id": 43,
+      "name": "妖怪手表 暗影派",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/28/Youkai_Watch_Shadow_Side.jpg/300px-Youkai_Watch_Shadow_Side.jpg"
+    },
+    {
+      "id": 44,
+      "name": "美妙☆频道",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/c7/Kiratto_Pri_Chan_.jpg/300px-Kiratto_Pri_Chan_.jpg"
+    },
+    {
+      "id": 45,
+      "name": "偶像活动Friends!",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/c3/Aikatsu_Friends.jpg/300px-Aikatsu_Friends.jpg"
+    },
+    {
+      "id": 46,
+      "name": "卡里古拉",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/27/Caligula_Anime_KV1.jpg/300px-Caligula_Anime_KV1.jpg"
+    },
+    {
+      "id": 47,
+      "name": "冷然之天秤",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/c4/Libra_of_Nil_Admirari_KV.jpg/300px-Libra_of_Nil_Admirari_KV.jpg"
+    },
+    {
+      "id": 48,
+      "name": "闪电十一人 阿瑞斯的天秤",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/b/bb/Inazuma_Eleven_Ares_KV.jpg/300px-Inazuma_Eleven_Ares_KV.jpg"
+    },
+    {
+      "id": 49,
+      "name": "雷顿神秘侦探社～卡特莉的解谜事件簿～",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/a/a8/Layton_Mystery_Tanteisha_Anime_KV.jpg/300px-Layton_Mystery_Tanteisha_Anime_KV.jpg"
+    },
+    {
+      "id": 50,
+      "name": "最终休止符～无止境的螺旋物语～",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/c/c2/Last_Period_Anime.jpg/300px-Last_Period_Anime.jpg"
+    },
+    {
+      "id": 51,
+      "name": "Butlers～千年百年物语～",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/81/Butlers_Chitose_Momotose_Monogatari_KV.jpg/300px-Butlers_Chitose_Momotose_Monogatari_KV.jpg"
+    },
+    {
+      "id": 52,
+      "name": "SNS警察",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/6/6f/SNS_Police.png/300px-SNS_Police.png"
+    },
+    {
+      "id": 53,
+      "name": "温泉屋小女将",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/2/22/Waka_Okami.jpg/300px-Waka_Okami.jpg"
+    },
+    {
+      "id": 54,
+      "name": "信长的忍者～姊川·石山篇～",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/3/32/Nobunaga_no_Shinobi_KV3_2.jpg/300px-Nobunaga_no_Shinobi_KV3_2.jpg"
+    },
+    {
+      "id": 55,
+      "name": "ALICE or ALICE",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/8/8f/Alice_or_Alice_Anime_KV.jpg/300px-Alice_or_Alice_Anime_KV.jpg"
+    },
+    {
+      "id": 56,
+      "name": "敦君与女朋友",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/f9/Akkun_to_Kanojo_KV.jpg/300px-Akkun_to_Kanojo_KV.jpg"
+    },
+    {
+      "id": 57,
+      "name": "宇宙战舰提拉米斯",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/f0/Tiramisu_Anime_KV.jpg/300px-Tiramisu_Anime_KV.jpg"
+    },
+    {
+      "id": 58,
+      "name": "你还不了解群马",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/a/ad/Omagun_KV.jpg/300px-Omagun_KV.jpg"
+    },
+    {
+      "id": 59,
+      "name": "平交道时间",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/55/Fumikiri_Jikan_KV.jpg/300px-Fumikiri_Jikan_KV.jpg"
+    },
+    {
+      "id": 60,
+      "name": "立花馆恋爱三角关系",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/ff/Tachibana-kan_Anime_KV.jpg/300px-Tachibana-kan_Anime_KV.jpg"
+    },
+    {
+      "id": 61,
+      "name": "卡拉与蝌蚪岛",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/ff/Caratama.jpg/300px-Caratama.jpg"
+    },
+    {
+      "id": 62,
+      "name": "甜蜜惩罚～我是看守专用宠物",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/f/fe/Sweet_Punishment.jpg/300px-Sweet_Punishment.jpg"
+    },
+    {
+      "id": 63,
+      "name": "Ladyspo",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/5/53/Ladyspo.jpg/300px-Ladyspo.jpg"
+    },
+    {
+      "id": 64,
+      "name": "我们是妖怪人G",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/7/72/Youkai_Ningen_Short_G.jpg/300px-Youkai_Ningen_Short_G.jpg"
+    },
+    {
+      "id": 65,
+      "name": "TO BE HEROINE",
+      "avatar": "https://img.moegirl.org.cn/common/thumb/7/71/TO_BE_HEROINE.jpg/300px-TO_BE_HEROINE.jpg"
+    }
+  ]
+}
