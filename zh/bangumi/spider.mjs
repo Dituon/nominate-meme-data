@@ -72,8 +72,8 @@ async function saveBangumi(year, season) {
     })
 }
 
-const y = 2013
+const y = 2024
 // saveBangumi(y, '秋')
 // saveBangumi(y, '夏')
 // saveBangumi(y, '冬')
-saveBangumi(y, '夏')
+saveBangumi(y, '春')
