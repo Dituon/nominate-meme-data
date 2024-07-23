@@ -76,4 +76,4 @@ const y = 2024
 // saveBangumi(y, '秋')
 // saveBangumi(y, '夏')
 // saveBangumi(y, '冬')
-saveBangumi(y, '夏')
+saveBangumi(y, '秋')
